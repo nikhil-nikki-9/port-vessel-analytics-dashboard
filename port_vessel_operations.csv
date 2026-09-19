@@ -1,0 +1,2063 @@
+Date,VesselID,Port,Region,VesselType,CargoVolume_Tons,PredictedDelay_Min,ActualDelay_Min,DwellTime_Hours,FuelConsumption_Tons,OnTime
+2025-01-01,V1001,Cochin,South,Container,2396.7,27.0,39.1,14.8,46.9,False
+2025-01-01,V1002,Mumbai,West,Tanker,4916.5,0.0,11.4,8.9,95.3,True
+2025-01-01,V1003,Chennai,South,Bulk Carrier,2329.7,2.4,0.0,21.6,55.6,True
+2025-01-01,V1004,Chennai,South,Container,2369.9,23.1,16.9,23.7,59.9,True
+2025-01-01,V1005,Cochin,South,General Cargo,2463.1,0.0,0.0,18.0,46.5,True
+2025-01-01,V1006,Mumbai,West,General Cargo,10777.1,0.0,13.1,25.2,318.4,True
+2025-01-02,V1007,Kandla,West,Container,4821.0,0.0,0.0,14.8,92.6,True
+2025-01-02,V1008,Mumbai,West,Container,4408.3,0.0,1.6,23.3,117.1,True
+2025-01-02,V1009,Chennai,South,Bulk Carrier,1323.5,14.8,7.3,24.6,26.0,True
+2025-01-02,V1010,Visakhapatnam,East,General Cargo,4957.9,49.5,38.7,19.8,83.3,False
+2025-01-02,V1011,Mumbai,West,General Cargo,6606.3,44.3,53.9,20.0,150.9,False
+2025-01-02,V1012,Chennai,South,General Cargo,1409.1,10.0,9.3,24.3,40.3,True
+2025-01-02,V1013,Kandla,West,Bulk Carrier,2118.1,6.6,0.0,22.5,41.0,True
+2025-01-03,V1014,Kandla,West,General Cargo,6017.8,13.6,9.2,16.2,90.9,True
+2025-01-03,V1015,Kolkata,East,Container,2664.2,0.0,4.1,16.3,77.6,True
+2025-01-03,V1016,Chennai,South,Ro-Ro,1927.0,25.4,1.1,26.4,56.7,True
+2025-01-03,V1017,Kolkata,East,Tanker,1775.3,19.5,0.0,12.0,42.9,True
+2025-01-03,V1018,Chennai,South,Bulk Carrier,4193.7,3.5,3.6,16.4,72.0,True
+2025-01-03,V1019,Kolkata,East,Container,4806.8,28.5,28.4,11.1,89.2,True
+2025-01-03,V1020,Mumbai,West,Ro-Ro,6362.4,0.0,16.6,26.4,104.1,True
+2025-01-03,V1021,Mumbai,West,Tanker,7201.4,7.7,18.7,23.2,163.3,True
+2025-01-03,V1022,Kolkata,East,General Cargo,4313.3,36.2,21.6,12.5,125.3,True
+2025-01-03,V1023,Kolkata,East,Container,2722.6,10.3,0.0,21.3,74.2,True
+2025-01-03,V1024,Cochin,South,Ro-Ro,2771.8,54.1,84.6,16.8,79.0,False
+2025-01-04,V1025,Visakhapatnam,East,Container,7672.8,27.3,18.8,20.8,140.9,True
+2025-01-04,V1026,Kandla,West,Container,5726.5,0.0,9.4,13.1,158.8,True
+2025-01-04,V1027,Visakhapatnam,East,Tanker,2894.9,40.6,63.3,13.5,54.0,False
+2025-01-04,V1028,Cochin,South,General Cargo,3800.2,18.1,22.2,23.0,85.7,True
+2025-01-04,V1029,Kolkata,East,General Cargo,4500.0,13.4,46.0,12.9,69.1,False
+2025-01-04,V1030,Chennai,South,Container,2929.7,0.0,5.8,22.3,84.7,True
+2025-01-04,V1031,Mumbai,West,Bulk Carrier,2045.2,31.8,31.0,8.9,40.4,False
+2025-01-04,V1032,Kolkata,East,Container,3607.5,25.4,10.4,20.3,59.4,True
+2025-01-05,V1033,Chennai,South,Container,4269.6,32.9,39.0,41.1,105.7,False
+2025-01-05,V1034,Kandla,West,Tanker,2785.9,43.9,51.7,22.6,45.7,False
+2025-01-05,V1035,Kandla,West,Tanker,9112.2,7.9,8.8,6.8,217.4,True
+2025-01-05,V1036,Chennai,South,Tanker,3412.0,8.2,21.3,11.5,62.2,True
+2025-01-05,V1037,Kolkata,East,Bulk Carrier,3379.2,1.7,4.3,14.1,83.0,True
+2025-01-05,V1038,Cochin,South,Tanker,2285.8,0.0,2.2,23.1,37.0,True
+2025-01-05,V1039,Cochin,South,Container,1633.6,32.6,43.0,16.0,30.6,False
+2025-01-05,V1040,Visakhapatnam,East,Bulk Carrier,1569.1,64.1,69.0,23.5,40.9,False
+2025-01-05,V1041,Visakhapatnam,East,Bulk Carrier,1313.1,73.1,85.4,15.1,34.6,False
+2025-01-06,V1042,Chennai,South,Ro-Ro,1946.5,31.1,40.4,17.6,43.0,False
+2025-01-07,V1043,Kandla,West,Tanker,5737.8,56.0,38.8,18.1,100.1,False
+2025-01-07,V1044,Cochin,South,General Cargo,3421.8,25.0,17.8,15.7,80.9,True
+2025-01-07,V1045,Chennai,South,Tanker,8509.9,59.7,44.8,6.3,176.9,False
+2025-01-07,V1046,Mumbai,West,Bulk Carrier,2954.2,27.0,19.6,15.0,45.3,True
+2025-01-07,V1047,Mumbai,West,Tanker,3954.3,5.3,15.5,13.8,111.4,True
+2025-01-08,V1048,Kandla,West,Tanker,2938.9,33.7,31.3,24.6,77.3,False
+2025-01-08,V1049,Mumbai,West,Bulk Carrier,4620.3,52.6,52.9,16.1,70.1,False
+2025-01-08,V1050,Visakhapatnam,East,Tanker,3470.0,28.1,26.5,21.6,75.4,True
+2025-01-08,V1051,Chennai,South,Ro-Ro,5725.3,0.0,0.0,22.7,153.7,True
+2025-01-08,V1052,Kandla,West,Ro-Ro,3432.4,19.7,8.9,13.9,97.2,True
+2025-01-08,V1053,Chennai,South,Tanker,4064.0,0.0,0.0,14.6,67.1,True
+2025-01-08,V1054,Chennai,South,Bulk Carrier,2553.0,26.1,20.0,19.4,76.1,True
+2025-01-08,V1055,Cochin,South,General Cargo,2210.2,0.0,0.0,16.7,51.7,True
+2025-01-08,V1056,Visakhapatnam,East,Tanker,3267.3,41.4,39.5,12.0,72.0,False
+2025-01-09,V1057,Cochin,South,General Cargo,4224.0,51.8,61.0,18.5,81.5,False
+2025-01-09,V1058,Kandla,West,General Cargo,3421.5,11.4,16.9,23.9,55.1,True
+2025-01-10,V1059,Kandla,West,Tanker,1376.1,17.2,28.9,22.7,30.2,True
+2025-01-10,V1060,Chennai,South,Bulk Carrier,979.4,45.8,24.1,20.2,24.8,True
+2025-01-10,V1061,Visakhapatnam,East,Ro-Ro,4659.9,38.5,56.3,17.2,73.1,False
+2025-01-10,V1062,Mumbai,West,Container,3835.9,18.2,14.8,11.4,113.3,True
+2025-01-10,V1063,Mumbai,West,Bulk Carrier,621.2,26.9,30.2,12.6,9.8,False
+2025-01-10,V1064,Cochin,South,Bulk Carrier,6663.4,26.5,30.1,19.9,184.9,False
+2025-01-10,V1065,Cochin,South,Ro-Ro,1458.7,12.2,0.0,21.2,35.4,True
+2025-01-10,V1066,Visakhapatnam,East,Container,3735.5,0.0,0.0,30.3,85.2,True
+2025-01-10,V1067,Kandla,West,Ro-Ro,5404.2,24.2,38.1,19.0,91.9,False
+2025-01-11,V1068,Visakhapatnam,East,Ro-Ro,1652.0,46.5,25.4,5.8,33.4,True
+2025-01-11,V1069,Visakhapatnam,East,Tanker,6977.6,57.6,58.4,9.7,204.0,False
+2025-01-11,V1070,Visakhapatnam,East,Container,4007.1,0.0,0.0,17.8,79.9,True
+2025-01-11,V1071,Cochin,South,Container,3973.0,0.0,8.0,12.4,80.2,True
+2025-01-12,V1072,Cochin,South,General Cargo,3119.0,6.7,0.0,11.8,63.8,True
+2025-01-12,V1073,Kolkata,East,Tanker,2235.0,69.1,69.5,19.3,64.4,False
+2025-01-12,V1074,Mumbai,West,Tanker,4475.6,17.2,14.5,22.5,81.2,True
+2025-01-12,V1075,Kandla,West,Bulk Carrier,1317.0,13.1,0.0,26.2,34.5,True
+2025-01-12,V1076,Kandla,West,Container,11958.0,34.4,38.1,24.7,259.6,False
+2025-01-13,V1077,Cochin,South,Tanker,2138.8,0.0,0.0,15.9,51.1,True
+2025-01-13,V1078,Visakhapatnam,East,Bulk Carrier,2011.3,46.4,54.2,18.0,47.9,False
+2025-01-13,V1079,Visakhapatnam,East,Container,2675.4,9.0,28.0,14.0,66.1,True
+2025-01-13,V1080,Cochin,South,Tanker,3348.0,0.0,11.3,18.8,55.3,True
+2025-01-14,V1081,Cochin,South,General Cargo,4626.1,0.0,0.0,20.3,129.5,True
+2025-01-14,V1082,Visakhapatnam,East,Bulk Carrier,4780.5,17.9,11.0,21.2,111.6,True
+2025-01-14,V1083,Chennai,South,Tanker,4327.8,25.2,5.2,14.6,92.5,True
+2025-01-15,V1084,Chennai,South,General Cargo,1622.0,0.0,0.0,17.1,27.6,True
+2025-01-15,V1085,Visakhapatnam,East,Container,2402.3,9.8,21.9,24.6,57.5,True
+2025-01-15,V1086,Visakhapatnam,East,Tanker,2108.4,39.3,9.6,19.0,37.4,True
+2025-01-15,V1087,Kandla,West,Container,3038.9,22.2,23.3,17.3,81.8,True
+2025-01-15,V1088,Mumbai,West,Tanker,2609.3,22.8,17.0,21.3,59.6,True
+2025-01-16,V1089,Kolkata,East,Bulk Carrier,7114.3,45.9,46.1,16.6,164.7,False
+2025-01-16,V1090,Mumbai,West,Bulk Carrier,4814.7,40.6,43.4,19.0,96.4,False
+2025-01-16,V1091,Visakhapatnam,East,Container,2634.8,34.2,38.3,23.8,70.7,False
+2025-01-16,V1092,Mumbai,West,Ro-Ro,2041.4,22.1,16.5,27.1,57.5,True
+2025-01-16,V1093,Mumbai,West,General Cargo,2496.8,30.1,42.5,25.7,43.1,False
+2025-01-16,V1094,Chennai,South,Bulk Carrier,1952.2,8.9,18.0,26.3,45.2,True
+2025-01-16,V1095,Cochin,South,Ro-Ro,1586.2,45.2,35.9,19.0,33.3,False
+2025-01-17,V1096,Visakhapatnam,East,Bulk Carrier,4425.4,40.9,62.3,13.3,104.6,False
+2025-01-17,V1097,Kolkata,East,General Cargo,7736.7,31.8,15.7,12.1,230.3,True
+2025-01-17,V1098,Visakhapatnam,East,Ro-Ro,4287.8,16.9,47.3,17.1,116.0,False
+2025-01-17,V1099,Chennai,South,General Cargo,1538.8,9.3,19.6,10.2,33.5,True
+2025-01-17,V1100,Cochin,South,Bulk Carrier,2894.4,13.5,0.0,16.4,61.6,True
+2025-01-17,V1101,Cochin,South,Tanker,7622.1,14.2,22.6,24.8,190.2,True
+2025-01-18,V1102,Kandla,West,Tanker,2264.6,20.0,21.9,18.9,41.1,True
+2025-01-18,V1103,Kandla,West,General Cargo,10005.8,17.1,19.0,11.4,266.5,True
+2025-01-18,V1104,Kandla,West,Container,857.8,54.7,22.8,10.6,14.9,True
+2025-01-18,V1105,Chennai,South,Bulk Carrier,3048.4,27.2,24.2,21.2,75.2,True
+2025-01-19,V1106,Mumbai,West,Tanker,4706.5,43.4,58.7,11.2,77.9,False
+2025-01-19,V1107,Mumbai,West,General Cargo,1610.1,6.9,12.8,22.3,30.0,True
+2025-01-20,V1108,Visakhapatnam,East,Bulk Carrier,1589.5,0.0,21.2,13.1,37.9,True
+2025-01-20,V1109,Visakhapatnam,East,Bulk Carrier,5948.5,38.9,22.0,5.0,115.5,True
+2025-01-20,V1110,Mumbai,West,Container,2754.6,44.3,43.9,26.1,52.4,False
+2025-01-20,V1111,Cochin,South,Container,2338.8,73.9,81.9,15.5,69.6,False
+2025-01-20,V1112,Chennai,South,Container,1213.0,0.0,1.2,21.3,30.0,True
+2025-01-20,V1113,Mumbai,West,Tanker,6954.7,8.3,14.6,27.4,122.6,True
+2025-01-20,V1114,Mumbai,West,General Cargo,4006.2,16.0,25.7,3.8,70.1,True
+2025-01-20,V1115,Chennai,South,Tanker,1393.9,11.3,13.7,21.5,26.9,True
+2025-01-21,V1116,Cochin,South,Ro-Ro,9970.3,5.6,7.1,17.4,264.8,True
+2025-01-21,V1117,Chennai,South,General Cargo,2333.1,19.1,40.4,28.9,63.7,False
+2025-01-21,V1118,Chennai,South,General Cargo,4491.8,35.8,47.5,8.6,73.5,False
+2025-01-21,V1119,Visakhapatnam,East,Ro-Ro,3615.8,18.1,25.6,10.0,94.0,True
+2025-01-21,V1120,Chennai,South,Ro-Ro,4955.9,34.0,47.0,20.8,110.7,False
+2025-01-21,V1121,Kandla,West,Bulk Carrier,3790.5,30.7,33.2,10.3,58.8,False
+2025-01-21,V1122,Mumbai,West,Container,3232.3,0.0,12.6,22.1,89.4,True
+2025-01-21,V1123,Cochin,South,Ro-Ro,3468.4,43.5,37.3,15.2,58.3,False
+2025-01-22,V1124,Kolkata,East,Ro-Ro,2301.0,30.3,7.2,24.3,65.1,True
+2025-01-22,V1125,Kandla,West,Ro-Ro,4688.5,0.0,7.0,18.3,140.5,True
+2025-01-22,V1126,Cochin,South,Container,2497.0,50.6,42.4,3.1,70.2,False
+2025-01-22,V1127,Cochin,South,Container,2013.0,0.0,0.0,22.8,40.9,True
+2025-01-23,V1128,Mumbai,West,Ro-Ro,1777.5,0.0,0.0,22.1,47.6,True
+2025-01-23,V1129,Cochin,South,Tanker,9095.4,15.9,5.9,14.0,271.7,True
+2025-01-23,V1130,Mumbai,West,Bulk Carrier,1266.5,49.2,68.6,18.4,23.2,False
+2025-01-24,V1131,Chennai,South,Bulk Carrier,2063.4,55.5,48.7,20.8,37.9,False
+2025-01-24,V1132,Visakhapatnam,East,Ro-Ro,6749.9,25.1,6.9,28.8,190.1,True
+2025-01-24,V1133,Chennai,South,Ro-Ro,3817.6,4.7,0.0,20.0,88.8,True
+2025-01-24,V1134,Chennai,South,Tanker,1448.0,15.6,6.0,13.6,32.5,True
+2025-01-24,V1135,Kandla,West,Bulk Carrier,3271.8,7.1,9.7,25.1,78.2,True
+2025-01-24,V1136,Mumbai,West,Ro-Ro,4620.2,7.8,20.3,29.1,130.2,True
+2025-01-25,V1137,Visakhapatnam,East,Container,5846.5,15.8,17.6,13.1,159.4,True
+2025-01-25,V1138,Mumbai,West,General Cargo,3640.4,20.7,36.1,18.3,68.8,False
+2025-01-25,V1139,Mumbai,West,Container,2797.5,36.1,62.1,19.3,64.7,False
+2025-01-25,V1140,Chennai,South,Bulk Carrier,4462.4,17.6,21.0,19.1,129.7,True
+2025-01-25,V1141,Kandla,West,Ro-Ro,5517.6,8.8,11.2,11.8,130.9,True
+2025-01-25,V1142,Kandla,West,Bulk Carrier,2427.5,49.9,31.6,20.3,37.3,False
+2025-01-25,V1143,Kandla,West,Container,2432.7,59.1,58.3,29.3,72.9,False
+2025-01-25,V1144,Chennai,South,Ro-Ro,4117.9,0.0,0.0,15.0,75.4,True
+2025-01-25,V1145,Mumbai,West,Ro-Ro,1548.8,26.1,19.3,23.2,26.7,True
+2025-01-25,V1146,Kolkata,East,Ro-Ro,7615.1,36.3,35.1,11.6,145.5,False
+2025-01-25,V1147,Kolkata,East,Ro-Ro,2901.5,18.9,21.8,20.1,44.9,True
+2025-01-25,V1148,Cochin,South,General Cargo,3160.4,0.0,17.3,24.7,56.2,True
+2025-01-25,V1149,Cochin,South,Ro-Ro,4382.5,28.6,34.0,20.7,106.9,False
+2025-01-26,V1150,Chennai,South,Bulk Carrier,2266.2,17.8,35.0,28.8,50.7,False
+2025-01-26,V1151,Kolkata,East,Bulk Carrier,4971.1,23.2,15.0,14.1,108.5,True
+2025-01-26,V1152,Mumbai,West,General Cargo,1253.8,8.7,0.0,22.6,35.0,True
+2025-01-27,V1153,Cochin,South,General Cargo,6628.1,19.9,6.0,23.3,100.4,True
+2025-01-27,V1154,Mumbai,West,Tanker,2892.1,25.2,0.7,13.9,46.8,True
+2025-01-27,V1155,Mumbai,West,Container,7468.7,0.0,0.0,21.8,134.5,True
+2025-01-28,V1156,Visakhapatnam,East,Ro-Ro,4025.2,65.3,69.6,22.1,80.9,False
+2025-01-28,V1157,Visakhapatnam,East,General Cargo,2970.5,22.9,34.3,25.9,68.0,False
+2025-01-28,V1158,Chennai,South,Container,1822.3,10.8,13.2,14.8,45.3,True
+2025-01-28,V1159,Visakhapatnam,East,Container,1938.8,94.1,93.0,22.5,57.4,False
+2025-01-29,V1160,Chennai,South,Container,4036.9,13.6,0.0,21.9,86.3,True
+2025-01-29,V1161,Visakhapatnam,East,Container,3702.1,0.0,0.0,24.3,95.8,True
+2025-01-29,V1162,Cochin,South,Bulk Carrier,3011.4,47.0,46.5,23.3,71.9,False
+2025-01-29,V1163,Kandla,West,Container,2335.1,56.9,73.5,20.4,66.9,False
+2025-01-30,V1164,Visakhapatnam,East,Bulk Carrier,752.9,16.1,28.8,19.4,13.1,True
+2025-01-30,V1165,Visakhapatnam,East,General Cargo,4895.9,29.4,28.3,10.5,130.2,True
+2025-01-30,V1166,Mumbai,West,General Cargo,846.1,0.0,0.0,19.5,18.2,True
+2025-01-30,V1167,Mumbai,West,Ro-Ro,2055.8,36.2,19.5,21.1,32.0,True
+2025-01-30,V1168,Cochin,South,General Cargo,5866.7,41.2,55.8,17.5,139.5,False
+2025-01-30,V1169,Visakhapatnam,East,General Cargo,2768.1,12.4,17.0,14.7,63.6,True
+2025-01-31,V1170,Kolkata,East,Tanker,2385.8,15.3,20.6,18.1,71.1,True
+2025-01-31,V1171,Chennai,South,Tanker,3075.1,23.5,28.9,24.5,68.7,True
+2025-01-31,V1172,Chennai,South,Tanker,1932.5,0.0,4.8,21.9,57.1,True
+2025-02-01,V1173,Kandla,West,Bulk Carrier,5253.3,19.2,43.3,19.8,81.2,False
+2025-02-01,V1174,Cochin,South,Tanker,1770.6,24.9,30.3,22.0,37.0,False
+2025-02-01,V1175,Kandla,West,Tanker,5353.0,0.7,4.3,16.5,125.8,True
+2025-02-01,V1176,Mumbai,West,Container,1164.8,34.1,38.4,12.4,31.6,False
+2025-02-01,V1177,Kandla,West,General Cargo,6059.1,38.0,45.7,16.4,140.4,False
+2025-02-01,V1178,Visakhapatnam,East,Container,1997.5,0.0,0.0,27.3,37.1,True
+2025-02-01,V1179,Mumbai,West,General Cargo,3601.2,0.0,0.0,13.8,87.5,True
+2025-02-02,V1180,Chennai,South,General Cargo,6470.2,0.0,0.0,7.1,156.1,True
+2025-02-02,V1181,Kolkata,East,Bulk Carrier,2883.4,37.0,43.9,20.4,45.9,False
+2025-02-02,V1182,Kolkata,East,Container,3242.3,15.3,21.9,12.3,62.5,True
+2025-02-02,V1183,Chennai,South,Tanker,979.9,44.3,36.9,20.4,25.2,False
+2025-02-02,V1184,Kolkata,East,Bulk Carrier,3074.0,4.9,0.0,17.0,54.5,True
+2025-02-03,V1185,Kandla,West,General Cargo,4182.0,5.5,6.3,18.8,114.1,True
+2025-02-03,V1186,Cochin,South,Tanker,4238.1,12.9,17.7,10.2,117.0,True
+2025-02-03,V1187,Visakhapatnam,East,General Cargo,4762.4,13.1,22.1,13.8,130.2,True
+2025-02-03,V1188,Mumbai,West,General Cargo,3730.2,65.5,55.6,13.3,88.8,False
+2025-02-03,V1189,Kolkata,East,Container,2726.6,33.1,24.3,20.7,41.9,True
+2025-02-03,V1190,Chennai,South,Tanker,1296.7,50.6,70.1,19.6,31.0,False
+2025-02-03,V1191,Mumbai,West,Container,4067.2,27.9,27.8,13.4,87.1,True
+2025-02-04,V1192,Cochin,South,General Cargo,2388.8,0.0,0.0,16.8,38.3,True
+2025-02-04,V1193,Chennai,South,Tanker,5414.9,4.5,12.9,18.7,124.5,True
+2025-02-04,V1194,Kolkata,East,General Cargo,4648.5,0.0,0.0,29.7,102.2,True
+2025-02-04,V1195,Chennai,South,Tanker,1870.2,22.4,14.2,21.8,30.8,True
+2025-02-04,V1196,Chennai,South,Tanker,6122.0,59.6,55.9,10.7,177.0,False
+2025-02-04,V1197,Visakhapatnam,East,Ro-Ro,3427.4,6.7,0.0,22.7,78.2,True
+2025-02-04,V1198,Kolkata,East,Container,2471.9,1.3,4.0,20.2,66.1,True
+2025-02-05,V1199,Mumbai,West,Ro-Ro,3452.5,2.4,0.0,22.2,72.3,True
+2025-02-05,V1200,Kolkata,East,Container,4961.3,73.9,60.3,18.2,148.3,False
+2025-02-05,V1201,Mumbai,West,Tanker,2600.4,10.4,15.9,25.0,72.9,True
+2025-02-06,V1202,Chennai,South,Tanker,3387.9,0.0,15.8,19.0,57.6,True
+2025-02-06,V1203,Chennai,South,Ro-Ro,2301.2,81.6,78.0,21.2,48.3,False
+2025-02-06,V1204,Visakhapatnam,East,Ro-Ro,4254.7,10.7,0.0,18.3,83.7,True
+2025-02-06,V1205,Visakhapatnam,East,Container,3812.7,0.0,3.5,13.2,92.6,True
+2025-02-06,V1206,Mumbai,West,Container,2249.8,0.0,5.0,17.6,35.7,True
+2025-02-07,V1207,Cochin,South,Bulk Carrier,3327.1,27.6,20.0,13.6,90.5,True
+2025-02-07,V1208,Visakhapatnam,East,Container,4237.9,0.0,10.9,31.7,71.9,True
+2025-02-07,V1209,Kolkata,East,General Cargo,2500.9,16.8,28.7,11.0,68.6,True
+2025-02-07,V1210,Visakhapatnam,East,Bulk Carrier,3248.8,42.0,51.1,17.0,49.7,False
+2025-02-07,V1211,Kandla,West,Bulk Carrier,3491.2,41.6,32.0,11.3,53.0,False
+2025-02-08,V1212,Mumbai,West,Tanker,5750.4,0.0,0.0,12.8,118.7,True
+2025-02-08,V1213,Kolkata,East,Container,3815.7,0.0,0.0,19.2,102.3,True
+2025-02-08,V1214,Kolkata,East,Bulk Carrier,1240.1,48.6,35.1,15.6,19.3,False
+2025-02-08,V1215,Cochin,South,Bulk Carrier,6376.7,17.8,28.8,25.3,156.5,True
+2025-02-08,V1216,Cochin,South,Container,1643.3,4.0,6.0,18.4,37.3,True
+2025-02-08,V1217,Kolkata,East,General Cargo,3725.4,14.3,15.4,15.3,59.9,True
+2025-02-08,V1218,Kandla,West,General Cargo,1881.7,0.0,15.6,10.0,46.9,True
+2025-02-09,V1219,Cochin,South,Bulk Carrier,4460.8,0.5,11.0,25.9,80.7,True
+2025-02-09,V1220,Chennai,South,Bulk Carrier,4534.0,27.0,15.9,25.3,70.9,True
+2025-02-09,V1221,Chennai,South,Ro-Ro,4759.4,56.4,78.0,21.6,80.5,False
+2025-02-10,V1222,Mumbai,West,Bulk Carrier,3858.6,14.5,11.1,22.9,105.1,True
+2025-02-10,V1223,Cochin,South,Tanker,2889.7,15.8,19.2,27.6,74.9,True
+2025-02-10,V1224,Kandla,West,Bulk Carrier,3621.9,36.6,50.7,10.2,105.3,False
+2025-02-10,V1225,Kolkata,East,Bulk Carrier,2470.3,30.0,22.2,21.5,68.2,True
+2025-02-10,V1226,Cochin,South,Container,3732.5,27.7,48.1,33.6,87.6,False
+2025-02-10,V1227,Kandla,West,Container,6059.1,38.8,43.4,22.0,132.8,False
+2025-02-10,V1228,Kandla,West,Bulk Carrier,2397.2,14.8,4.6,21.5,62.3,True
+2025-02-10,V1229,Chennai,South,Ro-Ro,5821.6,0.0,5.3,14.3,87.8,True
+2025-02-11,V1230,Kolkata,East,Tanker,4708.0,0.0,0.0,15.8,96.6,True
+2025-02-11,V1231,Chennai,South,Bulk Carrier,3702.6,63.2,58.4,23.6,78.5,False
+2025-02-11,V1232,Mumbai,West,Bulk Carrier,2437.4,0.0,15.2,33.3,38.9,True
+2025-02-11,V1233,Kandla,West,Tanker,8280.2,58.6,82.6,25.3,224.2,False
+2025-02-11,V1234,Kolkata,East,Container,2081.2,39.5,32.8,18.0,41.7,False
+2025-02-12,V1235,Kolkata,East,Tanker,4510.9,17.9,16.5,11.9,110.7,True
+2025-02-12,V1236,Cochin,South,General Cargo,3771.8,66.4,62.2,15.8,88.9,False
+2025-02-12,V1237,Kandla,West,General Cargo,3938.0,47.2,32.2,18.8,76.7,False
+2025-02-12,V1238,Kolkata,East,Container,2975.3,0.0,12.4,21.1,65.1,True
+2025-02-12,V1239,Mumbai,West,Tanker,3211.8,6.7,0.0,17.8,69.2,True
+2025-02-12,V1240,Chennai,South,General Cargo,4830.8,64.3,75.1,12.0,126.9,False
+2025-02-12,V1241,Kolkata,East,Container,3513.9,27.5,31.8,17.4,66.5,False
+2025-02-13,V1242,Mumbai,West,General Cargo,3275.9,14.9,8.6,3.5,66.2,True
+2025-02-13,V1243,Kandla,West,Tanker,3452.8,42.1,45.1,8.6,89.6,False
+2025-02-13,V1244,Cochin,South,Tanker,4376.9,6.8,0.0,20.8,105.6,True
+2025-02-13,V1245,Kandla,West,General Cargo,2786.0,19.1,9.4,13.6,77.3,True
+2025-02-13,V1246,Visakhapatnam,East,Container,10346.2,0.0,12.2,20.6,165.7,True
+2025-02-13,V1247,Kandla,West,General Cargo,7509.8,37.3,41.9,11.6,131.3,False
+2025-02-13,V1248,Chennai,South,Tanker,8117.4,0.0,0.0,21.7,129.3,True
+2025-02-14,V1249,Mumbai,West,Ro-Ro,2496.2,71.4,62.9,18.7,45.1,False
+2025-02-14,V1250,Mumbai,West,General Cargo,4262.1,60.6,56.3,23.3,98.4,False
+2025-02-14,V1251,Visakhapatnam,East,Bulk Carrier,3290.7,18.1,6.4,15.4,87.6,True
+2025-02-14,V1252,Kolkata,East,Ro-Ro,3658.0,48.7,26.7,29.2,98.7,True
+2025-02-14,V1253,Mumbai,West,Tanker,2980.3,47.0,56.2,20.9,80.2,False
+2025-02-15,V1254,Visakhapatnam,East,Tanker,4085.2,0.0,0.0,13.6,115.4,True
+2025-02-15,V1255,Cochin,South,Container,6381.1,25.1,25.4,19.6,159.6,True
+2025-02-15,V1256,Cochin,South,Tanker,4094.5,18.9,6.1,10.9,62.2,True
+2025-02-15,V1257,Visakhapatnam,East,Tanker,10076.8,13.6,27.9,13.2,280.9,True
+2025-02-15,V1258,Cochin,South,Ro-Ro,6131.3,34.9,36.9,16.2,167.5,False
+2025-02-15,V1259,Kolkata,East,Ro-Ro,2359.4,0.0,0.0,15.0,41.5,True
+2025-02-16,V1260,Cochin,South,Tanker,892.4,44.8,36.9,25.3,18.1,False
+2025-02-16,V1261,Visakhapatnam,East,Bulk Carrier,5893.7,58.0,56.8,12.6,148.2,False
+2025-02-16,V1262,Chennai,South,Ro-Ro,1720.1,28.1,42.4,19.7,31.7,False
+2025-02-16,V1263,Cochin,South,Ro-Ro,4829.5,13.5,7.4,18.8,94.6,True
+2025-02-17,V1264,Cochin,South,Bulk Carrier,3619.3,68.5,74.6,22.3,90.4,False
+2025-02-17,V1265,Visakhapatnam,East,General Cargo,2901.4,36.7,41.6,12.2,63.0,False
+2025-02-18,V1266,Kolkata,East,Ro-Ro,3639.3,23.8,27.7,15.4,104.3,True
+2025-02-18,V1267,Visakhapatnam,East,Container,4478.2,38.8,47.6,23.3,86.1,False
+2025-02-18,V1268,Kolkata,East,Tanker,7589.7,6.8,11.2,6.7,182.0,True
+2025-02-18,V1269,Chennai,South,Ro-Ro,1780.6,12.6,0.0,20.6,42.6,True
+2025-02-18,V1270,Visakhapatnam,East,General Cargo,3017.5,42.5,41.2,18.5,90.3,False
+2025-02-18,V1271,Cochin,South,Tanker,5734.6,8.3,9.2,20.1,95.9,True
+2025-02-18,V1272,Kandla,West,Ro-Ro,4241.1,49.1,60.8,21.9,91.0,False
+2025-02-19,V1273,Kandla,West,Bulk Carrier,3352.3,87.2,75.6,31.0,98.1,False
+2025-02-19,V1274,Visakhapatnam,East,Ro-Ro,4469.2,15.6,33.4,14.3,84.1,False
+2025-02-19,V1275,Cochin,South,Bulk Carrier,770.2,24.9,19.6,15.4,22.8,True
+2025-02-19,V1276,Cochin,South,Container,865.2,2.7,0.0,9.0,15.7,True
+2025-02-19,V1277,Kolkata,East,General Cargo,3311.9,39.0,36.5,16.1,89.5,False
+2025-02-19,V1278,Cochin,South,General Cargo,10598.1,1.2,7.0,17.0,172.8,True
+2025-02-19,V1279,Kolkata,East,Container,3785.0,36.8,26.1,24.5,84.8,True
+2025-02-19,V1280,Chennai,South,Tanker,2297.9,20.5,15.7,7.2,65.8,True
+2025-02-19,V1281,Chennai,South,Bulk Carrier,6705.0,0.0,9.3,15.1,126.5,True
+2025-02-19,V1282,Chennai,South,Container,2349.9,23.7,25.4,16.4,51.3,True
+2025-02-20,V1283,Mumbai,West,Bulk Carrier,2301.8,0.0,0.0,25.4,47.0,True
+2025-02-20,V1284,Kandla,West,General Cargo,3332.6,48.9,47.7,19.2,93.7,False
+2025-02-20,V1285,Mumbai,West,Ro-Ro,3963.0,39.0,31.6,18.4,67.9,False
+2025-02-20,V1286,Kandla,West,General Cargo,2954.2,1.4,1.0,34.1,46.3,True
+2025-02-21,V1287,Chennai,South,Ro-Ro,1750.2,7.9,0.0,26.4,47.8,True
+2025-02-21,V1288,Kandla,West,Ro-Ro,2243.7,13.7,0.0,25.8,57.4,True
+2025-02-21,V1289,Chennai,South,Bulk Carrier,6569.7,0.0,0.0,11.4,186.3,True
+2025-02-21,V1290,Cochin,South,Container,2612.8,14.6,3.1,25.9,52.5,True
+2025-02-21,V1291,Mumbai,West,Ro-Ro,2216.4,54.9,53.1,23.8,45.4,False
+2025-02-21,V1292,Chennai,South,Bulk Carrier,2566.0,60.4,83.1,15.2,57.9,False
+2025-02-21,V1293,Cochin,South,General Cargo,4056.7,19.6,18.4,17.5,70.6,True
+2025-02-21,V1294,Kandla,West,Container,2725.3,10.7,0.0,22.2,65.5,True
+2025-02-22,V1295,Visakhapatnam,East,Bulk Carrier,8832.3,11.7,32.4,16.7,172.5,False
+2025-02-22,V1296,Mumbai,West,Ro-Ro,2341.5,50.7,41.2,10.4,69.1,False
+2025-02-22,V1297,Chennai,South,Ro-Ro,4764.0,0.0,0.0,17.0,116.2,True
+2025-02-22,V1298,Cochin,South,General Cargo,2831.2,0.0,0.0,19.8,66.6,True
+2025-02-22,V1299,Visakhapatnam,East,General Cargo,4232.1,42.5,27.7,17.8,98.0,True
+2025-02-22,V1300,Kolkata,East,Ro-Ro,4173.4,5.8,8.9,15.8,112.3,True
+2025-02-22,V1301,Visakhapatnam,East,General Cargo,2703.1,27.0,34.5,17.3,80.3,False
+2025-02-22,V1302,Kandla,West,General Cargo,3212.2,0.0,13.5,9.3,58.0,True
+2025-02-23,V1303,Kandla,West,Bulk Carrier,2960.0,0.0,14.0,21.6,72.2,True
+2025-02-23,V1304,Cochin,South,Ro-Ro,2901.2,0.0,23.5,13.4,56.5,True
+2025-02-23,V1305,Kandla,West,Tanker,2466.1,30.2,43.9,23.7,47.9,False
+2025-02-23,V1306,Chennai,South,Tanker,4693.4,32.8,39.0,22.8,116.8,False
+2025-02-23,V1307,Visakhapatnam,East,Ro-Ro,4137.2,38.9,45.9,17.8,66.9,False
+2025-02-23,V1308,Cochin,South,Bulk Carrier,1210.3,0.0,0.0,13.2,32.8,True
+2025-02-23,V1309,Kolkata,East,Ro-Ro,4463.9,12.3,12.7,18.0,120.2,True
+2025-02-23,V1310,Mumbai,West,Tanker,3444.3,0.0,0.0,8.4,63.7,True
+2025-02-23,V1311,Chennai,South,Tanker,2329.1,0.9,11.4,23.0,46.2,True
+2025-02-23,V1312,Kolkata,East,Tanker,3076.9,15.2,0.0,18.4,62.7,True
+2025-02-23,V1313,Visakhapatnam,East,Container,3911.7,26.9,16.7,2.0,93.1,True
+2025-02-23,V1314,Chennai,South,Bulk Carrier,3636.7,24.6,16.8,22.8,99.4,True
+2025-02-24,V1315,Chennai,South,Ro-Ro,1921.6,0.0,4.0,13.1,28.8,True
+2025-02-24,V1316,Cochin,South,Bulk Carrier,3326.6,48.0,40.5,16.0,91.8,False
+2025-02-24,V1317,Cochin,South,Bulk Carrier,5644.7,23.9,13.6,9.9,156.0,True
+2025-02-24,V1318,Mumbai,West,Ro-Ro,2283.2,0.0,12.3,23.1,47.2,True
+2025-02-24,V1319,Kandla,West,Tanker,8028.8,16.6,15.8,26.5,121.0,True
+2025-02-24,V1320,Visakhapatnam,East,Ro-Ro,2083.5,43.2,49.4,18.5,40.6,False
+2025-02-24,V1321,Kandla,West,Container,2833.3,24.9,27.4,17.2,83.2,True
+2025-02-25,V1322,Chennai,South,Ro-Ro,6489.4,8.7,3.3,15.6,161.3,True
+2025-02-25,V1323,Kandla,West,General Cargo,3171.1,32.1,44.5,23.8,61.6,False
+2025-02-25,V1324,Cochin,South,Container,1976.8,60.1,64.6,24.5,41.4,False
+2025-02-25,V1325,Visakhapatnam,East,Ro-Ro,4527.0,0.0,0.0,12.7,71.8,True
+2025-02-25,V1326,Kandla,West,Container,1856.7,0.0,0.5,8.8,28.4,True
+2025-02-25,V1327,Kolkata,East,Tanker,1865.9,0.0,0.0,22.7,44.6,True
+2025-02-26,V1328,Kandla,West,Ro-Ro,5617.0,0.0,0.0,18.7,166.5,True
+2025-02-26,V1329,Visakhapatnam,East,General Cargo,4428.6,58.7,66.8,23.9,100.8,False
+2025-02-26,V1330,Visakhapatnam,East,Bulk Carrier,1362.0,1.4,0.0,23.9,40.3,True
+2025-02-27,V1331,Kandla,West,Bulk Carrier,3000.0,0.0,0.0,17.4,78.6,True
+2025-02-27,V1332,Kolkata,East,Ro-Ro,3229.6,0.0,0.0,18.1,95.1,True
+2025-02-27,V1333,Kandla,West,Container,2301.8,25.8,23.3,15.7,56.0,True
+2025-02-27,V1334,Kandla,West,Tanker,6383.2,12.1,16.8,21.0,132.9,True
+2025-02-27,V1335,Cochin,South,Ro-Ro,4989.0,48.5,34.5,16.6,110.0,False
+2025-02-27,V1336,Cochin,South,Bulk Carrier,4487.8,31.7,35.6,13.0,76.4,False
+2025-02-28,V1337,Kandla,West,Bulk Carrier,6276.4,72.2,70.1,14.6,109.8,False
+2025-02-28,V1338,Visakhapatnam,East,General Cargo,2861.5,17.9,0.8,20.7,53.3,True
+2025-02-28,V1339,Mumbai,West,Ro-Ro,4162.3,29.3,10.1,13.7,101.3,True
+2025-02-28,V1340,Visakhapatnam,East,General Cargo,3333.1,23.9,29.0,17.5,85.9,True
+2025-02-28,V1341,Cochin,South,Container,1535.3,0.0,8.6,19.4,40.8,True
+2025-02-28,V1342,Mumbai,West,Ro-Ro,3298.8,0.0,0.0,21.7,60.8,True
+2025-03-01,V1343,Chennai,South,Ro-Ro,2530.5,14.8,14.6,15.8,53.1,True
+2025-03-01,V1344,Chennai,South,Container,1236.4,3.8,0.0,6.8,33.2,True
+2025-03-01,V1345,Kolkata,East,Ro-Ro,1257.7,45.2,50.1,10.7,22.5,False
+2025-03-01,V1346,Kolkata,East,Bulk Carrier,3356.5,38.3,20.0,15.6,98.2,True
+2025-03-01,V1347,Kandla,West,Tanker,8034.1,37.2,18.7,27.7,154.6,True
+2025-03-01,V1348,Kolkata,East,Ro-Ro,2824.1,22.6,32.0,16.9,75.4,False
+2025-03-02,V1349,Kolkata,East,Ro-Ro,4125.6,43.0,38.6,2.4,112.1,False
+2025-03-02,V1350,Kolkata,East,Container,5241.0,25.0,19.2,22.1,90.5,True
+2025-03-02,V1351,Kandla,West,Container,5466.5,49.8,51.1,15.0,92.5,False
+2025-03-02,V1352,Cochin,South,General Cargo,563.1,18.0,26.2,11.5,10.4,True
+2025-03-02,V1353,Mumbai,West,Tanker,4925.7,0.0,14.6,7.6,97.9,True
+2025-03-03,V1354,Chennai,South,Container,4005.2,3.1,24.7,20.5,117.3,True
+2025-03-03,V1355,Cochin,South,Container,4863.8,55.0,36.0,15.7,110.4,False
+2025-03-03,V1356,Mumbai,West,Bulk Carrier,3578.1,26.3,0.0,21.2,92.0,True
+2025-03-03,V1357,Chennai,South,Container,3173.8,42.2,52.0,22.0,60.7,False
+2025-03-03,V1358,Visakhapatnam,East,Bulk Carrier,4320.9,30.5,24.1,20.6,111.9,True
+2025-03-03,V1359,Chennai,South,Bulk Carrier,3453.9,39.5,47.1,11.4,92.5,False
+2025-03-03,V1360,Kandla,West,Container,6467.6,10.3,1.8,8.9,165.4,True
+2025-03-03,V1361,Visakhapatnam,East,Bulk Carrier,6136.7,11.1,13.4,18.0,158.2,True
+2025-03-03,V1362,Kandla,West,Tanker,3785.7,3.5,0.6,5.1,64.3,True
+2025-03-03,V1363,Kolkata,East,Bulk Carrier,1845.0,47.4,34.0,24.4,34.6,False
+2025-03-03,V1364,Visakhapatnam,East,General Cargo,7883.2,35.4,48.8,15.8,183.1,False
+2025-03-04,V1365,Cochin,South,Container,1145.5,23.6,17.2,15.4,23.6,True
+2025-03-04,V1366,Chennai,South,Tanker,4242.5,15.9,17.8,10.9,90.3,True
+2025-03-04,V1367,Mumbai,West,General Cargo,3769.2,33.0,28.1,15.0,112.0,True
+2025-03-04,V1368,Mumbai,West,Tanker,2157.8,0.0,0.4,27.1,55.2,True
+2025-03-04,V1369,Visakhapatnam,East,Ro-Ro,1943.3,4.7,0.0,13.0,43.2,True
+2025-03-04,V1370,Kandla,West,Bulk Carrier,1854.6,3.4,0.0,18.5,30.0,True
+2025-03-05,V1371,Mumbai,West,General Cargo,6191.1,29.9,50.0,25.1,149.5,False
+2025-03-05,V1372,Cochin,South,Bulk Carrier,1957.9,45.3,31.9,16.7,46.6,False
+2025-03-05,V1373,Mumbai,West,Tanker,5753.9,26.9,39.5,18.3,108.2,False
+2025-03-06,V1374,Cochin,South,General Cargo,3008.6,13.6,13.3,19.9,64.7,True
+2025-03-06,V1375,Mumbai,West,General Cargo,1233.4,24.7,19.5,18.1,29.8,True
+2025-03-06,V1376,Mumbai,West,Tanker,4637.0,17.8,2.3,20.2,70.5,True
+2025-03-06,V1377,Visakhapatnam,East,Ro-Ro,2247.3,34.2,24.8,28.2,54.2,True
+2025-03-06,V1378,Cochin,South,Tanker,3730.0,12.5,5.5,20.4,102.0,True
+2025-03-06,V1379,Mumbai,West,General Cargo,4752.5,31.3,32.2,26.5,123.9,False
+2025-03-06,V1380,Cochin,South,Tanker,3365.8,37.0,27.9,18.9,77.7,True
+2025-03-07,V1381,Mumbai,West,Ro-Ro,888.2,39.2,19.8,14.7,19.2,True
+2025-03-07,V1382,Kandla,West,Container,3307.1,41.5,33.2,15.0,82.1,False
+2025-03-07,V1383,Kandla,West,Tanker,2522.1,56.1,47.7,22.7,68.6,False
+2025-03-07,V1384,Cochin,South,Ro-Ro,3902.0,28.5,20.2,11.5,88.7,True
+2025-03-07,V1385,Cochin,South,Bulk Carrier,4306.1,0.0,0.0,20.9,84.5,True
+2025-03-07,V1386,Kandla,West,Bulk Carrier,1463.9,33.7,19.9,16.6,34.1,True
+2025-03-07,V1387,Cochin,South,General Cargo,3324.8,0.0,0.0,23.5,92.7,True
+2025-03-07,V1388,Cochin,South,Tanker,6871.1,32.1,27.4,20.8,121.5,True
+2025-03-08,V1389,Visakhapatnam,East,General Cargo,5149.4,0.0,11.7,16.3,104.6,True
+2025-03-08,V1390,Kandla,West,Ro-Ro,2796.4,30.6,28.0,9.5,44.4,True
+2025-03-08,V1391,Kandla,West,General Cargo,2419.2,35.0,18.5,18.7,56.5,True
+2025-03-08,V1392,Kolkata,East,Tanker,1004.8,31.1,12.1,24.5,17.7,True
+2025-03-09,V1393,Chennai,South,Container,2645.5,46.4,35.6,15.2,75.2,False
+2025-03-09,V1394,Kolkata,East,Ro-Ro,1380.2,0.0,0.5,17.7,32.3,True
+2025-03-09,V1395,Chennai,South,Ro-Ro,5333.3,0.9,18.4,25.5,145.7,True
+2025-03-09,V1396,Visakhapatnam,East,General Cargo,5889.7,23.3,22.7,16.6,104.6,True
+2025-03-09,V1397,Cochin,South,Ro-Ro,3191.7,55.8,46.2,16.3,73.8,False
+2025-03-09,V1398,Kolkata,East,Container,3677.7,43.5,36.2,16.2,110.2,False
+2025-03-09,V1399,Kandla,West,Tanker,4487.3,53.7,31.1,10.5,71.9,False
+2025-03-10,V1400,Chennai,South,Ro-Ro,1702.0,0.0,7.8,19.6,27.2,True
+2025-03-10,V1401,Chennai,South,Tanker,6498.5,57.8,63.3,22.5,148.0,False
+2025-03-10,V1402,Kolkata,East,Tanker,2027.4,35.6,40.5,13.7,36.3,False
+2025-03-10,V1403,Kolkata,East,General Cargo,4164.3,33.2,36.8,21.2,103.3,False
+2025-03-10,V1404,Cochin,South,Tanker,5202.6,56.0,58.3,17.4,133.9,False
+2025-03-11,V1405,Visakhapatnam,East,Container,3037.2,0.0,10.2,12.6,83.0,True
+2025-03-11,V1406,Visakhapatnam,East,Bulk Carrier,4439.0,58.0,71.3,11.4,129.1,False
+2025-03-11,V1407,Mumbai,West,Bulk Carrier,5594.3,42.3,25.2,21.6,102.3,True
+2025-03-11,V1408,Cochin,South,Ro-Ro,4483.5,0.0,0.0,21.3,118.4,True
+2025-03-12,V1409,Kandla,West,General Cargo,1271.2,35.6,39.8,10.6,36.2,False
+2025-03-12,V1410,Chennai,South,Ro-Ro,4728.8,49.1,45.2,15.2,111.8,False
+2025-03-12,V1411,Cochin,South,Ro-Ro,4472.0,36.1,45.2,17.4,75.8,False
+2025-03-12,V1412,Kandla,West,Container,3073.6,7.4,6.9,7.1,76.3,True
+2025-03-13,V1413,Mumbai,West,Tanker,5559.8,36.0,40.7,23.8,132.3,False
+2025-03-13,V1414,Chennai,South,Ro-Ro,3341.4,28.3,30.0,28.6,69.6,False
+2025-03-13,V1415,Cochin,South,Bulk Carrier,1428.2,7.7,13.7,16.8,32.7,True
+2025-03-14,V1416,Kolkata,East,General Cargo,2502.9,34.0,57.5,21.3,43.8,False
+2025-03-14,V1417,Kolkata,East,Ro-Ro,3306.4,16.0,39.5,10.1,57.3,False
+2025-03-14,V1418,Visakhapatnam,East,General Cargo,7139.0,41.7,56.5,15.6,178.6,False
+2025-03-14,V1419,Kolkata,East,Ro-Ro,3925.8,65.5,61.5,21.1,100.1,False
+2025-03-14,V1420,Cochin,South,General Cargo,4164.5,53.3,58.3,12.1,87.6,False
+2025-03-14,V1421,Kolkata,East,Tanker,1687.3,96.5,99.4,18.9,40.3,False
+2025-03-14,V1422,Cochin,South,Ro-Ro,3046.8,39.1,33.5,13.2,73.4,False
+2025-03-15,V1423,Kolkata,East,Tanker,4925.3,16.3,19.3,25.2,78.5,True
+2025-03-15,V1424,Kolkata,East,Bulk Carrier,2972.9,17.0,10.8,20.1,86.4,True
+2025-03-15,V1425,Mumbai,West,Bulk Carrier,2173.3,27.7,25.2,14.0,47.9,True
+2025-03-15,V1426,Kolkata,East,Container,2833.0,2.4,0.0,7.8,76.4,True
+2025-03-15,V1427,Cochin,South,General Cargo,1810.2,8.4,0.0,15.7,36.8,True
+2025-03-15,V1428,Cochin,South,Bulk Carrier,3622.6,5.5,0.0,15.7,73.0,True
+2025-03-15,V1429,Chennai,South,Bulk Carrier,2043.2,28.3,27.9,26.1,34.9,True
+2025-03-15,V1430,Cochin,South,Ro-Ro,10456.8,27.1,29.3,9.4,233.4,True
+2025-03-15,V1431,Kolkata,East,General Cargo,2062.5,39.5,38.6,10.9,53.4,False
+2025-03-15,V1432,Visakhapatnam,East,General Cargo,4911.3,0.0,22.0,15.5,113.3,True
+2025-03-15,V1433,Kolkata,East,Container,4981.3,40.1,36.8,28.2,111.5,False
+2025-03-16,V1434,Chennai,South,Tanker,1575.2,18.1,21.3,31.3,29.1,True
+2025-03-16,V1435,Chennai,South,Tanker,5023.7,16.0,0.0,19.3,89.3,True
+2025-03-16,V1436,Chennai,South,Tanker,2214.7,0.0,0.0,14.7,64.0,True
+2025-03-16,V1437,Mumbai,West,General Cargo,4128.0,40.8,41.6,25.3,84.7,False
+2025-03-16,V1438,Chennai,South,Tanker,2047.6,7.2,8.6,14.8,51.4,True
+2025-03-16,V1439,Mumbai,West,Container,2265.6,32.1,23.9,13.0,34.0,True
+2025-03-16,V1440,Visakhapatnam,East,Tanker,3989.8,0.0,3.6,14.2,87.3,True
+2025-03-16,V1441,Cochin,South,Bulk Carrier,2869.2,31.5,22.9,12.4,53.3,True
+2025-03-17,V1442,Cochin,South,Ro-Ro,2709.6,3.3,17.4,18.8,65.6,True
+2025-03-17,V1443,Mumbai,West,Container,5076.2,0.0,0.3,5.5,140.0,True
+2025-03-17,V1444,Visakhapatnam,East,Tanker,2807.2,63.1,44.5,14.6,67.7,False
+2025-03-17,V1445,Kandla,West,Ro-Ro,2445.3,28.2,18.5,15.3,64.2,True
+2025-03-17,V1446,Kandla,West,Tanker,2589.2,51.4,55.3,22.1,74.9,False
+2025-03-17,V1447,Chennai,South,Container,3021.7,66.2,58.5,18.6,80.5,False
+2025-03-17,V1448,Kolkata,East,Ro-Ro,1628.8,52.4,44.0,18.6,47.2,False
+2025-03-17,V1449,Mumbai,West,Container,1367.1,26.3,34.6,23.2,39.9,False
+2025-03-17,V1450,Kandla,West,Ro-Ro,4307.2,8.6,12.6,23.3,128.6,True
+2025-03-18,V1451,Mumbai,West,General Cargo,2559.6,56.8,68.8,15.2,74.0,False
+2025-03-18,V1452,Cochin,South,Container,1690.9,0.0,3.9,17.7,38.1,True
+2025-03-18,V1453,Chennai,South,Bulk Carrier,1212.2,32.1,29.9,22.9,28.7,True
+2025-03-18,V1454,Visakhapatnam,East,Tanker,7320.2,40.4,29.0,16.4,185.7,True
+2025-03-19,V1455,Mumbai,West,Bulk Carrier,7219.0,34.8,37.6,6.5,172.8,False
+2025-03-19,V1456,Mumbai,West,General Cargo,2906.1,18.3,3.8,23.5,58.6,True
+2025-03-19,V1457,Kandla,West,General Cargo,5960.7,22.6,32.9,19.6,148.2,False
+2025-03-19,V1458,Visakhapatnam,East,General Cargo,5013.5,51.8,49.2,17.3,118.6,False
+2025-03-20,V1459,Chennai,South,General Cargo,4450.2,22.3,40.5,20.5,73.6,False
+2025-03-20,V1460,Kandla,West,Ro-Ro,1589.2,72.0,75.1,17.6,32.1,False
+2025-03-20,V1461,Kandla,West,Tanker,7739.3,31.3,26.3,9.5,183.1,True
+2025-03-20,V1462,Visakhapatnam,East,Ro-Ro,2552.8,36.3,49.3,5.0,52.2,False
+2025-03-21,V1463,Kolkata,East,General Cargo,3189.8,11.8,26.6,25.2,87.3,True
+2025-03-21,V1464,Visakhapatnam,East,Container,751.6,8.4,0.0,19.1,17.3,True
+2025-03-21,V1465,Visakhapatnam,East,Container,2491.3,31.2,30.9,20.7,73.7,False
+2025-03-21,V1466,Chennai,South,Bulk Carrier,4237.0,0.0,20.7,12.2,102.5,True
+2025-03-22,V1467,Kolkata,East,Container,2222.1,14.8,0.0,11.6,55.9,True
+2025-03-22,V1468,Chennai,South,Bulk Carrier,3664.9,0.0,0.0,15.7,100.5,True
+2025-03-22,V1469,Chennai,South,General Cargo,2469.2,11.3,10.1,18.9,45.6,True
+2025-03-22,V1470,Mumbai,West,Bulk Carrier,3331.8,45.5,66.5,20.1,96.7,False
+2025-03-22,V1471,Mumbai,West,Ro-Ro,4643.6,13.6,16.3,26.8,106.7,True
+2025-03-22,V1472,Kandla,West,General Cargo,7529.4,6.0,0.0,16.2,207.0,True
+2025-03-22,V1473,Kandla,West,Tanker,3547.9,26.9,41.3,22.4,66.6,False
+2025-03-22,V1474,Mumbai,West,Bulk Carrier,5878.0,14.7,14.0,22.0,116.8,True
+2025-03-23,V1475,Kolkata,East,Tanker,2245.1,0.0,18.1,24.3,65.6,True
+2025-03-23,V1476,Cochin,South,Ro-Ro,2548.2,34.6,50.7,27.9,64.5,False
+2025-03-24,V1477,Mumbai,West,Bulk Carrier,5985.9,46.8,19.8,16.2,157.8,True
+2025-03-24,V1478,Kolkata,East,General Cargo,2927.6,0.0,0.0,24.3,51.1,True
+2025-03-24,V1479,Cochin,South,Bulk Carrier,2500.7,61.4,56.9,17.2,39.4,False
+2025-03-24,V1480,Kandla,West,Container,2482.6,38.5,39.5,18.4,37.7,False
+2025-03-24,V1481,Visakhapatnam,East,Bulk Carrier,5351.7,9.7,1.6,7.6,158.4,True
+2025-03-25,V1482,Cochin,South,Bulk Carrier,2857.8,57.4,71.9,13.8,77.9,False
+2025-03-25,V1483,Kolkata,East,Bulk Carrier,2356.4,2.2,0.0,2.0,47.2,True
+2025-03-25,V1484,Mumbai,West,Container,668.8,10.6,18.7,26.0,17.7,True
+2025-03-25,V1485,Chennai,South,Tanker,3016.2,27.8,25.8,11.1,76.0,True
+2025-03-25,V1486,Visakhapatnam,East,General Cargo,2029.3,0.0,18.8,10.1,57.4,True
+2025-03-25,V1487,Kolkata,East,Ro-Ro,4466.9,39.4,35.7,9.2,112.1,False
+2025-03-25,V1488,Mumbai,West,Ro-Ro,5276.9,7.5,13.7,11.4,137.6,True
+2025-03-26,V1489,Cochin,South,Tanker,5619.7,11.7,19.0,15.5,123.7,True
+2025-03-26,V1490,Cochin,South,Ro-Ro,7376.9,37.8,22.0,22.3,204.8,True
+2025-03-26,V1491,Kolkata,East,General Cargo,4326.7,0.0,11.1,12.3,114.6,True
+2025-03-26,V1492,Visakhapatnam,East,Ro-Ro,2663.3,3.1,10.1,23.4,52.9,True
+2025-03-26,V1493,Kandla,West,Container,7148.9,31.3,42.1,22.4,153.2,False
+2025-03-27,V1494,Visakhapatnam,East,Container,3893.2,64.5,77.4,12.9,86.3,False
+2025-03-27,V1495,Kandla,West,Tanker,4307.4,51.2,48.7,11.6,100.0,False
+2025-03-27,V1496,Visakhapatnam,East,Tanker,2016.0,67.8,61.2,19.1,47.3,False
+2025-03-27,V1497,Mumbai,West,Container,3300.9,43.4,34.2,8.0,94.9,False
+2025-03-27,V1498,Chennai,South,General Cargo,2841.3,46.5,33.7,19.4,72.4,False
+2025-03-27,V1499,Visakhapatnam,East,Container,3569.7,0.0,1.3,20.2,69.4,True
+2025-03-27,V1500,Cochin,South,Tanker,1702.0,23.7,31.5,16.6,44.1,False
+2025-03-28,V1501,Visakhapatnam,East,Container,3820.0,21.2,12.0,23.3,64.1,True
+2025-03-28,V1502,Chennai,South,Ro-Ro,2158.7,38.0,22.5,25.0,63.4,True
+2025-03-28,V1503,Visakhapatnam,East,Ro-Ro,10730.4,23.4,30.7,5.1,258.7,False
+2025-03-28,V1504,Kolkata,East,Bulk Carrier,2377.0,41.9,25.2,14.2,42.0,True
+2025-03-28,V1505,Visakhapatnam,East,Ro-Ro,3796.5,12.8,12.4,25.7,75.6,True
+2025-03-29,V1506,Cochin,South,Ro-Ro,3895.5,28.5,17.4,24.6,102.5,True
+2025-03-29,V1507,Mumbai,West,Ro-Ro,5541.2,46.5,46.5,10.9,85.3,False
+2025-03-29,V1508,Kolkata,East,Ro-Ro,1119.5,31.2,25.7,15.8,18.9,True
+2025-03-29,V1509,Kolkata,East,Tanker,2312.4,30.4,61.1,19.2,53.6,False
+2025-03-29,V1510,Cochin,South,Container,1559.1,0.0,7.9,18.0,39.5,True
+2025-03-30,V1511,Chennai,South,Tanker,1954.6,5.3,12.5,22.2,29.9,True
+2025-03-30,V1512,Kandla,West,Ro-Ro,3039.1,13.9,9.4,11.8,76.4,True
+2025-03-30,V1513,Kolkata,East,Ro-Ro,2399.3,50.8,67.9,22.1,45.0,False
+2025-03-30,V1514,Visakhapatnam,East,Container,1884.2,16.6,19.2,14.4,37.9,True
+2025-03-30,V1515,Kandla,West,Container,3338.0,15.9,0.9,11.1,55.8,True
+2025-03-30,V1516,Kolkata,East,Tanker,5246.2,0.0,0.0,13.7,129.7,True
+2025-03-30,V1517,Kolkata,East,Container,4261.0,68.8,70.9,17.5,102.4,False
+2025-03-30,V1518,Kandla,West,General Cargo,6592.5,0.0,0.0,16.3,115.0,True
+2025-03-30,V1519,Mumbai,West,General Cargo,4608.4,0.0,0.0,31.0,129.4,True
+2025-03-31,V1520,Kandla,West,Ro-Ro,2597.9,49.8,40.5,29.8,42.1,False
+2025-03-31,V1521,Mumbai,West,Bulk Carrier,3877.3,0.0,14.4,31.6,106.4,True
+2025-03-31,V1522,Visakhapatnam,East,Tanker,5103.6,9.9,1.4,20.6,121.0,True
+2025-03-31,V1523,Visakhapatnam,East,Ro-Ro,4183.4,0.0,2.2,14.0,90.4,True
+2025-03-31,V1524,Cochin,South,Ro-Ro,6699.4,9.9,0.0,23.0,139.0,True
+2025-03-31,V1525,Mumbai,West,Bulk Carrier,1379.4,25.2,21.7,20.6,32.9,True
+2025-03-31,V1526,Kolkata,East,General Cargo,2426.9,30.5,44.2,20.7,65.0,False
+2025-04-01,V1527,Chennai,South,Tanker,2350.8,47.5,49.3,8.7,58.8,False
+2025-04-01,V1528,Kandla,West,Ro-Ro,2098.1,23.3,22.0,14.9,43.6,True
+2025-04-01,V1529,Mumbai,West,Container,2425.1,6.3,4.8,3.7,66.9,True
+2025-04-01,V1530,Cochin,South,General Cargo,1664.6,11.5,11.8,18.8,39.1,True
+2025-04-01,V1531,Chennai,South,Bulk Carrier,5396.9,1.6,3.5,30.6,84.6,True
+2025-04-01,V1532,Kolkata,East,General Cargo,2937.3,34.9,29.5,8.2,59.8,True
+2025-04-01,V1533,Mumbai,West,General Cargo,838.8,23.0,34.7,11.3,18.7,False
+2025-04-01,V1534,Kandla,West,Container,3190.6,64.3,59.9,18.7,82.7,False
+2025-04-02,V1535,Chennai,South,Container,5436.8,32.7,40.1,22.9,87.5,False
+2025-04-02,V1536,Kandla,West,Container,1515.8,18.8,8.0,18.3,27.8,True
+2025-04-02,V1537,Cochin,South,Bulk Carrier,4239.4,21.3,3.0,14.8,110.1,True
+2025-04-02,V1538,Kandla,West,Tanker,4107.4,62.8,41.8,20.9,65.3,False
+2025-04-03,V1539,Visakhapatnam,East,Tanker,2395.5,0.0,19.5,11.0,53.3,True
+2025-04-03,V1540,Kandla,West,Ro-Ro,6611.8,0.0,0.0,29.1,146.0,True
+2025-04-03,V1541,Kandla,West,Bulk Carrier,4613.8,72.4,91.5,13.1,93.8,False
+2025-04-03,V1542,Kandla,West,General Cargo,5059.4,28.3,45.7,11.5,136.3,False
+2025-04-03,V1543,Chennai,South,Ro-Ro,1731.1,37.2,54.8,17.8,36.8,False
+2025-04-03,V1544,Chennai,South,General Cargo,1036.2,28.7,58.8,17.8,15.9,False
+2025-04-03,V1545,Visakhapatnam,East,Bulk Carrier,3108.9,36.0,37.5,10.2,75.8,False
+2025-04-04,V1546,Mumbai,West,Tanker,3701.9,25.7,38.6,23.4,79.4,False
+2025-04-04,V1547,Kandla,West,Tanker,1559.5,28.0,30.3,19.7,28.0,False
+2025-04-04,V1548,Visakhapatnam,East,Tanker,8483.1,0.0,0.0,26.0,205.6,True
+2025-04-04,V1549,Mumbai,West,Tanker,2240.4,21.8,6.3,12.5,60.9,True
+2025-04-04,V1550,Cochin,South,Tanker,9074.9,46.7,54.0,9.1,228.6,False
+2025-04-05,V1551,Visakhapatnam,East,General Cargo,2548.9,13.1,18.5,15.8,57.4,True
+2025-04-05,V1552,Cochin,South,Ro-Ro,4861.3,0.0,9.1,22.7,102.9,True
+2025-04-05,V1553,Chennai,South,Ro-Ro,5351.2,34.0,36.2,13.8,135.8,False
+2025-04-05,V1554,Visakhapatnam,East,Ro-Ro,4003.0,17.6,22.6,13.1,94.6,True
+2025-04-05,V1555,Kolkata,East,Tanker,2251.7,20.6,3.0,7.3,58.9,True
+2025-04-05,V1556,Visakhapatnam,East,General Cargo,2062.2,7.5,0.0,14.2,59.1,True
+2025-04-06,V1557,Kandla,West,Ro-Ro,2090.4,0.0,0.0,11.3,58.8,True
+2025-04-06,V1558,Kolkata,East,Bulk Carrier,4054.4,39.6,34.4,21.3,102.8,False
+2025-04-06,V1559,Cochin,South,Bulk Carrier,3312.4,23.7,28.1,5.5,75.1,True
+2025-04-06,V1560,Visakhapatnam,East,Ro-Ro,3986.1,11.0,2.3,19.9,116.7,True
+2025-04-06,V1561,Chennai,South,Ro-Ro,4727.7,49.8,34.7,21.5,93.1,False
+2025-04-06,V1562,Mumbai,West,Tanker,1696.1,45.7,56.2,22.9,29.7,False
+2025-04-06,V1563,Cochin,South,Ro-Ro,5809.3,21.8,20.0,17.5,101.8,True
+2025-04-06,V1564,Cochin,South,Ro-Ro,4452.3,24.5,39.2,12.9,107.1,False
+2025-04-07,V1565,Kandla,West,Bulk Carrier,3426.9,14.5,3.3,19.1,65.3,True
+2025-04-07,V1566,Kandla,West,Container,1832.8,44.9,36.2,16.2,42.5,False
+2025-04-07,V1567,Chennai,South,General Cargo,1459.0,18.5,21.1,10.5,31.5,True
+2025-04-07,V1568,Visakhapatnam,East,Tanker,1702.0,20.4,33.0,18.1,31.9,False
+2025-04-07,V1569,Mumbai,West,Ro-Ro,1281.6,25.4,18.6,28.5,34.3,True
+2025-04-07,V1570,Mumbai,West,General Cargo,1864.6,32.8,26.9,29.0,35.1,True
+2025-04-07,V1571,Kandla,West,Container,5098.9,22.1,41.9,8.0,109.8,False
+2025-04-07,V1572,Cochin,South,Bulk Carrier,1418.6,14.3,21.7,15.5,40.7,True
+2025-04-07,V1573,Kandla,West,Bulk Carrier,3564.3,32.0,40.1,16.3,76.5,False
+2025-04-07,V1574,Mumbai,West,Ro-Ro,1598.0,20.8,8.3,9.1,41.2,True
+2025-04-08,V1575,Kolkata,East,Tanker,2406.4,17.3,11.9,24.6,60.5,True
+2025-04-08,V1576,Visakhapatnam,East,Ro-Ro,2947.3,48.5,48.8,27.0,65.6,False
+2025-04-08,V1577,Cochin,South,Container,3822.4,26.2,6.7,14.6,57.7,True
+2025-04-09,V1578,Kolkata,East,General Cargo,3722.5,0.0,0.0,10.0,79.1,True
+2025-04-09,V1579,Kandla,West,Tanker,3272.6,43.0,39.4,23.5,54.3,False
+2025-04-09,V1580,Cochin,South,Ro-Ro,1954.2,0.0,0.0,15.0,32.9,True
+2025-04-09,V1581,Visakhapatnam,East,Container,4208.4,0.0,3.8,15.2,68.0,True
+2025-04-09,V1582,Visakhapatnam,East,Container,6812.2,14.9,17.6,18.4,195.1,True
+2025-04-10,V1583,Chennai,South,Tanker,1988.1,0.0,1.9,21.1,44.8,True
+2025-04-10,V1584,Chennai,South,Container,1866.4,36.4,46.1,20.5,30.4,False
+2025-04-10,V1585,Kandla,West,Container,2683.3,0.0,0.0,17.3,56.0,True
+2025-04-10,V1586,Cochin,South,Container,3223.2,10.0,13.2,19.1,64.9,True
+2025-04-10,V1587,Kandla,West,Bulk Carrier,5784.6,0.0,5.9,20.9,115.8,True
+2025-04-10,V1588,Cochin,South,Tanker,1894.6,45.9,28.8,15.6,51.6,True
+2025-04-11,V1589,Mumbai,West,Container,6921.5,44.5,28.0,23.0,189.4,True
+2025-04-11,V1590,Kolkata,East,Container,2475.9,16.3,0.0,21.0,70.0,True
+2025-04-11,V1591,Kolkata,East,Tanker,2709.3,52.4,39.1,17.1,50.4,False
+2025-04-12,V1592,Kolkata,East,Ro-Ro,2699.7,19.8,17.2,13.6,47.0,True
+2025-04-12,V1593,Chennai,South,Bulk Carrier,3547.0,28.0,47.8,24.0,63.6,False
+2025-04-12,V1594,Visakhapatnam,East,Ro-Ro,2182.8,0.0,0.0,25.2,56.9,True
+2025-04-13,V1595,Visakhapatnam,East,Bulk Carrier,1991.2,27.5,29.6,4.8,57.0,True
+2025-04-13,V1596,Chennai,South,Bulk Carrier,4034.6,15.9,34.1,13.2,111.9,False
+2025-04-13,V1597,Mumbai,West,General Cargo,2432.5,0.0,14.3,26.4,65.9,True
+2025-04-13,V1598,Kandla,West,General Cargo,5566.5,37.8,33.8,28.0,121.1,False
+2025-04-13,V1599,Cochin,South,Bulk Carrier,6064.0,0.0,0.0,21.5,140.6,True
+2025-04-14,V1600,Kandla,West,General Cargo,3198.7,1.6,13.0,11.9,69.4,True
+2025-04-14,V1601,Chennai,South,Bulk Carrier,2753.6,41.2,38.0,22.5,76.0,False
+2025-04-14,V1602,Kandla,West,Tanker,3605.8,0.0,0.0,27.1,95.7,True
+2025-04-14,V1603,Kandla,West,Tanker,4015.5,36.5,37.2,14.6,114.3,False
+2025-04-14,V1604,Cochin,South,Container,2139.6,24.9,20.7,8.1,47.3,True
+2025-04-14,V1605,Kandla,West,Tanker,5137.9,57.6,52.7,18.6,142.4,False
+2025-04-14,V1606,Cochin,South,General Cargo,1550.1,16.4,13.0,19.9,38.0,True
+2025-04-14,V1607,Chennai,South,Container,2354.5,66.0,59.0,21.8,65.6,False
+2025-04-15,V1608,Kandla,West,Tanker,3966.2,0.0,0.0,32.9,95.2,True
+2025-04-15,V1609,Visakhapatnam,East,Tanker,1741.6,51.3,46.5,18.5,41.6,False
+2025-04-15,V1610,Cochin,South,Ro-Ro,1801.5,23.1,29.9,16.5,41.3,True
+2025-04-15,V1611,Cochin,South,Tanker,855.2,82.5,85.5,14.9,13.9,False
+2025-04-15,V1612,Kandla,West,Tanker,2137.0,32.7,55.8,20.7,43.2,False
+2025-04-15,V1613,Chennai,South,Ro-Ro,3349.3,0.0,0.0,17.8,67.1,True
+2025-04-15,V1614,Kandla,West,Container,3961.4,6.3,26.1,32.3,73.5,True
+2025-04-16,V1615,Chennai,South,Ro-Ro,4516.2,29.4,23.6,27.5,71.9,True
+2025-04-16,V1616,Visakhapatnam,East,Tanker,3654.4,20.7,8.9,25.1,69.2,True
+2025-04-16,V1617,Visakhapatnam,East,Tanker,3150.5,14.7,8.5,28.1,63.0,True
+2025-04-17,V1618,Cochin,South,Tanker,4884.4,66.1,85.3,13.6,108.6,False
+2025-04-17,V1619,Mumbai,West,Ro-Ro,5238.6,73.7,64.0,23.2,126.5,False
+2025-04-17,V1620,Kolkata,East,Container,3843.8,19.2,0.0,19.2,87.3,True
+2025-04-18,V1621,Visakhapatnam,East,Container,4025.3,48.6,47.4,19.4,116.7,False
+2025-04-19,V1622,Visakhapatnam,East,Ro-Ro,2325.1,6.5,0.0,22.6,45.4,True
+2025-04-19,V1623,Kolkata,East,Bulk Carrier,2228.4,48.2,55.0,21.4,34.8,False
+2025-04-19,V1624,Visakhapatnam,East,Tanker,908.6,0.0,0.0,16.3,24.1,True
+2025-04-19,V1625,Chennai,South,Bulk Carrier,980.2,11.0,31.1,17.6,26.7,False
+2025-04-19,V1626,Visakhapatnam,East,Tanker,3439.4,7.4,17.7,16.9,99.8,True
+2025-04-19,V1627,Cochin,South,Bulk Carrier,6403.3,24.0,10.9,12.5,163.4,True
+2025-04-19,V1628,Cochin,South,Container,2384.2,0.0,7.1,17.0,45.9,True
+2025-04-19,V1629,Cochin,South,Container,5074.9,4.4,20.6,25.3,109.2,True
+2025-04-19,V1630,Kolkata,East,Ro-Ro,3715.9,7.7,5.3,13.9,97.9,True
+2025-04-20,V1631,Mumbai,West,General Cargo,996.9,0.0,0.0,11.1,15.8,True
+2025-04-20,V1632,Kolkata,East,Bulk Carrier,3670.9,0.0,11.5,28.1,78.2,True
+2025-04-20,V1633,Mumbai,West,Tanker,7056.2,45.0,36.2,16.3,144.8,False
+2025-04-20,V1634,Kolkata,East,Ro-Ro,3917.4,22.5,21.8,19.5,93.0,True
+2025-04-20,V1635,Chennai,South,Bulk Carrier,3866.8,32.1,36.7,3.9,114.1,False
+2025-04-21,V1636,Chennai,South,General Cargo,6136.7,7.1,0.0,21.2,143.4,True
+2025-04-21,V1637,Kolkata,East,General Cargo,3497.4,8.1,0.0,15.4,62.6,True
+2025-04-21,V1638,Visakhapatnam,East,Tanker,2206.8,39.8,35.1,8.7,38.6,False
+2025-04-21,V1639,Chennai,South,Tanker,3007.8,16.0,21.5,17.9,53.2,True
+2025-04-22,V1640,Kandla,West,Tanker,5298.9,27.7,16.0,15.1,116.7,True
+2025-04-22,V1641,Cochin,South,Tanker,7882.2,29.0,13.3,20.4,169.4,True
+2025-04-22,V1642,Mumbai,West,Ro-Ro,10252.4,26.6,6.1,24.6,296.3,True
+2025-04-22,V1643,Mumbai,West,Bulk Carrier,4364.4,0.0,0.1,19.5,84.0,True
+2025-04-22,V1644,Chennai,South,Ro-Ro,3494.2,0.0,0.0,14.2,60.5,True
+2025-04-23,V1645,Visakhapatnam,East,Tanker,4985.4,16.0,21.2,18.9,135.4,True
+2025-04-23,V1646,Mumbai,West,Ro-Ro,2749.2,12.0,12.3,8.1,71.5,True
+2025-04-23,V1647,Mumbai,West,Tanker,1659.9,69.7,97.1,16.0,46.1,False
+2025-04-23,V1648,Visakhapatnam,East,Container,3739.0,82.8,82.3,8.9,85.0,False
+2025-04-24,V1649,Kandla,West,Tanker,3951.2,17.9,36.0,26.2,107.3,False
+2025-04-24,V1650,Cochin,South,Tanker,1137.2,1.0,0.0,18.2,28.1,True
+2025-04-24,V1651,Visakhapatnam,East,Ro-Ro,3425.4,0.0,7.1,20.8,58.5,True
+2025-04-24,V1652,Cochin,South,Tanker,6986.0,46.4,48.8,21.7,114.5,False
+2025-04-24,V1653,Mumbai,West,Bulk Carrier,2686.0,0.0,0.0,21.3,78.9,True
+2025-04-24,V1654,Kandla,West,Container,998.9,1.2,0.0,14.4,25.3,True
+2025-04-24,V1655,Visakhapatnam,East,General Cargo,1263.3,43.5,32.7,10.7,28.3,False
+2025-04-25,V1656,Kolkata,East,General Cargo,2131.2,49.0,60.7,19.2,34.0,False
+2025-04-25,V1657,Chennai,South,Container,4256.4,57.7,65.0,15.4,117.7,False
+2025-04-25,V1658,Cochin,South,Ro-Ro,5846.8,0.0,0.0,8.8,98.7,True
+2025-04-25,V1659,Cochin,South,Tanker,2622.5,0.0,0.0,9.8,47.9,True
+2025-04-25,V1660,Cochin,South,Ro-Ro,2329.0,0.0,0.0,22.4,46.0,True
+2025-04-25,V1661,Mumbai,West,Bulk Carrier,4228.1,21.1,0.2,20.3,86.2,True
+2025-04-26,V1662,Mumbai,West,Container,5452.4,0.0,0.0,22.6,148.2,True
+2025-04-26,V1663,Kolkata,East,Ro-Ro,5180.7,8.4,0.0,24.6,95.2,True
+2025-04-26,V1664,Mumbai,West,Container,4082.2,47.1,66.3,27.3,90.3,False
+2025-04-26,V1665,Chennai,South,General Cargo,3602.1,41.5,19.9,23.7,82.1,True
+2025-04-27,V1666,Chennai,South,Ro-Ro,1684.3,20.4,4.3,12.9,28.6,True
+2025-04-27,V1667,Kandla,West,Tanker,4550.5,4.9,8.7,21.5,76.0,True
+2025-04-27,V1668,Cochin,South,General Cargo,7652.3,45.9,51.2,23.9,175.5,False
+2025-04-28,V1669,Kandla,West,General Cargo,1753.0,0.0,0.0,18.8,47.2,True
+2025-04-28,V1670,Cochin,South,Bulk Carrier,3835.5,0.0,24.5,13.3,105.2,True
+2025-04-29,V1671,Kandla,West,Container,2253.0,4.8,0.0,9.4,54.4,True
+2025-04-29,V1672,Kandla,West,General Cargo,3891.1,32.9,42.7,14.8,95.7,False
+2025-04-29,V1673,Kandla,West,Tanker,5533.2,0.0,0.0,23.7,163.9,True
+2025-04-30,V1674,Mumbai,West,Tanker,5537.3,6.5,5.6,15.3,121.2,True
+2025-04-30,V1675,Chennai,South,Ro-Ro,4827.6,17.4,9.8,17.7,95.0,True
+2025-04-30,V1676,Kandla,West,Bulk Carrier,3184.0,1.3,1.8,19.4,64.7,True
+2025-04-30,V1677,Kolkata,East,Container,1869.5,48.1,63.3,23.5,31.6,False
+2025-04-30,V1678,Cochin,South,Tanker,5344.0,12.0,13.3,19.6,116.2,True
+2025-04-30,V1679,Visakhapatnam,East,Tanker,5330.8,0.0,0.0,21.2,113.7,True
+2025-05-01,V1680,Mumbai,West,Ro-Ro,4439.0,14.7,28.8,5.9,117.0,True
+2025-05-01,V1681,Kolkata,East,Bulk Carrier,2523.0,0.0,4.0,15.1,60.1,True
+2025-05-01,V1682,Mumbai,West,Ro-Ro,2456.3,22.4,15.3,24.0,58.8,True
+2025-05-01,V1683,Mumbai,West,Bulk Carrier,6777.3,38.7,55.5,21.1,122.6,False
+2025-05-01,V1684,Cochin,South,General Cargo,4005.2,0.0,0.0,13.2,117.9,True
+2025-05-02,V1685,Mumbai,West,Container,5103.5,35.9,41.3,9.8,149.9,False
+2025-05-02,V1686,Kolkata,East,Bulk Carrier,4280.7,22.0,16.4,13.1,79.3,True
+2025-05-02,V1687,Chennai,South,General Cargo,2567.8,41.6,41.5,15.8,57.8,False
+2025-05-02,V1688,Chennai,South,Container,4181.8,0.0,8.1,12.7,110.1,True
+2025-05-02,V1689,Visakhapatnam,East,Bulk Carrier,3710.9,7.3,0.0,17.7,72.1,True
+2025-05-02,V1690,Visakhapatnam,East,Bulk Carrier,3871.8,41.7,18.2,16.9,110.1,True
+2025-05-02,V1691,Chennai,South,Tanker,3215.9,27.3,18.4,20.9,80.9,True
+2025-05-03,V1692,Chennai,South,General Cargo,1695.5,54.0,49.7,21.2,29.7,False
+2025-05-03,V1693,Mumbai,West,Tanker,8001.1,53.7,38.5,20.5,195.5,False
+2025-05-03,V1694,Chennai,South,Bulk Carrier,5874.8,44.3,43.0,19.5,102.5,False
+2025-05-04,V1695,Visakhapatnam,East,Tanker,1051.4,0.0,23.3,14.4,30.5,True
+2025-05-04,V1696,Chennai,South,Container,3129.9,29.3,36.3,17.7,89.8,False
+2025-05-04,V1697,Cochin,South,Container,5044.3,54.8,64.9,12.2,104.1,False
+2025-05-04,V1698,Chennai,South,Container,2457.5,0.0,4.3,21.9,51.8,True
+2025-05-04,V1699,Kolkata,East,Bulk Carrier,2411.0,0.0,2.6,23.1,71.1,True
+2025-05-04,V1700,Visakhapatnam,East,Tanker,5012.1,0.0,0.1,14.4,95.6,True
+2025-05-04,V1701,Mumbai,West,Bulk Carrier,5743.2,12.5,7.1,10.9,100.5,True
+2025-05-04,V1702,Kolkata,East,Container,3012.1,65.5,61.4,19.3,87.1,False
+2025-05-04,V1703,Chennai,South,Ro-Ro,3279.9,0.0,14.7,24.1,57.8,True
+2025-05-04,V1704,Visakhapatnam,East,Container,1448.5,43.0,59.3,21.3,43.4,False
+2025-05-05,V1705,Cochin,South,Container,4217.0,0.0,0.0,12.7,95.3,True
+2025-05-05,V1706,Kandla,West,Ro-Ro,2493.4,48.7,66.0,11.0,56.8,False
+2025-05-05,V1707,Kolkata,East,General Cargo,3121.0,76.8,76.6,28.0,57.7,False
+2025-05-05,V1708,Visakhapatnam,East,Container,5986.4,9.7,14.0,21.8,164.3,True
+2025-05-05,V1709,Kandla,West,General Cargo,2455.1,0.0,0.0,14.4,54.8,True
+2025-05-05,V1710,Chennai,South,General Cargo,1612.1,68.7,75.0,18.0,35.9,False
+2025-05-05,V1711,Mumbai,West,General Cargo,3526.7,24.5,34.2,28.5,83.9,False
+2025-05-05,V1712,Kolkata,East,Ro-Ro,3240.8,10.2,0.0,19.7,64.9,True
+2025-05-05,V1713,Cochin,South,Container,4495.2,15.7,16.2,11.6,92.8,True
+2025-05-05,V1714,Mumbai,West,Ro-Ro,2101.5,23.1,26.1,13.9,36.7,True
+2025-05-06,V1715,Kandla,West,Ro-Ro,3662.2,37.2,26.1,20.9,68.4,True
+2025-05-06,V1716,Cochin,South,Container,4728.9,0.0,11.2,23.2,76.5,True
+2025-05-06,V1717,Kandla,West,Ro-Ro,2118.9,26.3,12.2,26.8,53.5,True
+2025-05-06,V1718,Mumbai,West,Container,2176.9,2.5,0.0,9.3,33.3,True
+2025-05-06,V1719,Kolkata,East,General Cargo,1583.4,7.9,0.0,23.7,27.2,True
+2025-05-06,V1720,Chennai,South,Container,2498.9,33.2,38.4,18.8,49.1,False
+2025-05-06,V1721,Chennai,South,Tanker,2335.0,8.3,23.7,21.5,49.3,True
+2025-05-06,V1722,Visakhapatnam,East,General Cargo,6774.3,16.8,15.7,14.3,183.4,True
+2025-05-07,V1723,Visakhapatnam,East,Tanker,5790.6,34.8,63.5,18.2,167.8,False
+2025-05-07,V1724,Kandla,West,General Cargo,4275.6,13.2,25.2,5.8,96.1,True
+2025-05-07,V1725,Visakhapatnam,East,Tanker,2527.7,72.8,75.3,17.5,43.6,False
+2025-05-07,V1726,Kandla,West,General Cargo,4184.9,59.7,47.2,11.5,123.2,False
+2025-05-08,V1727,Visakhapatnam,East,Ro-Ro,2832.7,28.9,48.2,30.0,46.3,False
+2025-05-08,V1728,Mumbai,West,Container,2877.7,70.7,83.9,21.5,48.7,False
+2025-05-08,V1729,Cochin,South,General Cargo,3834.9,10.7,4.3,25.1,71.0,True
+2025-05-08,V1730,Cochin,South,Bulk Carrier,4592.1,5.3,0.0,19.6,77.6,True
+2025-05-08,V1731,Kandla,West,Ro-Ro,2883.3,45.6,31.4,15.6,65.1,False
+2025-05-08,V1732,Chennai,South,Ro-Ro,3333.5,26.6,34.4,24.5,74.7,False
+2025-05-08,V1733,Kolkata,East,Ro-Ro,2749.4,11.8,0.0,25.0,61.5,True
+2025-05-09,V1734,Kandla,West,Ro-Ro,995.5,0.0,0.0,15.7,19.8,True
+2025-05-09,V1735,Cochin,South,Container,2167.7,73.7,95.7,5.7,44.8,False
+2025-05-09,V1736,Kolkata,East,Ro-Ro,6847.7,0.0,0.0,16.5,175.6,True
+2025-05-09,V1737,Kolkata,East,Tanker,2267.6,18.6,14.5,24.9,41.0,True
+2025-05-09,V1738,Kolkata,East,Bulk Carrier,2745.6,11.1,16.1,23.2,54.3,True
+2025-05-10,V1739,Cochin,South,Ro-Ro,3447.8,18.4,21.3,22.8,88.0,True
+2025-05-10,V1740,Mumbai,West,Container,4420.3,41.7,27.5,21.7,86.2,True
+2025-05-10,V1741,Mumbai,West,Container,6218.4,8.3,0.0,14.1,100.5,True
+2025-05-10,V1742,Kandla,West,Container,5745.8,37.1,35.4,21.2,117.4,False
+2025-05-11,V1743,Cochin,South,Tanker,2320.1,22.8,30.2,18.3,41.3,False
+2025-05-11,V1744,Chennai,South,General Cargo,2846.8,3.1,8.1,19.6,53.3,True
+2025-05-11,V1745,Mumbai,West,General Cargo,2798.5,0.0,0.0,14.8,77.1,True
+2025-05-11,V1746,Visakhapatnam,East,General Cargo,6242.8,23.8,60.7,15.3,123.5,False
+2025-05-11,V1747,Kolkata,East,Container,4102.3,7.7,0.0,21.5,79.8,True
+2025-05-11,V1748,Kandla,West,Tanker,6279.2,35.3,47.3,19.0,108.9,False
+2025-05-12,V1749,Cochin,South,Ro-Ro,3009.2,29.8,38.8,13.1,63.3,False
+2025-05-12,V1750,Cochin,South,Container,2291.7,0.0,0.0,7.9,60.9,True
+2025-05-12,V1751,Kolkata,East,General Cargo,3995.0,0.0,0.0,11.8,107.8,True
+2025-05-12,V1752,Kolkata,East,Tanker,4452.9,10.7,0.0,19.6,74.9,True
+2025-05-13,V1753,Mumbai,West,General Cargo,3854.5,0.0,20.0,11.2,103.9,True
+2025-05-13,V1754,Visakhapatnam,East,Bulk Carrier,3728.4,29.1,23.7,15.0,56.9,True
+2025-05-13,V1755,Chennai,South,Ro-Ro,781.0,0.0,13.2,23.8,14.2,True
+2025-05-13,V1756,Chennai,South,Container,5906.0,31.8,31.8,16.3,145.1,False
+2025-05-13,V1757,Kolkata,East,General Cargo,2958.2,5.1,12.2,31.2,73.3,True
+2025-05-13,V1758,Kolkata,East,Container,1492.9,50.0,41.1,20.9,35.0,False
+2025-05-13,V1759,Kolkata,East,General Cargo,5268.8,8.6,18.1,24.4,113.2,True
+2025-05-13,V1760,Chennai,South,Ro-Ro,4245.2,25.0,24.3,21.1,84.0,True
+2025-05-13,V1761,Visakhapatnam,East,General Cargo,2910.2,16.8,8.9,24.2,63.0,True
+2025-05-13,V1762,Visakhapatnam,East,General Cargo,3162.3,2.8,21.1,5.6,64.9,True
+2025-05-14,V1763,Mumbai,West,General Cargo,3421.0,0.0,0.0,36.1,69.8,True
+2025-05-14,V1764,Cochin,South,Tanker,4376.3,35.7,34.3,19.9,99.0,False
+2025-05-14,V1765,Mumbai,West,Bulk Carrier,2043.6,64.6,74.3,17.0,39.4,False
+2025-05-14,V1766,Kolkata,East,Tanker,1555.1,0.0,8.8,16.1,25.0,True
+2025-05-14,V1767,Kolkata,East,Tanker,4732.5,50.7,69.9,14.7,111.4,False
+2025-05-14,V1768,Mumbai,West,Bulk Carrier,8218.8,20.5,0.0,15.2,180.7,True
+2025-05-14,V1769,Chennai,South,General Cargo,1239.9,24.7,22.5,7.0,21.7,True
+2025-05-14,V1770,Cochin,South,Ro-Ro,3325.1,46.2,61.6,21.1,95.4,False
+2025-05-14,V1771,Mumbai,West,Bulk Carrier,4317.6,15.3,24.1,19.4,99.1,True
+2025-05-15,V1772,Cochin,South,Container,4005.4,42.5,62.0,12.9,84.9,False
+2025-05-15,V1773,Mumbai,West,General Cargo,5511.4,23.3,33.3,17.9,109.9,False
+2025-05-15,V1774,Chennai,South,Ro-Ro,2988.6,0.0,13.5,16.7,84.0,True
+2025-05-16,V1775,Kandla,West,Ro-Ro,2673.2,27.1,38.4,16.0,55.6,False
+2025-05-16,V1776,Kolkata,East,Bulk Carrier,3706.3,0.0,1.7,17.9,58.8,True
+2025-05-16,V1777,Kolkata,East,Tanker,1216.3,27.2,22.0,21.7,31.4,True
+2025-05-16,V1778,Cochin,South,Tanker,3449.4,0.0,18.5,12.0,58.3,True
+2025-05-16,V1779,Visakhapatnam,East,General Cargo,3696.6,23.4,2.6,23.7,109.2,True
+2025-05-16,V1780,Mumbai,West,Container,3254.4,78.1,69.3,7.1,93.1,False
+2025-05-17,V1781,Chennai,South,Bulk Carrier,2066.0,2.4,0.0,13.4,59.9,True
+2025-05-17,V1782,Visakhapatnam,East,Container,5806.8,21.7,30.2,19.5,149.3,False
+2025-05-17,V1783,Cochin,South,Container,4892.1,22.0,22.3,11.6,116.9,True
+2025-05-18,V1784,Kolkata,East,Ro-Ro,3278.7,22.0,29.8,28.0,78.9,True
+2025-05-18,V1785,Cochin,South,Ro-Ro,1189.1,5.3,0.0,16.5,21.8,True
+2025-05-18,V1786,Kandla,West,General Cargo,4467.6,18.3,10.5,16.4,72.7,True
+2025-05-19,V1787,Kandla,West,Ro-Ro,4722.4,19.6,25.4,15.3,85.8,True
+2025-05-19,V1788,Kolkata,East,Bulk Carrier,4313.4,6.0,0.0,15.5,119.2,True
+2025-05-19,V1789,Visakhapatnam,East,Container,3517.4,46.5,57.3,22.8,99.6,False
+2025-05-19,V1790,Kolkata,East,Ro-Ro,2038.4,0.0,27.3,17.8,33.2,True
+2025-05-19,V1791,Mumbai,West,Tanker,11316.4,0.0,1.6,6.4,258.3,True
+2025-05-19,V1792,Cochin,South,General Cargo,3327.7,3.1,2.0,12.7,52.6,True
+2025-05-19,V1793,Kandla,West,General Cargo,1712.7,55.1,45.9,11.1,34.8,False
+2025-05-19,V1794,Cochin,South,Tanker,7479.8,26.4,33.0,27.3,112.9,False
+2025-05-19,V1795,Mumbai,West,Bulk Carrier,2589.0,0.0,2.6,13.3,60.9,True
+2025-05-19,V1796,Kandla,West,General Cargo,3682.4,0.0,0.0,13.2,58.0,True
+2025-05-20,V1797,Mumbai,West,Container,2496.6,0.0,0.0,24.0,59.8,True
+2025-05-20,V1798,Chennai,South,Tanker,2502.6,80.9,94.8,22.3,49.1,False
+2025-05-20,V1799,Chennai,South,Bulk Carrier,4247.6,21.5,25.9,12.9,87.4,True
+2025-05-20,V1800,Kolkata,East,Tanker,3323.2,36.1,57.5,15.6,76.8,False
+2025-05-20,V1801,Kolkata,East,Container,4069.8,0.0,0.0,21.2,103.8,True
+2025-05-20,V1802,Mumbai,West,Ro-Ro,2876.7,65.9,53.2,31.3,57.7,False
+2025-05-20,V1803,Cochin,South,Ro-Ro,4964.7,29.8,31.9,27.5,133.6,False
+2025-05-21,V1804,Chennai,South,Bulk Carrier,4915.0,12.3,7.4,15.2,92.2,True
+2025-05-21,V1805,Kandla,West,General Cargo,2656.2,0.0,0.0,8.2,53.7,True
+2025-05-21,V1806,Cochin,South,Bulk Carrier,3823.3,70.6,76.1,25.1,66.1,False
+2025-05-21,V1807,Visakhapatnam,East,General Cargo,2017.8,0.0,0.0,10.0,47.1,True
+2025-05-21,V1808,Cochin,South,Tanker,3989.7,38.1,63.5,15.5,101.4,False
+2025-05-21,V1809,Mumbai,West,Ro-Ro,856.9,39.6,46.9,14.2,21.6,False
+2025-05-21,V1810,Cochin,South,Container,6235.4,36.5,39.8,10.7,169.2,False
+2025-05-21,V1811,Kandla,West,Container,1130.6,54.1,61.3,9.0,24.7,False
+2025-05-22,V1812,Kandla,West,Container,2039.1,0.0,0.0,23.8,32.9,True
+2025-05-22,V1813,Kolkata,East,General Cargo,5915.5,1.3,0.0,16.4,96.7,True
+2025-05-22,V1814,Kandla,West,General Cargo,2934.3,3.6,0.0,12.1,68.8,True
+2025-05-22,V1815,Kandla,West,Ro-Ro,3675.9,8.7,21.7,8.3,85.9,True
+2025-05-22,V1816,Kolkata,East,Container,2879.8,2.6,0.0,25.4,67.9,True
+2025-05-22,V1817,Kandla,West,Container,2514.1,15.4,6.2,23.5,71.9,True
+2025-05-22,V1818,Kolkata,East,Bulk Carrier,4814.6,3.3,0.0,20.0,84.1,True
+2025-05-22,V1819,Visakhapatnam,East,Ro-Ro,2424.1,42.9,22.5,19.6,38.4,True
+2025-05-22,V1820,Cochin,South,Tanker,774.4,19.4,16.1,24.8,21.8,True
+2025-05-22,V1821,Mumbai,West,Ro-Ro,5735.6,0.0,2.0,13.0,113.3,True
+2025-05-23,V1822,Mumbai,West,Bulk Carrier,1333.6,0.0,0.0,21.9,28.5,True
+2025-05-23,V1823,Kandla,West,General Cargo,1715.5,40.1,25.2,17.3,29.1,True
+2025-05-23,V1824,Kandla,West,General Cargo,4745.9,56.0,61.2,20.7,139.9,False
+2025-05-23,V1825,Mumbai,West,Ro-Ro,2430.0,20.5,27.8,22.0,51.2,True
+2025-05-23,V1826,Kolkata,East,Tanker,3340.1,0.0,10.1,15.6,81.1,True
+2025-05-24,V1827,Chennai,South,Tanker,789.8,0.0,0.0,24.6,15.1,True
+2025-05-24,V1828,Chennai,South,Container,4731.4,0.0,2.9,18.4,92.5,True
+2025-05-24,V1829,Visakhapatnam,East,Container,2661.5,0.0,0.0,18.0,43.2,True
+2025-05-24,V1830,Visakhapatnam,East,General Cargo,5705.8,34.8,16.4,10.0,101.9,True
+2025-05-24,V1831,Chennai,South,Tanker,5052.0,12.9,3.7,14.2,111.1,True
+2025-05-25,V1832,Kolkata,East,Bulk Carrier,2141.4,0.0,0.0,7.4,38.5,True
+2025-05-25,V1833,Chennai,South,Container,4633.2,22.7,18.5,14.3,103.1,True
+2025-05-25,V1834,Chennai,South,Tanker,2367.5,28.5,27.8,14.2,41.6,True
+2025-05-25,V1835,Chennai,South,Bulk Carrier,1477.6,38.9,36.2,28.6,23.2,False
+2025-05-25,V1836,Visakhapatnam,East,Bulk Carrier,2595.6,28.0,11.1,18.7,64.2,True
+2025-05-25,V1837,Cochin,South,Container,2330.8,44.4,61.2,16.3,39.5,False
+2025-05-26,V1838,Chennai,South,Ro-Ro,2697.5,57.9,62.5,15.0,41.3,False
+2025-05-26,V1839,Kandla,West,General Cargo,2994.1,15.8,35.4,17.9,61.1,False
+2025-05-26,V1840,Visakhapatnam,East,Ro-Ro,3444.7,69.0,74.4,18.2,72.3,False
+2025-05-26,V1841,Cochin,South,General Cargo,2219.5,23.4,28.5,15.7,45.4,True
+2025-05-26,V1842,Cochin,South,General Cargo,4099.6,10.5,35.5,10.3,86.9,False
+2025-05-26,V1843,Kolkata,East,Tanker,4666.1,0.0,19.2,21.2,72.7,True
+2025-05-26,V1844,Chennai,South,Ro-Ro,2534.7,24.1,7.6,23.1,55.9,True
+2025-05-26,V1845,Mumbai,West,Ro-Ro,3539.2,14.3,12.6,22.4,101.5,True
+2025-05-26,V1846,Kandla,West,Tanker,4248.2,49.9,31.7,21.8,87.7,False
+2025-05-27,V1847,Kolkata,East,General Cargo,4776.2,1.4,0.0,14.3,85.4,True
+2025-05-28,V1848,Mumbai,West,Tanker,3031.2,52.9,55.4,33.0,90.2,False
+2025-05-28,V1849,Visakhapatnam,East,Container,1599.1,0.0,0.0,23.7,38.1,True
+2025-05-28,V1850,Kolkata,East,Ro-Ro,2709.7,50.6,48.2,8.0,67.6,False
+2025-05-28,V1851,Kandla,West,Container,1891.4,7.7,23.6,20.4,39.2,True
+2025-05-28,V1852,Mumbai,West,Tanker,3432.0,18.4,1.0,24.3,76.4,True
+2025-05-29,V1853,Kolkata,East,Container,3295.2,26.8,14.8,14.8,58.5,True
+2025-05-29,V1854,Cochin,South,Container,2277.3,0.0,0.0,19.2,40.4,True
+2025-05-29,V1855,Visakhapatnam,East,General Cargo,7020.1,67.5,79.8,20.3,185.9,False
+2025-05-29,V1856,Visakhapatnam,East,Ro-Ro,5795.3,3.9,0.0,27.2,94.4,True
+2025-05-29,V1857,Kandla,West,General Cargo,5643.1,1.2,5.7,7.5,88.3,True
+2025-05-29,V1858,Visakhapatnam,East,Container,3499.3,30.2,26.9,20.8,56.0,True
+2025-05-29,V1859,Kandla,West,General Cargo,4075.6,14.7,26.3,19.3,72.8,True
+2025-05-29,V1860,Cochin,South,Bulk Carrier,4572.1,42.5,42.9,28.6,77.0,False
+2025-05-29,V1861,Kolkata,East,General Cargo,2495.4,46.0,47.1,2.7,47.8,False
+2025-05-30,V1862,Kandla,West,General Cargo,6587.0,35.3,40.1,24.7,192.3,False
+2025-05-30,V1863,Chennai,South,Container,3665.4,28.8,23.1,17.3,96.4,True
+2025-05-30,V1864,Kandla,West,Container,6172.6,12.6,0.0,21.5,181.7,True
+2025-05-30,V1865,Kolkata,East,Container,3430.7,12.0,18.5,25.9,67.6,True
+2025-05-30,V1866,Visakhapatnam,East,Bulk Carrier,7394.5,60.0,66.7,10.7,189.8,False
+2025-05-30,V1867,Mumbai,West,Bulk Carrier,3119.8,0.0,0.0,8.3,64.5,True
+2025-05-31,V1868,Cochin,South,Ro-Ro,2198.6,54.6,49.3,22.4,52.5,False
+2025-05-31,V1869,Kandla,West,General Cargo,5779.7,21.0,0.0,30.4,130.5,True
+2025-05-31,V1870,Visakhapatnam,East,General Cargo,1761.9,31.3,25.7,18.7,51.1,True
+2025-05-31,V1871,Chennai,South,Tanker,3398.5,16.3,22.4,11.3,98.6,True
+2025-05-31,V1872,Kolkata,East,Tanker,1137.7,5.6,0.0,9.8,24.9,True
+2025-05-31,V1873,Kandla,West,Ro-Ro,1654.1,6.6,0.0,18.2,38.8,True
+2025-05-31,V1874,Kolkata,East,General Cargo,2449.2,27.1,28.8,15.7,69.6,True
+2025-06-01,V1875,Mumbai,West,Tanker,899.9,5.2,4.3,21.3,21.8,True
+2025-06-01,V1876,Mumbai,West,Tanker,6034.5,29.3,39.6,16.4,101.4,False
+2025-06-01,V1877,Mumbai,West,General Cargo,3526.7,0.0,3.2,15.9,61.5,True
+2025-06-01,V1878,Cochin,South,Ro-Ro,2938.9,29.0,32.9,20.3,58.2,False
+2025-06-01,V1879,Kolkata,East,Tanker,1218.1,4.3,5.2,15.8,30.5,True
+2025-06-03,V1880,Cochin,South,General Cargo,3478.5,0.0,0.0,20.0,74.6,True
+2025-06-03,V1881,Chennai,South,Tanker,3680.5,10.5,19.1,16.0,86.7,True
+2025-06-03,V1882,Mumbai,West,General Cargo,12002.8,0.0,6.3,19.7,350.8,True
+2025-06-03,V1883,Cochin,South,Bulk Carrier,1586.1,32.3,41.3,17.8,27.6,False
+2025-06-04,V1884,Kolkata,East,Tanker,985.4,44.2,36.0,19.5,15.8,False
+2025-06-04,V1885,Cochin,South,Ro-Ro,1277.3,1.8,25.4,35.0,20.5,True
+2025-06-04,V1886,Chennai,South,General Cargo,2123.8,5.6,0.0,21.6,38.7,True
+2025-06-04,V1887,Cochin,South,Container,4990.4,0.0,3.3,10.4,145.5,True
+2025-06-04,V1888,Kolkata,East,General Cargo,10920.6,60.0,49.7,3.7,238.3,False
+2025-06-05,V1889,Kandla,West,Tanker,3996.9,0.0,2.0,22.2,92.4,True
+2025-06-05,V1890,Chennai,South,General Cargo,3090.0,18.3,32.6,4.0,55.1,False
+2025-06-05,V1891,Mumbai,West,Ro-Ro,2128.7,27.3,35.4,19.6,35.8,False
+2025-06-05,V1892,Visakhapatnam,East,Tanker,6779.6,21.3,11.5,7.8,145.5,True
+2025-06-05,V1893,Mumbai,West,Tanker,2302.7,65.9,73.0,16.3,44.4,False
+2025-06-06,V1894,Kolkata,East,Bulk Carrier,4600.2,27.8,35.8,28.6,94.1,False
+2025-06-06,V1895,Chennai,South,Tanker,1372.5,36.6,23.3,29.2,25.8,True
+2025-06-06,V1896,Kandla,West,Bulk Carrier,1013.5,18.5,34.2,20.5,16.5,False
+2025-06-06,V1897,Chennai,South,Bulk Carrier,1970.9,0.0,7.5,27.4,43.4,True
+2025-06-06,V1898,Chennai,South,Container,5538.8,0.3,0.0,10.4,106.9,True
+2025-06-07,V1899,Kolkata,East,Container,2169.1,16.0,18.6,12.4,53.3,True
+2025-06-07,V1900,Visakhapatnam,East,General Cargo,4214.7,0.0,14.7,28.6,104.4,True
+2025-06-07,V1901,Cochin,South,General Cargo,1193.6,22.4,10.2,15.3,33.5,True
+2025-06-08,V1902,Mumbai,West,Tanker,5583.5,0.0,0.0,15.7,135.2,True
+2025-06-08,V1903,Visakhapatnam,East,Bulk Carrier,595.8,45.6,39.2,19.9,14.9,False
+2025-06-08,V1904,Visakhapatnam,East,Ro-Ro,2993.4,0.0,0.0,11.4,63.0,True
+2025-06-08,V1905,Chennai,South,Bulk Carrier,3477.2,0.4,21.7,20.8,57.9,True
+2025-06-08,V1906,Chennai,South,General Cargo,5554.1,0.0,0.0,19.3,89.4,True
+2025-06-08,V1907,Chennai,South,Ro-Ro,4250.8,10.0,15.9,29.9,71.7,True
+2025-06-08,V1908,Mumbai,West,Ro-Ro,3104.6,24.1,11.3,21.6,74.8,True
+2025-06-09,V1909,Kolkata,East,Bulk Carrier,1898.6,49.5,54.4,13.2,30.1,False
+2025-06-09,V1910,Kandla,West,General Cargo,7105.7,22.6,0.0,20.7,171.9,True
+2025-06-09,V1911,Kolkata,East,Ro-Ro,1506.9,51.1,77.9,22.6,25.3,False
+2025-06-09,V1912,Chennai,South,General Cargo,4224.4,20.0,1.5,23.0,85.6,True
+2025-06-10,V1913,Chennai,South,Tanker,2212.7,23.4,23.7,22.9,56.6,True
+2025-06-10,V1914,Kandla,West,Bulk Carrier,2590.0,16.9,24.2,30.3,56.3,True
+2025-06-10,V1915,Kolkata,East,General Cargo,6263.8,20.9,4.4,18.8,156.3,True
+2025-06-11,V1916,Kandla,West,Ro-Ro,4131.8,37.1,11.3,14.2,72.4,True
+2025-06-11,V1917,Kolkata,East,Ro-Ro,3730.9,61.3,68.8,20.9,78.0,False
+2025-06-11,V1918,Visakhapatnam,East,General Cargo,6869.7,69.8,74.5,14.6,110.7,False
+2025-06-11,V1919,Kandla,West,Bulk Carrier,4316.2,30.9,26.1,19.8,128.9,True
+2025-06-11,V1920,Chennai,South,General Cargo,5023.1,0.0,6.2,19.0,125.8,True
+2025-06-12,V1921,Chennai,South,Tanker,2776.9,14.6,24.7,8.5,72.7,True
+2025-06-12,V1922,Mumbai,West,Ro-Ro,3656.1,18.5,23.9,24.6,92.7,True
+2025-06-12,V1923,Kolkata,East,General Cargo,3052.5,74.5,76.8,23.8,80.2,False
+2025-06-12,V1924,Mumbai,West,General Cargo,2782.1,82.3,79.0,18.7,67.7,False
+2025-06-12,V1925,Mumbai,West,Tanker,1209.1,0.0,0.0,15.5,30.6,True
+2025-06-13,V1926,Mumbai,West,Bulk Carrier,4941.8,34.7,43.5,23.8,109.5,False
+2025-06-13,V1927,Kolkata,East,Ro-Ro,6074.8,11.1,12.4,21.4,123.7,True
+2025-06-13,V1928,Visakhapatnam,East,Bulk Carrier,4770.1,41.5,25.4,20.3,126.6,True
+2025-06-13,V1929,Kandla,West,Container,7375.1,44.9,46.8,34.7,193.5,False
+2025-06-14,V1930,Chennai,South,Ro-Ro,3620.2,10.9,39.5,16.4,71.2,False
+2025-06-14,V1931,Kolkata,East,Container,4396.5,41.7,35.7,8.9,110.7,False
+2025-06-14,V1932,Kandla,West,Container,1984.9,62.7,53.4,10.0,31.2,False
+2025-06-14,V1933,Kandla,West,General Cargo,2545.2,53.4,54.1,25.3,39.5,False
+2025-06-15,V1934,Kolkata,East,Bulk Carrier,4817.9,23.3,21.7,22.5,72.7,True
+2025-06-15,V1935,Kandla,West,Container,3741.2,22.3,27.1,17.0,108.5,True
+2025-06-15,V1936,Kolkata,East,Bulk Carrier,9903.9,0.0,19.8,19.4,284.4,True
+2025-06-15,V1937,Mumbai,West,Tanker,1743.0,2.0,9.5,11.2,45.4,True
+2025-06-15,V1938,Mumbai,West,Tanker,1011.0,28.7,24.6,21.2,19.8,True
+2025-06-16,V1939,Chennai,South,Bulk Carrier,5068.2,1.8,0.0,17.3,122.7,True
+2025-06-16,V1940,Mumbai,West,Tanker,2139.9,23.7,21.3,25.0,41.2,True
+2025-06-16,V1941,Kandla,West,Bulk Carrier,2883.0,57.5,47.6,29.2,54.0,False
+2025-06-16,V1942,Cochin,South,Ro-Ro,1590.5,20.9,6.8,24.5,45.3,True
+2025-06-16,V1943,Kandla,West,General Cargo,5729.0,5.7,0.0,17.9,115.3,True
+2025-06-17,V1944,Mumbai,West,Container,1999.3,37.1,59.8,15.1,37.9,False
+2025-06-17,V1945,Mumbai,West,Tanker,4134.8,4.6,13.3,9.1,94.0,True
+2025-06-17,V1946,Chennai,South,Bulk Carrier,5041.3,10.6,12.3,10.1,130.6,True
+2025-06-17,V1947,Visakhapatnam,East,General Cargo,3041.7,0.0,13.6,22.3,50.0,True
+2025-06-18,V1948,Visakhapatnam,East,Ro-Ro,1931.9,0.0,26.9,23.8,45.4,True
+2025-06-18,V1949,Mumbai,West,Tanker,3127.9,12.4,3.6,20.5,86.0,True
+2025-06-18,V1950,Chennai,South,Tanker,3272.0,49.2,36.7,24.5,87.9,False
+2025-06-18,V1951,Mumbai,West,Container,995.6,0.0,0.0,9.4,17.0,True
+2025-06-19,V1952,Chennai,South,Ro-Ro,1747.3,8.1,1.5,18.5,40.5,True
+2025-06-19,V1953,Cochin,South,General Cargo,6846.4,44.3,30.4,31.0,193.9,False
+2025-06-20,V1954,Kandla,West,Container,2793.7,0.0,0.0,16.4,62.5,True
+2025-06-20,V1955,Mumbai,West,Ro-Ro,4857.3,54.3,59.9,21.1,114.9,False
+2025-06-20,V1956,Visakhapatnam,East,General Cargo,2009.6,11.8,3.1,19.7,42.0,True
+2025-06-20,V1957,Mumbai,West,General Cargo,3263.4,10.9,23.4,14.2,49.1,True
+2025-06-21,V1958,Visakhapatnam,East,Bulk Carrier,1784.7,21.3,42.5,14.4,48.8,False
+2025-06-21,V1959,Cochin,South,Bulk Carrier,6365.5,32.4,38.5,14.6,144.2,False
+2025-06-21,V1960,Kolkata,East,Ro-Ro,5565.1,11.1,0.0,26.3,158.7,True
+2025-06-22,V1961,Mumbai,West,General Cargo,3546.6,0.0,0.0,30.2,97.4,True
+2025-06-22,V1962,Kolkata,East,Bulk Carrier,4750.6,29.0,24.6,32.4,73.5,True
+2025-06-22,V1963,Visakhapatnam,East,Ro-Ro,2993.7,0.8,11.7,11.8,85.6,True
+2025-06-22,V1964,Chennai,South,Container,3398.8,30.5,16.0,22.9,87.1,True
+2025-06-22,V1965,Visakhapatnam,East,Tanker,2348.0,42.5,35.4,16.1,62.8,False
+2025-06-22,V1966,Mumbai,West,General Cargo,6528.2,0.0,0.0,20.7,120.3,True
+2025-06-23,V1967,Visakhapatnam,East,General Cargo,3136.7,44.7,55.3,23.8,51.6,False
+2025-06-23,V1968,Visakhapatnam,East,General Cargo,4830.5,48.2,49.7,13.1,122.7,False
+2025-06-23,V1969,Mumbai,West,Ro-Ro,2121.9,41.4,66.3,24.6,46.9,False
+2025-06-23,V1970,Kandla,West,Container,8742.6,37.9,28.1,25.4,236.2,True
+2025-06-24,V1971,Cochin,South,Ro-Ro,4696.5,19.8,4.4,17.3,89.6,True
+2025-06-24,V1972,Kolkata,East,Tanker,5175.6,22.1,17.3,12.4,132.6,True
+2025-06-24,V1973,Cochin,South,Container,4496.2,17.2,28.8,11.0,99.9,True
+2025-06-24,V1974,Kolkata,East,Container,4929.5,2.0,27.1,5.5,107.2,True
+2025-06-24,V1975,Kolkata,East,Bulk Carrier,7780.2,14.1,0.0,23.4,213.9,True
+2025-06-24,V1976,Cochin,South,Container,1402.8,48.1,55.6,16.5,27.6,False
+2025-06-24,V1977,Visakhapatnam,East,Tanker,2568.8,0.0,0.0,24.7,75.2,True
+2025-06-25,V1978,Chennai,South,Container,1490.4,51.9,48.8,14.9,40.3,False
+2025-06-25,V1979,Kolkata,East,General Cargo,4115.2,16.8,1.6,23.1,92.6,True
+2025-06-25,V1980,Kolkata,East,Bulk Carrier,7262.3,38.9,27.2,12.6,127.6,True
+2025-06-25,V1981,Cochin,South,Ro-Ro,3769.6,40.2,18.2,20.0,72.6,True
+2025-06-25,V1982,Cochin,South,Ro-Ro,2226.9,0.0,8.9,17.5,56.2,True
+2025-06-25,V1983,Cochin,South,Bulk Carrier,2314.4,27.7,25.8,7.2,38.9,True
+2025-06-25,V1984,Chennai,South,Container,6235.4,28.3,39.9,20.9,123.5,False
+2025-06-25,V1985,Cochin,South,Ro-Ro,1195.9,14.3,17.0,14.7,30.7,True
+2025-06-25,V1986,Mumbai,West,Tanker,1179.0,32.7,15.7,14.2,24.3,True
+2025-06-26,V1987,Chennai,South,Container,4295.8,0.0,6.1,23.7,83.0,True
+2025-06-26,V1988,Chennai,South,Container,1981.7,0.0,9.4,15.4,57.6,True
+2025-06-26,V1989,Kolkata,East,Tanker,3913.5,5.1,0.0,8.2,70.9,True
+2025-06-26,V1990,Visakhapatnam,East,Ro-Ro,1854.2,0.0,0.0,21.7,29.6,True
+2025-06-27,V1991,Visakhapatnam,East,Ro-Ro,2738.9,0.0,0.0,21.2,41.7,True
+2025-06-27,V1992,Kolkata,East,Container,5325.0,3.4,0.0,7.0,103.4,True
+2025-06-27,V1993,Cochin,South,Bulk Carrier,4009.9,35.4,42.8,22.2,81.8,False
+2025-06-27,V1994,Kolkata,East,Tanker,1864.0,0.0,2.9,16.6,50.2,True
+2025-06-27,V1995,Mumbai,West,Tanker,3640.8,0.0,0.0,23.7,89.0,True
+2025-06-27,V1996,Kolkata,East,Container,2128.8,36.6,42.3,17.6,42.6,False
+2025-06-28,V1997,Kolkata,East,Ro-Ro,7435.8,11.0,0.0,25.6,121.1,True
+2025-06-28,V1998,Kandla,West,Ro-Ro,2240.0,32.3,39.1,10.7,54.1,False
+2025-06-28,V1999,Kandla,West,Tanker,6066.0,55.6,43.2,18.9,138.4,False
+2025-06-28,V2000,Chennai,South,Ro-Ro,7183.5,2.4,3.2,15.9,143.9,True
+2025-06-28,V2001,Cochin,South,Ro-Ro,1117.6,18.1,28.9,16.0,18.0,True
+2025-06-28,V2002,Kolkata,East,General Cargo,3319.2,19.0,25.0,21.5,80.5,True
+2025-06-28,V2003,Kolkata,East,Container,3418.8,31.5,28.8,13.9,87.6,True
+2025-06-29,V2004,Cochin,South,Ro-Ro,1832.0,40.5,34.3,2.0,34.9,False
+2025-06-29,V2005,Mumbai,West,Ro-Ro,2703.6,49.9,50.9,22.4,70.8,False
+2025-06-30,V2006,Visakhapatnam,East,Bulk Carrier,3514.0,9.9,8.2,17.4,91.9,True
+2025-06-30,V2007,Visakhapatnam,East,Tanker,4198.3,47.8,62.4,16.8,122.2,False
+2025-06-30,V2008,Kolkata,East,Container,1755.6,56.8,20.9,19.3,31.1,True
+2025-06-30,V2009,Mumbai,West,Tanker,3240.6,52.2,58.3,30.9,89.0,False
+2025-06-30,V2010,Cochin,South,Tanker,3695.5,8.3,0.0,19.5,58.3,True
+2025-06-30,V2011,Kolkata,East,Ro-Ro,2644.2,0.0,4.5,16.4,60.2,True
+2025-07-01,V2012,Visakhapatnam,East,Ro-Ro,2339.6,0.0,17.6,11.2,43.1,True
+2025-07-01,V2013,Chennai,South,Ro-Ro,7301.4,10.3,0.0,21.0,202.9,True
+2025-07-01,V2014,Kolkata,East,Ro-Ro,5267.6,0.0,0.0,7.8,126.9,True
+2025-07-01,V2015,Mumbai,West,Tanker,4710.2,43.0,51.2,27.9,131.3,False
+2025-07-01,V2016,Visakhapatnam,East,Ro-Ro,3540.3,20.0,27.2,22.2,77.2,True
+2025-07-01,V2017,Kolkata,East,Container,1962.4,21.5,2.1,5.2,39.7,True
+2025-07-02,V2018,Mumbai,West,Ro-Ro,3717.8,57.9,62.8,11.2,68.5,False
+2025-07-02,V2019,Kolkata,East,General Cargo,2846.8,2.3,0.0,16.0,45.4,True
+2025-07-02,V2020,Cochin,South,Bulk Carrier,3359.6,12.1,0.0,17.3,64.0,True
+2025-07-03,V2021,Mumbai,West,Bulk Carrier,3934.3,36.5,49.5,13.9,114.8,False
+2025-07-03,V2022,Visakhapatnam,East,Ro-Ro,4170.9,29.4,18.1,17.3,122.8,True
+2025-07-03,V2023,Mumbai,West,Bulk Carrier,2648.5,13.1,18.9,8.5,51.4,True
+2025-07-03,V2024,Mumbai,West,Bulk Carrier,3487.0,8.8,0.0,17.4,56.8,True
+2025-07-03,V2025,Cochin,South,Tanker,3554.0,52.9,68.3,17.5,91.7,False
+2025-07-03,V2026,Kolkata,East,Ro-Ro,1263.1,13.3,15.4,18.5,34.3,True
+2025-07-03,V2027,Visakhapatnam,East,Container,1580.2,17.6,4.3,19.3,33.8,True
+2025-07-04,V2028,Visakhapatnam,East,Bulk Carrier,2014.3,39.4,41.5,14.5,51.7,False
+2025-07-04,V2029,Cochin,South,Ro-Ro,3163.0,0.0,14.0,22.8,68.9,True
+2025-07-04,V2030,Kolkata,East,Tanker,5871.7,0.0,0.0,3.6,127.2,True
+2025-07-04,V2031,Kandla,West,Container,4725.3,37.1,50.0,19.4,110.4,False
+2025-07-04,V2032,Visakhapatnam,East,Bulk Carrier,2065.7,25.2,42.8,15.6,45.6,False
+2025-07-05,V2033,Visakhapatnam,East,Tanker,7128.8,0.0,21.4,12.7,170.4,True
+2025-07-05,V2034,Kandla,West,Tanker,4905.8,35.4,41.5,20.0,113.5,False
+2025-07-05,V2035,Cochin,South,Tanker,1268.2,0.0,0.0,9.0,24.1,True
+2025-07-05,V2036,Chennai,South,Container,2502.3,0.0,6.2,16.9,66.4,True
+2025-07-05,V2037,Mumbai,West,Bulk Carrier,957.5,13.4,17.8,3.7,25.3,True
+2025-07-05,V2038,Kandla,West,General Cargo,4923.9,71.6,73.5,16.8,114.0,False
+2025-07-05,V2039,Kandla,West,General Cargo,8518.2,0.0,5.0,19.7,219.0,True
+2025-07-05,V2040,Mumbai,West,Tanker,763.7,19.2,19.6,11.0,14.3,True
+2025-07-05,V2041,Kolkata,East,Ro-Ro,4933.7,41.8,45.7,17.0,81.9,False
+2025-07-05,V2042,Chennai,South,General Cargo,3400.7,50.0,50.2,16.4,95.0,False
+2025-07-06,V2043,Kolkata,East,Ro-Ro,4315.9,0.0,0.0,21.3,104.0,True
+2025-07-06,V2044,Chennai,South,Container,1203.6,49.2,53.7,14.7,27.7,False
+2025-07-06,V2045,Chennai,South,Container,3767.0,0.0,0.0,15.1,67.6,True
+2025-07-06,V2046,Kandla,West,Bulk Carrier,1051.9,0.0,0.0,25.1,24.3,True
+2025-07-07,V2047,Cochin,South,Ro-Ro,7375.7,94.5,93.1,21.0,138.5,False
+2025-07-07,V2048,Mumbai,West,Tanker,2023.9,19.8,6.3,15.5,46.6,True
+2025-07-07,V2049,Cochin,South,Tanker,1214.4,7.9,13.4,24.4,24.0,True
+2025-07-07,V2050,Cochin,South,Container,2809.1,18.0,16.5,10.2,53.3,True
+2025-07-07,V2051,Visakhapatnam,East,General Cargo,4124.6,20.3,16.6,18.6,91.0,True
+2025-07-08,V2052,Kolkata,East,Tanker,2345.2,23.8,20.3,23.4,50.2,True
+2025-07-08,V2053,Chennai,South,Bulk Carrier,3280.2,68.3,71.4,24.2,86.3,False
+2025-07-08,V2054,Kolkata,East,General Cargo,4056.4,6.8,0.0,22.0,73.9,True
+2025-07-08,V2055,Chennai,South,Container,4343.6,0.0,0.0,13.6,94.7,True
+2025-07-08,V2056,Chennai,South,Bulk Carrier,2196.4,24.7,24.1,16.9,52.4,True
+2025-07-08,V2057,Chennai,South,Ro-Ro,2324.5,0.0,21.7,17.4,52.5,True
+2025-07-08,V2058,Mumbai,West,Tanker,2224.6,0.0,5.4,14.8,61.9,True
+2025-07-08,V2059,Visakhapatnam,East,General Cargo,3229.4,2.0,0.0,9.2,81.0,True
+2025-07-09,V2060,Kolkata,East,Ro-Ro,6188.1,0.0,0.0,13.9,106.1,True
+2025-07-09,V2061,Visakhapatnam,East,Bulk Carrier,4893.8,49.1,43.9,11.5,109.8,False
+2025-07-09,V2062,Visakhapatnam,East,Container,3713.7,84.0,79.1,20.6,80.1,False
+2025-07-09,V2063,Mumbai,West,Tanker,2849.0,2.1,0.0,17.6,75.4,True
+2025-07-09,V2064,Kandla,West,Ro-Ro,5058.4,0.0,0.0,20.9,134.1,True
+2025-07-09,V2065,Visakhapatnam,East,Ro-Ro,2614.5,9.3,0.0,23.8,67.0,True
+2025-07-09,V2066,Kandla,West,General Cargo,1037.4,0.0,13.0,23.4,31.0,True
+2025-07-10,V2067,Mumbai,West,Bulk Carrier,1364.4,0.0,14.1,14.0,28.9,True
+2025-07-10,V2068,Kolkata,East,Container,3470.3,22.4,44.0,24.7,64.6,False
+2025-07-10,V2069,Kandla,West,Ro-Ro,3517.4,25.8,28.6,14.5,101.3,True
+2025-07-11,V2070,Cochin,South,General Cargo,5740.1,18.1,41.0,19.8,139.1,False
+2025-07-11,V2071,Kolkata,East,Bulk Carrier,949.9,26.6,45.3,21.9,16.2,False
+2025-07-11,V2072,Visakhapatnam,East,General Cargo,2272.5,14.1,10.8,20.5,49.2,True
+2025-07-11,V2073,Chennai,South,Bulk Carrier,3201.1,0.0,0.0,24.7,81.5,True
+2025-07-12,V2074,Kandla,West,General Cargo,2054.1,43.5,38.5,22.3,54.9,False
+2025-07-12,V2075,Mumbai,West,Container,6399.0,14.2,21.3,26.1,149.1,True
+2025-07-12,V2076,Visakhapatnam,East,Bulk Carrier,3893.4,56.1,61.3,17.8,88.4,False
+2025-07-12,V2077,Kolkata,East,Bulk Carrier,5963.3,0.0,0.0,14.7,144.5,True
+2025-07-12,V2078,Chennai,South,Tanker,3879.1,20.8,16.8,11.1,65.4,True
+2025-07-12,V2079,Cochin,South,Bulk Carrier,3755.5,28.1,27.4,21.0,90.7,True
+2025-07-13,V2080,Kolkata,East,General Cargo,2636.9,0.0,9.2,8.2,72.1,True
+2025-07-13,V2081,Kolkata,East,Container,3142.5,33.9,34.1,24.7,87.3,False
+2025-07-13,V2082,Kolkata,East,Bulk Carrier,3891.7,0.0,12.6,2.0,59.1,True
+2025-07-13,V2083,Cochin,South,General Cargo,4631.1,47.5,70.9,20.9,74.1,False
+2025-07-13,V2084,Kolkata,East,Bulk Carrier,1931.7,60.2,63.1,17.2,45.0,False
+2025-07-13,V2085,Cochin,South,Tanker,1934.5,0.3,14.8,25.1,47.8,True
+2025-07-14,V2086,Visakhapatnam,East,General Cargo,4310.5,0.7,0.0,16.1,83.8,True
+2025-07-14,V2087,Mumbai,West,General Cargo,3398.2,0.0,0.0,18.3,87.9,True
+2025-07-14,V2088,Cochin,South,Bulk Carrier,1880.1,41.6,65.6,22.1,42.2,False
+2025-07-14,V2089,Visakhapatnam,East,General Cargo,4487.2,0.0,0.0,16.7,74.3,True
+2025-07-15,V2090,Chennai,South,Bulk Carrier,965.0,16.8,18.9,12.1,28.9,True
+2025-07-15,V2091,Cochin,South,General Cargo,1958.3,24.1,1.6,24.4,42.7,True
+2025-07-15,V2092,Cochin,South,General Cargo,3878.2,9.2,2.4,13.0,66.6,True
+2025-07-15,V2093,Kolkata,East,General Cargo,1192.9,37.2,33.6,26.1,34.9,False
+2025-07-15,V2094,Mumbai,West,Container,3422.3,0.0,16.0,17.6,80.9,True
+2025-07-16,V2095,Mumbai,West,Container,4029.8,15.4,0.0,15.0,68.4,True
+2025-07-16,V2096,Cochin,South,General Cargo,4189.7,20.1,23.9,4.2,109.4,True
+2025-07-16,V2097,Kolkata,East,Bulk Carrier,4749.0,27.6,35.8,14.4,104.7,False
+2025-07-16,V2098,Visakhapatnam,East,Ro-Ro,2136.4,0.0,14.0,16.3,63.4,True
+2025-07-16,V2099,Visakhapatnam,East,Container,1488.0,0.0,6.6,17.9,38.0,True
+2025-07-16,V2100,Kandla,West,General Cargo,3366.9,0.5,13.5,25.1,90.5,True
+2025-07-16,V2101,Kolkata,East,Tanker,1900.9,0.0,14.2,13.4,51.6,True
+2025-07-16,V2102,Kandla,West,Bulk Carrier,1941.5,8.9,17.6,33.0,42.5,True
+2025-07-17,V2103,Cochin,South,Ro-Ro,3413.3,63.5,65.2,18.8,64.9,False
+2025-07-17,V2104,Kolkata,East,Ro-Ro,6590.3,61.8,65.2,16.7,159.9,False
+2025-07-17,V2105,Mumbai,West,Container,2647.1,0.0,0.0,28.4,56.0,True
+2025-07-17,V2106,Chennai,South,Ro-Ro,1118.6,22.1,8.8,30.2,25.1,True
+2025-07-17,V2107,Kandla,West,Ro-Ro,1720.8,71.5,71.4,27.8,36.2,False
+2025-07-17,V2108,Kandla,West,Bulk Carrier,4717.7,47.0,49.9,20.4,128.8,False
+2025-07-17,V2109,Kolkata,East,General Cargo,3801.8,17.1,14.0,12.0,105.8,True
+2025-07-17,V2110,Chennai,South,Tanker,2311.0,0.0,0.0,19.8,34.9,True
+2025-07-17,V2111,Cochin,South,Tanker,1358.5,54.4,31.4,25.1,35.1,False
+2025-07-17,V2112,Cochin,South,Tanker,7534.5,45.9,54.6,30.6,166.9,False
+2025-07-17,V2113,Kandla,West,Bulk Carrier,3320.5,0.0,23.8,23.0,96.7,True
+2025-07-17,V2114,Kolkata,East,General Cargo,2292.8,24.2,22.5,20.6,65.7,True
+2025-07-17,V2115,Visakhapatnam,East,Container,2060.9,0.0,2.2,20.9,59.6,True
+2025-07-18,V2116,Kolkata,East,Bulk Carrier,3261.6,13.0,12.0,29.8,65.3,True
+2025-07-18,V2117,Kandla,West,Container,5514.9,19.0,32.1,23.2,123.2,False
+2025-07-18,V2118,Kolkata,East,Ro-Ro,2919.7,19.6,2.9,18.7,54.7,True
+2025-07-18,V2119,Chennai,South,Bulk Carrier,2176.9,9.5,21.9,14.0,58.0,True
+2025-07-18,V2120,Mumbai,West,Container,1774.2,7.1,5.5,24.1,48.2,True
+2025-07-18,V2121,Kolkata,East,Ro-Ro,3141.2,55.9,55.4,15.3,61.7,False
+2025-07-18,V2122,Visakhapatnam,East,Ro-Ro,3804.4,1.1,26.1,12.4,73.6,True
+2025-07-18,V2123,Chennai,South,Bulk Carrier,3363.3,51.1,46.0,21.8,86.8,False
+2025-07-19,V2124,Kolkata,East,General Cargo,4712.7,17.1,52.4,21.7,134.5,False
+2025-07-19,V2125,Cochin,South,Tanker,3847.2,22.2,25.1,16.4,86.3,True
+2025-07-19,V2126,Chennai,South,Bulk Carrier,5857.0,8.4,8.6,15.5,152.1,True
+2025-07-19,V2127,Kandla,West,General Cargo,1838.2,5.0,0.0,25.9,37.7,True
+2025-07-19,V2128,Kandla,West,Ro-Ro,3522.8,0.0,0.0,26.7,91.2,True
+2025-07-19,V2129,Kolkata,East,Ro-Ro,2917.6,0.0,3.7,10.3,85.0,True
+2025-07-20,V2130,Mumbai,West,Container,3401.3,12.8,15.3,29.9,78.6,True
+2025-07-20,V2131,Kandla,West,General Cargo,4465.0,8.9,14.5,20.2,124.3,True
+2025-07-20,V2132,Kandla,West,Bulk Carrier,2109.5,42.5,38.8,21.2,36.8,False
+2025-07-20,V2133,Chennai,South,General Cargo,4954.2,31.4,36.7,16.2,88.7,False
+2025-07-20,V2134,Kolkata,East,Container,1039.6,50.2,50.7,21.4,24.7,False
+2025-07-20,V2135,Mumbai,West,Tanker,4391.4,34.9,27.3,22.9,92.8,True
+2025-07-20,V2136,Kandla,West,General Cargo,4658.2,0.0,0.0,22.0,96.1,True
+2025-07-20,V2137,Cochin,South,Ro-Ro,3470.8,0.0,12.6,16.3,80.7,True
+2025-07-20,V2138,Kolkata,East,General Cargo,1965.1,0.0,9.4,12.6,30.1,True
+2025-07-21,V2139,Mumbai,West,Container,1278.3,0.0,2.4,10.6,32.0,True
+2025-07-21,V2140,Kandla,West,Bulk Carrier,3832.9,20.8,15.3,19.0,72.7,True
+2025-07-21,V2141,Kolkata,East,Tanker,8756.9,2.6,23.8,25.8,256.0,True
+2025-07-21,V2142,Kandla,West,Tanker,2920.1,1.8,13.1,25.0,79.8,True
+2025-07-21,V2143,Mumbai,West,Ro-Ro,1833.3,34.9,23.8,11.7,47.5,True
+2025-07-22,V2144,Mumbai,West,General Cargo,2884.4,0.0,6.5,15.7,63.9,True
+2025-07-23,V2145,Visakhapatnam,East,Bulk Carrier,3921.4,0.0,4.3,16.2,81.2,True
+2025-07-23,V2146,Kolkata,East,General Cargo,6056.9,29.2,39.3,11.3,157.7,False
+2025-07-23,V2147,Kolkata,East,Container,3346.0,54.1,53.5,23.4,73.5,False
+2025-07-23,V2148,Kandla,West,General Cargo,2717.2,37.6,41.8,21.7,45.3,False
+2025-07-23,V2149,Kandla,West,General Cargo,3339.0,40.7,22.5,4.3,67.5,True
+2025-07-24,V2150,Kolkata,East,General Cargo,4776.2,63.1,64.6,18.6,104.9,False
+2025-07-24,V2151,Cochin,South,General Cargo,2104.0,25.1,15.8,15.0,48.4,True
+2025-07-24,V2152,Mumbai,West,Bulk Carrier,1658.6,25.4,19.9,20.8,42.8,True
+2025-07-24,V2153,Mumbai,West,Ro-Ro,5306.2,0.0,8.0,8.5,133.1,True
+2025-07-24,V2154,Kolkata,East,Tanker,5378.7,18.2,8.7,15.6,116.2,True
+2025-07-24,V2155,Visakhapatnam,East,Tanker,3453.9,51.5,58.9,15.4,69.7,False
+2025-07-25,V2156,Chennai,South,Bulk Carrier,6322.7,19.2,13.0,25.9,105.0,True
+2025-07-25,V2157,Visakhapatnam,East,General Cargo,5789.5,68.2,68.8,19.9,146.8,False
+2025-07-25,V2158,Kandla,West,General Cargo,5715.4,0.0,7.6,8.8,128.3,True
+2025-07-25,V2159,Mumbai,West,Container,3064.1,11.0,25.3,14.8,79.0,True
+2025-07-26,V2160,Mumbai,West,Bulk Carrier,2492.6,0.0,1.8,20.9,50.7,True
+2025-07-26,V2161,Cochin,South,Tanker,3996.2,21.3,38.9,14.5,75.7,False
+2025-07-26,V2162,Kandla,West,General Cargo,1619.5,18.9,0.0,13.6,24.8,True
+2025-07-27,V2163,Kandla,West,Bulk Carrier,5084.3,0.0,0.0,24.3,145.2,True
+2025-07-27,V2164,Visakhapatnam,East,General Cargo,3503.7,30.5,40.2,19.4,75.8,False
+2025-07-27,V2165,Chennai,South,Tanker,2269.5,15.6,7.5,26.6,54.3,True
+2025-07-27,V2166,Visakhapatnam,East,Tanker,2314.5,0.0,0.0,19.9,44.7,True
+2025-07-27,V2167,Chennai,South,Ro-Ro,3275.4,18.9,14.8,15.5,64.9,True
+2025-07-28,V2168,Visakhapatnam,East,Tanker,2100.4,0.0,0.0,13.6,49.2,True
+2025-07-28,V2169,Visakhapatnam,East,Tanker,1233.7,47.5,53.4,20.4,19.2,False
+2025-07-28,V2170,Visakhapatnam,East,General Cargo,5258.8,46.8,36.6,22.2,133.9,False
+2025-07-28,V2171,Visakhapatnam,East,Ro-Ro,6443.8,0.0,0.0,7.0,103.3,True
+2025-07-28,V2172,Cochin,South,General Cargo,2594.5,0.0,1.1,18.0,70.8,True
+2025-07-28,V2173,Kolkata,East,Ro-Ro,1862.5,0.0,24.5,11.6,51.3,True
+2025-07-29,V2174,Mumbai,West,Tanker,5091.0,3.2,11.1,21.9,89.5,True
+2025-07-29,V2175,Kolkata,East,Container,4768.1,19.9,19.4,5.9,133.0,True
+2025-07-29,V2176,Kandla,West,General Cargo,2943.9,0.0,0.0,2.0,56.2,True
+2025-07-29,V2177,Kolkata,East,Container,2943.0,33.3,23.7,27.3,76.6,True
+2025-07-29,V2178,Visakhapatnam,East,Ro-Ro,2913.1,7.5,14.0,16.8,76.4,True
+2025-07-29,V2179,Kolkata,East,General Cargo,4484.5,57.3,55.4,26.7,68.5,False
+2025-07-29,V2180,Visakhapatnam,East,Bulk Carrier,4127.6,45.8,28.9,23.1,104.5,True
+2025-07-29,V2181,Cochin,South,Container,2153.6,3.6,15.5,16.2,57.1,True
+2025-07-29,V2182,Visakhapatnam,East,Ro-Ro,3907.2,1.8,0.0,10.0,67.2,True
+2025-07-30,V2183,Chennai,South,General Cargo,869.2,54.1,49.7,8.7,18.2,False
+2025-07-30,V2184,Cochin,South,General Cargo,3595.3,53.1,57.6,16.6,65.3,False
+2025-07-30,V2185,Kandla,West,Bulk Carrier,3303.1,23.7,18.9,15.9,62.7,True
+2025-07-30,V2186,Cochin,South,Bulk Carrier,4279.5,20.3,52.8,11.7,123.9,False
+2025-07-30,V2187,Mumbai,West,General Cargo,4444.6,65.0,57.4,21.9,119.3,False
+2025-07-30,V2188,Cochin,South,Container,6327.0,67.1,75.9,12.0,173.5,False
+2025-07-30,V2189,Chennai,South,Container,2201.8,22.2,31.9,22.8,48.2,False
+2025-07-30,V2190,Kandla,West,Tanker,1530.3,60.8,43.9,22.8,27.5,False
+2025-07-30,V2191,Kandla,West,Bulk Carrier,3248.1,48.4,66.0,27.2,80.9,False
+2025-07-30,V2192,Kandla,West,Bulk Carrier,2960.2,25.2,35.9,22.9,80.4,False
+2025-07-31,V2193,Kandla,West,General Cargo,3399.8,0.0,26.6,18.6,95.0,True
+2025-07-31,V2194,Visakhapatnam,East,Ro-Ro,3237.7,4.1,0.0,12.4,89.8,True
+2025-07-31,V2195,Cochin,South,Container,3365.1,8.7,17.8,10.0,96.5,True
+2025-07-31,V2196,Cochin,South,Bulk Carrier,2059.5,12.0,5.4,13.0,49.4,True
+2025-07-31,V2197,Visakhapatnam,East,Bulk Carrier,2076.0,3.0,20.0,27.8,42.5,True
+2025-07-31,V2198,Visakhapatnam,East,Tanker,3881.9,0.0,8.7,14.5,100.0,True
+2025-07-31,V2199,Cochin,South,Ro-Ro,5178.2,0.0,11.7,23.8,142.2,True
+2025-07-31,V2200,Visakhapatnam,East,Ro-Ro,2706.5,49.1,36.9,16.8,74.9,False
+2025-08-02,V2201,Kolkata,East,Bulk Carrier,8707.7,38.6,26.6,16.3,134.5,True
+2025-08-02,V2202,Kandla,West,General Cargo,2511.4,11.0,0.0,27.6,57.7,True
+2025-08-03,V2203,Kolkata,East,General Cargo,1879.9,56.6,55.8,20.2,54.7,False
+2025-08-03,V2204,Kolkata,East,Tanker,5265.2,33.5,18.4,10.8,119.4,True
+2025-08-03,V2205,Visakhapatnam,East,Ro-Ro,427.1,0.0,7.1,9.5,7.5,True
+2025-08-03,V2206,Chennai,South,Bulk Carrier,2113.5,3.9,19.2,11.1,50.3,True
+2025-08-03,V2207,Kolkata,East,General Cargo,10533.5,38.1,30.9,34.9,271.1,False
+2025-08-03,V2208,Kolkata,East,Bulk Carrier,2562.0,11.1,14.7,10.1,57.1,True
+2025-08-03,V2209,Kolkata,East,Tanker,6088.3,14.0,0.0,21.5,170.8,True
+2025-08-04,V2210,Cochin,South,Bulk Carrier,6141.0,13.3,10.8,26.0,103.6,True
+2025-08-04,V2211,Cochin,South,Ro-Ro,4393.7,17.0,15.4,9.1,77.5,True
+2025-08-04,V2212,Kolkata,East,Ro-Ro,9426.0,0.0,0.0,18.5,249.3,True
+2025-08-05,V2213,Kolkata,East,General Cargo,2573.1,13.0,9.7,19.8,64.5,True
+2025-08-05,V2214,Cochin,South,Tanker,6057.7,39.2,24.1,21.2,99.9,True
+2025-08-05,V2215,Kolkata,East,Container,1345.7,0.0,3.8,10.0,20.2,True
+2025-08-05,V2216,Visakhapatnam,East,General Cargo,6242.9,34.9,32.8,22.1,138.3,False
+2025-08-05,V2217,Kandla,West,Ro-Ro,2833.4,0.0,17.9,11.2,44.1,True
+2025-08-05,V2218,Kolkata,East,Bulk Carrier,4127.5,0.0,0.0,25.9,108.5,True
+2025-08-06,V2219,Kolkata,East,Container,8401.4,47.9,64.1,14.9,203.2,False
+2025-08-06,V2220,Kolkata,East,Container,7001.7,19.9,12.4,13.7,122.0,True
+2025-08-06,V2221,Kolkata,East,Ro-Ro,2687.4,2.6,14.9,26.0,69.4,True
+2025-08-06,V2222,Cochin,South,Tanker,2495.9,0.0,0.0,19.1,50.1,True
+2025-08-06,V2223,Cochin,South,Ro-Ro,4709.5,21.1,9.3,5.9,82.5,True
+2025-08-06,V2224,Chennai,South,Bulk Carrier,7744.1,23.3,22.4,13.2,203.8,True
+2025-08-06,V2225,Visakhapatnam,East,Tanker,4405.1,25.5,29.4,17.8,122.0,True
+2025-08-06,V2226,Visakhapatnam,East,Tanker,5125.2,53.3,72.9,21.7,112.3,False
+2025-08-06,V2227,Chennai,South,Container,2059.9,0.0,3.9,15.1,45.4,True
+2025-08-07,V2228,Visakhapatnam,East,General Cargo,2596.3,21.4,4.1,30.7,57.4,True
+2025-08-07,V2229,Chennai,South,Bulk Carrier,2972.1,44.4,53.5,7.1,66.8,False
+2025-08-07,V2230,Mumbai,West,General Cargo,437.0,0.0,15.1,8.2,7.8,True
+2025-08-07,V2231,Chennai,South,Bulk Carrier,1740.5,22.1,45.2,16.0,36.2,False
+2025-08-07,V2232,Mumbai,West,Container,1513.2,69.6,87.4,16.8,37.0,False
+2025-08-07,V2233,Kandla,West,Tanker,3980.8,15.4,12.3,23.7,71.7,True
+2025-08-07,V2234,Cochin,South,Ro-Ro,1256.7,39.7,41.2,11.5,21.9,False
+2025-08-07,V2235,Mumbai,West,Bulk Carrier,2333.4,0.0,7.4,18.5,69.2,True
+2025-08-07,V2236,Mumbai,West,General Cargo,2740.7,12.8,3.4,18.6,66.7,True
+2025-08-07,V2237,Chennai,South,Ro-Ro,973.3,23.8,29.0,25.0,28.7,True
+2025-08-08,V2238,Cochin,South,Ro-Ro,4375.8,43.1,36.0,5.6,122.1,False
+2025-08-08,V2239,Kandla,West,Bulk Carrier,3090.2,23.9,40.9,13.8,84.9,False
+2025-08-08,V2240,Kolkata,East,Tanker,1129.5,48.5,52.7,6.1,21.5,False
+2025-08-09,V2241,Kolkata,East,Container,4983.5,13.3,0.7,22.0,75.6,True
+2025-08-09,V2242,Mumbai,West,General Cargo,10248.6,16.3,16.8,19.5,258.3,True
+2025-08-09,V2243,Chennai,South,General Cargo,3595.3,5.7,11.0,17.8,75.4,True
+2025-08-09,V2244,Cochin,South,Container,1008.7,5.4,0.0,20.1,16.5,True
+2025-08-10,V2245,Chennai,South,Ro-Ro,1934.1,18.7,16.7,11.9,44.2,True
+2025-08-10,V2246,Chennai,South,Container,2758.0,28.5,26.3,23.3,76.4,True
+2025-08-10,V2247,Kandla,West,Ro-Ro,2995.9,42.0,30.6,19.7,58.8,False
+2025-08-10,V2248,Chennai,South,Tanker,1302.9,27.0,49.0,17.3,23.3,False
+2025-08-10,V2249,Mumbai,West,Container,2328.9,0.0,4.2,13.6,43.1,True
+2025-08-10,V2250,Kolkata,East,General Cargo,4504.2,47.1,46.8,28.0,114.5,False
+2025-08-10,V2251,Visakhapatnam,East,Container,2504.8,31.7,25.1,8.9,69.8,True
+2025-08-10,V2252,Kolkata,East,Tanker,4109.8,24.6,12.1,13.4,88.4,True
+2025-08-10,V2253,Kandla,West,General Cargo,1094.5,39.8,39.5,36.0,27.7,False
+2025-08-10,V2254,Visakhapatnam,East,Ro-Ro,2449.3,1.2,0.0,25.6,60.0,True
+2025-08-11,V2255,Chennai,South,General Cargo,5991.0,49.0,43.8,8.0,122.7,False
+2025-08-11,V2256,Kandla,West,Tanker,3474.4,20.2,31.2,18.0,61.4,False
+2025-08-11,V2257,Chennai,South,Container,4620.6,54.0,54.7,21.9,86.9,False
+2025-08-11,V2258,Kolkata,East,Bulk Carrier,8395.9,12.2,9.0,21.6,132.4,True
+2025-08-12,V2259,Cochin,South,Ro-Ro,7269.9,8.2,0.0,26.5,195.6,True
+2025-08-12,V2260,Cochin,South,Tanker,3844.8,2.9,11.8,17.1,97.9,True
+2025-08-12,V2261,Cochin,South,Bulk Carrier,1506.7,16.1,6.7,19.5,36.2,True
+2025-08-12,V2262,Mumbai,West,Tanker,2548.6,47.5,39.4,23.5,42.2,False
+2025-08-12,V2263,Kolkata,East,General Cargo,3710.8,13.6,16.6,14.0,106.2,True
+2025-08-12,V2264,Cochin,South,Bulk Carrier,315.9,0.0,0.0,18.3,8.0,True
+2025-08-12,V2265,Chennai,South,General Cargo,2166.4,34.6,39.8,27.2,48.0,False
+2025-08-13,V2266,Cochin,South,Ro-Ro,4148.0,37.9,78.7,18.1,72.3,False
+2025-08-13,V2267,Kandla,West,General Cargo,5755.5,0.0,0.0,14.7,135.7,True
+2025-08-13,V2268,Kolkata,East,Container,4046.3,28.5,33.3,13.8,78.6,False
+2025-08-13,V2269,Kandla,West,Container,1542.8,19.5,11.8,13.5,40.9,True
+2025-08-13,V2270,Chennai,South,Bulk Carrier,1708.4,24.3,31.3,13.2,31.7,False
+2025-08-13,V2271,Kandla,West,Tanker,3490.4,27.8,15.7,10.4,68.0,True
+2025-08-13,V2272,Chennai,South,Container,1312.0,45.7,38.1,4.7,33.7,False
+2025-08-13,V2273,Kolkata,East,Ro-Ro,978.9,4.8,0.4,21.7,24.2,True
+2025-08-13,V2274,Chennai,South,Ro-Ro,7086.5,79.6,78.2,19.8,163.1,False
+2025-08-14,V2275,Kolkata,East,Tanker,1403.8,40.8,50.4,29.5,23.0,False
+2025-08-14,V2276,Kolkata,East,General Cargo,3735.0,0.0,32.4,12.9,99.0,False
+2025-08-14,V2277,Cochin,South,General Cargo,2072.3,15.3,25.4,15.0,43.6,True
+2025-08-14,V2278,Mumbai,West,Tanker,3414.7,65.2,84.9,28.0,95.2,False
+2025-08-14,V2279,Cochin,South,Tanker,3398.3,16.0,13.1,17.3,73.1,True
+2025-08-14,V2280,Cochin,South,Bulk Carrier,5415.7,23.8,32.3,20.3,110.0,False
+2025-08-14,V2281,Mumbai,West,Container,3452.9,23.7,21.7,17.9,80.5,True
+2025-08-14,V2282,Kandla,West,Tanker,2692.9,0.0,4.0,19.9,65.7,True
+2025-08-15,V2283,Chennai,South,Ro-Ro,4480.8,0.0,0.0,11.3,94.3,True
+2025-08-15,V2284,Cochin,South,General Cargo,3987.0,34.7,20.8,21.4,91.9,True
+2025-08-15,V2285,Cochin,South,Tanker,1671.7,5.3,10.2,8.4,48.4,True
+2025-08-15,V2286,Cochin,South,Container,4940.5,8.4,0.0,9.0,145.4,True
+2025-08-15,V2287,Cochin,South,Tanker,1371.3,44.8,50.2,18.8,32.0,False
+2025-08-15,V2288,Kolkata,East,General Cargo,1411.9,0.0,8.6,9.8,30.6,True
+2025-08-16,V2289,Chennai,South,Bulk Carrier,4499.2,25.8,39.8,17.0,103.9,False
+2025-08-16,V2290,Chennai,South,Ro-Ro,2333.0,71.3,50.8,17.8,50.5,False
+2025-08-16,V2291,Chennai,South,Ro-Ro,2400.5,0.0,3.1,19.8,43.7,True
+2025-08-16,V2292,Cochin,South,General Cargo,3820.2,6.3,0.1,23.7,73.7,True
+2025-08-16,V2293,Kolkata,East,Ro-Ro,4948.1,35.3,34.9,12.6,96.3,False
+2025-08-16,V2294,Cochin,South,General Cargo,2319.7,0.8,0.0,22.4,37.2,True
+2025-08-16,V2295,Kandla,West,General Cargo,3258.6,23.9,26.3,21.1,67.0,True
+2025-08-16,V2296,Cochin,South,Bulk Carrier,3634.8,14.1,0.0,12.9,83.9,True
+2025-08-17,V2297,Chennai,South,General Cargo,1742.7,0.0,0.0,22.4,49.3,True
+2025-08-17,V2298,Mumbai,West,General Cargo,2168.3,0.0,19.1,5.0,53.1,True
+2025-08-17,V2299,Kandla,West,General Cargo,4453.6,44.7,40.1,26.4,80.8,False
+2025-08-17,V2300,Cochin,South,Tanker,2290.4,18.1,36.6,14.4,61.1,False
+2025-08-17,V2301,Mumbai,West,General Cargo,8776.1,23.8,5.2,9.9,245.9,True
+2025-08-17,V2302,Mumbai,West,Container,7815.6,12.0,11.6,10.1,193.6,True
+2025-08-17,V2303,Visakhapatnam,East,General Cargo,4385.4,30.4,18.6,13.7,112.5,True
+2025-08-18,V2304,Chennai,South,General Cargo,9774.8,0.0,12.8,15.3,249.0,True
+2025-08-18,V2305,Visakhapatnam,East,Bulk Carrier,5456.1,0.0,0.0,13.0,98.4,True
+2025-08-18,V2306,Chennai,South,Tanker,3727.1,20.1,27.1,20.9,60.7,True
+2025-08-18,V2307,Visakhapatnam,East,Ro-Ro,2323.2,0.0,15.5,24.8,39.4,True
+2025-08-18,V2308,Mumbai,West,Bulk Carrier,1113.9,7.6,0.0,11.7,18.3,True
+2025-08-19,V2309,Cochin,South,General Cargo,4198.4,0.0,0.0,26.3,110.7,True
+2025-08-19,V2310,Kandla,West,Container,3906.0,36.0,56.3,21.9,83.8,False
+2025-08-19,V2311,Visakhapatnam,East,Ro-Ro,3405.9,2.9,2.8,29.6,98.3,True
+2025-08-19,V2312,Mumbai,West,Ro-Ro,2605.6,22.0,36.2,16.1,49.1,False
+2025-08-19,V2313,Chennai,South,General Cargo,5206.4,33.2,33.3,19.1,115.2,False
+2025-08-20,V2314,Kandla,West,Ro-Ro,5907.2,0.0,0.2,21.2,137.9,True
+2025-08-20,V2315,Visakhapatnam,East,Container,4059.0,2.0,6.9,25.3,81.6,True
+2025-08-20,V2316,Visakhapatnam,East,Ro-Ro,739.2,20.4,8.6,20.6,18.0,True
+2025-08-20,V2317,Cochin,South,Tanker,2862.6,0.0,7.6,21.3,66.3,True
+2025-08-20,V2318,Cochin,South,Container,6495.8,2.5,0.0,8.2,165.1,True
+2025-08-20,V2319,Kandla,West,Tanker,2603.8,17.6,15.2,24.3,45.0,True
+2025-08-20,V2320,Mumbai,West,Bulk Carrier,10063.8,10.4,1.2,20.5,250.0,True
+2025-08-20,V2321,Visakhapatnam,East,Container,589.7,0.0,21.0,13.4,10.9,True
+2025-08-20,V2322,Mumbai,West,Ro-Ro,3279.4,25.5,23.5,12.1,62.7,True
+2025-08-21,V2323,Kolkata,East,Container,5393.1,12.9,27.2,19.3,111.0,True
+2025-08-21,V2324,Visakhapatnam,East,Container,1499.9,36.2,28.0,16.3,27.0,True
+2025-08-21,V2325,Mumbai,West,Ro-Ro,1730.3,57.9,71.6,11.0,43.6,False
+2025-08-21,V2326,Mumbai,West,Tanker,6944.8,32.7,25.3,13.4,193.0,True
+2025-08-21,V2327,Kandla,West,Bulk Carrier,773.3,26.3,2.7,16.7,13.5,True
+2025-08-22,V2328,Chennai,South,Ro-Ro,4673.2,49.9,60.0,17.5,102.2,False
+2025-08-22,V2329,Kolkata,East,Ro-Ro,5269.5,64.5,72.1,19.4,102.7,False
+2025-08-22,V2330,Kandla,West,Ro-Ro,5470.4,48.7,63.9,20.1,153.5,False
+2025-08-22,V2331,Kandla,West,Container,1793.3,35.5,33.1,23.2,41.2,False
+2025-08-22,V2332,Cochin,South,General Cargo,2765.7,26.6,14.0,17.2,68.1,True
+2025-08-22,V2333,Chennai,South,Tanker,3652.1,29.1,38.4,4.6,107.4,False
+2025-08-23,V2334,Mumbai,West,Bulk Carrier,9217.6,19.1,30.0,9.6,203.1,False
+2025-08-23,V2335,Visakhapatnam,East,Ro-Ro,1385.4,59.8,52.7,21.8,36.9,False
+2025-08-23,V2336,Visakhapatnam,East,Bulk Carrier,3665.7,63.6,71.6,20.5,94.2,False
+2025-08-23,V2337,Cochin,South,Bulk Carrier,1668.8,17.2,11.8,16.0,28.4,True
+2025-08-23,V2338,Mumbai,West,Container,4539.6,47.7,54.5,18.9,117.0,False
+2025-08-23,V2339,Kolkata,East,Ro-Ro,3801.7,12.3,14.6,19.9,62.2,True
+2025-08-23,V2340,Cochin,South,General Cargo,12281.6,16.5,12.0,23.4,352.2,True
+2025-08-23,V2341,Kandla,West,General Cargo,3830.8,8.7,7.1,6.7,73.2,True
+2025-08-24,V2342,Kandla,West,Bulk Carrier,8247.6,23.3,33.9,13.8,222.0,False
+2025-08-24,V2343,Chennai,South,Ro-Ro,947.7,17.5,14.2,16.1,26.0,True
+2025-08-24,V2344,Kolkata,East,Bulk Carrier,2293.5,35.5,31.0,25.6,38.0,False
+2025-08-24,V2345,Kolkata,East,Bulk Carrier,5273.2,24.1,41.6,10.2,95.7,False
+2025-08-24,V2346,Cochin,South,Container,5378.0,18.4,12.9,19.1,123.3,True
+2025-08-24,V2347,Mumbai,West,Ro-Ro,2119.7,10.6,29.4,21.9,52.0,True
+2025-08-24,V2348,Visakhapatnam,East,Container,5723.1,11.4,25.1,17.0,110.6,True
+2025-08-25,V2349,Chennai,South,Bulk Carrier,5110.6,10.9,35.2,15.7,78.4,False
+2025-08-25,V2350,Mumbai,West,Container,5809.8,0.0,15.8,16.2,169.3,True
+2025-08-25,V2351,Visakhapatnam,East,Container,1669.2,33.0,20.7,22.9,45.9,True
+2025-08-25,V2352,Kandla,West,General Cargo,2214.4,1.3,15.0,18.3,49.4,True
+2025-08-25,V2353,Cochin,South,Container,3960.5,24.8,25.9,18.9,95.1,True
+2025-08-25,V2354,Chennai,South,Container,5022.1,21.0,22.5,10.6,123.6,True
+2025-08-25,V2355,Kandla,West,Ro-Ro,3913.3,43.7,30.7,12.3,74.3,False
+2025-08-25,V2356,Chennai,South,General Cargo,5207.9,27.7,21.9,27.1,137.1,True
+2025-08-25,V2357,Chennai,South,Container,4702.0,0.0,0.0,11.9,120.6,True
+2025-08-25,V2358,Chennai,South,General Cargo,3513.8,11.8,7.7,15.5,87.9,True
+2025-08-26,V2359,Kolkata,East,Bulk Carrier,2307.8,0.0,20.5,15.4,62.2,True
+2025-08-26,V2360,Cochin,South,General Cargo,3749.0,0.0,0.0,18.3,86.0,True
+2025-08-26,V2361,Kolkata,East,General Cargo,5465.7,0.0,0.0,20.8,96.0,True
+2025-08-26,V2362,Visakhapatnam,East,Tanker,2799.5,11.7,0.0,5.1,57.2,True
+2025-08-26,V2363,Chennai,South,Tanker,5707.3,10.7,12.8,20.0,87.7,True
+2025-08-26,V2364,Chennai,South,General Cargo,2876.1,16.8,26.7,12.4,69.6,True
+2025-08-27,V2365,Chennai,South,Ro-Ro,2036.5,0.0,1.6,15.5,39.2,True
+2025-08-27,V2366,Kolkata,East,Tanker,4034.4,0.9,15.4,12.7,119.0,True
+2025-08-27,V2367,Mumbai,West,General Cargo,950.8,0.0,0.0,7.7,22.2,True
+2025-08-27,V2368,Visakhapatnam,East,Bulk Carrier,2849.1,40.6,40.4,11.3,61.2,False
+2025-08-27,V2369,Cochin,South,Ro-Ro,1444.4,36.1,38.7,15.8,24.0,False
+2025-08-27,V2370,Visakhapatnam,East,Ro-Ro,4865.7,24.4,0.0,12.1,99.0,True
+2025-08-27,V2371,Mumbai,West,Tanker,4386.6,76.0,77.6,17.1,94.9,False
+2025-08-28,V2372,Cochin,South,Ro-Ro,4268.2,28.7,19.7,12.4,119.0,True
+2025-08-28,V2373,Visakhapatnam,East,Tanker,1280.2,6.3,0.0,23.7,26.2,True
+2025-08-28,V2374,Cochin,South,Ro-Ro,2808.8,12.5,9.2,22.0,75.8,True
+2025-08-29,V2375,Kandla,West,Bulk Carrier,6160.2,0.0,0.0,14.6,183.1,True
+2025-08-29,V2376,Kolkata,East,Ro-Ro,2930.0,60.1,67.6,22.4,63.0,False
+2025-08-29,V2377,Chennai,South,General Cargo,4938.9,4.1,2.9,8.8,88.9,True
+2025-08-29,V2378,Kandla,West,Bulk Carrier,2591.1,15.3,33.6,11.3,57.6,False
+2025-08-29,V2379,Chennai,South,Tanker,3478.3,44.3,44.1,20.8,84.1,False
+2025-08-29,V2380,Cochin,South,Bulk Carrier,4882.3,0.0,0.0,11.3,113.2,True
+2025-08-30,V2381,Kandla,West,Container,10438.0,49.6,51.9,16.7,168.0,False
+2025-08-30,V2382,Visakhapatnam,East,Ro-Ro,2013.4,0.0,0.0,16.8,53.1,True
+2025-08-30,V2383,Kandla,West,General Cargo,3798.6,36.6,59.0,18.3,104.3,False
+2025-08-30,V2384,Visakhapatnam,East,Bulk Carrier,2866.4,37.4,28.0,17.9,51.3,True
+2025-08-30,V2385,Kandla,West,Bulk Carrier,3379.4,14.0,16.1,18.2,75.8,True
+2025-08-30,V2386,Kolkata,East,Bulk Carrier,5266.9,53.7,45.4,16.2,117.3,False
+2025-08-31,V2387,Kolkata,East,Container,3420.6,0.0,0.0,7.5,97.7,True
+2025-08-31,V2388,Kandla,West,Tanker,4263.9,2.7,0.0,9.1,106.9,True
+2025-08-31,V2389,Mumbai,West,General Cargo,4591.0,48.8,36.4,12.6,110.9,False
+2025-08-31,V2390,Cochin,South,Bulk Carrier,5661.0,34.3,23.2,8.4,132.3,True
+2025-08-31,V2391,Mumbai,West,Tanker,3796.0,57.3,42.9,11.6,100.3,False
+2025-09-01,V2392,Kandla,West,General Cargo,2271.9,0.0,0.0,22.2,57.1,True
+2025-09-01,V2393,Visakhapatnam,East,Container,891.1,11.3,18.0,10.4,13.9,True
+2025-09-01,V2394,Mumbai,West,Bulk Carrier,3835.4,0.0,12.8,22.4,79.1,True
+2025-09-01,V2395,Visakhapatnam,East,General Cargo,2177.7,54.5,59.7,27.2,36.3,False
+2025-09-01,V2396,Chennai,South,Ro-Ro,5861.1,30.5,32.9,24.4,167.6,False
+2025-09-01,V2397,Chennai,South,Tanker,3609.9,11.9,42.8,17.5,78.5,False
+2025-09-01,V2398,Kolkata,East,Container,4457.4,54.4,58.4,18.4,115.3,False
+2025-09-02,V2399,Chennai,South,Bulk Carrier,2355.0,15.2,27.8,22.8,52.8,True
+2025-09-02,V2400,Cochin,South,Container,2614.5,26.2,21.5,7.8,50.5,True
+2025-09-02,V2401,Cochin,South,Ro-Ro,4570.2,7.1,12.1,19.4,124.2,True
+2025-09-02,V2402,Chennai,South,General Cargo,3869.0,12.6,7.1,21.4,96.6,True
+2025-09-02,V2403,Cochin,South,Bulk Carrier,4596.8,6.5,5.2,24.4,131.0,True
+2025-09-02,V2404,Kandla,West,Bulk Carrier,3792.5,0.0,0.0,20.1,64.3,True
+2025-09-02,V2405,Visakhapatnam,East,Tanker,5594.1,35.8,22.0,15.7,151.5,True
+2025-09-02,V2406,Kolkata,East,Ro-Ro,1828.1,51.4,45.0,15.3,38.0,False
+2025-09-02,V2407,Kandla,West,General Cargo,3013.7,14.6,18.6,17.6,51.5,True
+2025-09-03,V2408,Cochin,South,Tanker,1931.2,17.8,37.1,7.2,55.4,False
+2025-09-03,V2409,Kolkata,East,Tanker,1849.3,35.5,39.6,8.8,45.0,False
+2025-09-03,V2410,Kolkata,East,General Cargo,7079.1,0.0,0.0,15.1,116.8,True
+2025-09-04,V2411,Kandla,West,Ro-Ro,2179.2,7.6,20.9,18.8,61.8,True
+2025-09-04,V2412,Mumbai,West,Ro-Ro,4817.8,33.4,35.0,15.4,117.8,False
+2025-09-05,V2413,Kolkata,East,Bulk Carrier,3818.6,0.0,0.0,16.9,69.9,True
+2025-09-05,V2414,Kolkata,East,Tanker,1336.6,43.5,25.1,19.1,24.8,True
+2025-09-05,V2415,Kandla,West,Container,3209.9,0.0,0.2,21.9,83.3,True
+2025-09-05,V2416,Visakhapatnam,East,Bulk Carrier,4313.4,49.4,33.7,8.0,124.7,False
+2025-09-05,V2417,Cochin,South,Bulk Carrier,4839.3,0.0,0.0,17.6,79.1,True
+2025-09-05,V2418,Mumbai,West,Tanker,2810.0,19.7,6.4,13.4,69.0,True
+2025-09-06,V2419,Visakhapatnam,East,General Cargo,1782.7,1.8,0.0,23.1,30.0,True
+2025-09-06,V2420,Visakhapatnam,East,Ro-Ro,7353.5,19.5,33.0,29.0,131.5,False
+2025-09-06,V2421,Kolkata,East,Bulk Carrier,3862.2,5.9,10.4,14.5,75.7,True
+2025-09-06,V2422,Chennai,South,Tanker,5030.5,0.0,0.0,26.8,129.3,True
+2025-09-06,V2423,Chennai,South,Ro-Ro,2393.5,0.0,0.0,18.5,66.7,True
+2025-09-06,V2424,Visakhapatnam,East,Bulk Carrier,4663.7,0.0,0.0,26.3,128.7,True
+2025-09-06,V2425,Kandla,West,General Cargo,5087.6,20.9,21.1,19.0,95.3,True
+2025-09-06,V2426,Cochin,South,Tanker,1865.3,0.0,23.4,16.3,34.2,True
+2025-09-07,V2427,Kolkata,East,Ro-Ro,5193.4,9.4,21.4,8.1,127.9,True
+2025-09-07,V2428,Cochin,South,Ro-Ro,3153.6,66.6,79.5,11.4,66.0,False
+2025-09-07,V2429,Kandla,West,Bulk Carrier,1746.2,18.3,12.7,20.0,27.5,True
+2025-09-07,V2430,Cochin,South,Tanker,2648.4,5.5,0.1,34.3,48.5,True
+2025-09-07,V2431,Chennai,South,Bulk Carrier,5519.8,35.2,25.6,13.3,148.2,True
+2025-09-07,V2432,Cochin,South,General Cargo,5041.8,68.2,61.3,17.7,136.2,False
+2025-09-07,V2433,Kandla,West,Bulk Carrier,3336.7,5.7,6.1,19.2,89.0,True
+2025-09-08,V2434,Visakhapatnam,East,Container,3703.1,0.0,11.1,21.7,104.5,True
+2025-09-08,V2435,Visakhapatnam,East,Container,6744.8,11.7,16.3,5.0,181.3,True
+2025-09-09,V2436,Mumbai,West,Container,6385.3,32.1,49.2,8.1,155.6,False
+2025-09-09,V2437,Mumbai,West,Ro-Ro,6178.3,0.0,0.0,17.8,112.8,True
+2025-09-09,V2438,Chennai,South,Bulk Carrier,3904.0,49.1,42.0,21.2,81.9,False
+2025-09-09,V2439,Mumbai,West,Bulk Carrier,3578.3,0.0,0.0,5.3,69.6,True
+2025-09-09,V2440,Mumbai,West,Bulk Carrier,3973.0,19.7,11.1,28.1,104.7,True
+2025-09-09,V2441,Visakhapatnam,East,Ro-Ro,6658.0,2.7,1.3,10.3,191.7,True
+2025-09-10,V2442,Kolkata,East,Container,2655.9,31.2,30.9,21.7,42.9,False
+2025-09-10,V2443,Visakhapatnam,East,General Cargo,1734.3,65.1,60.7,15.7,28.4,False
+2025-09-10,V2444,Kandla,West,Ro-Ro,3241.4,53.9,43.2,21.4,93.6,False
+2025-09-10,V2445,Mumbai,West,Container,5330.4,9.9,3.8,28.4,159.4,True
+2025-09-10,V2446,Visakhapatnam,East,General Cargo,4272.7,29.6,40.2,19.8,96.8,False
+2025-09-10,V2447,Kandla,West,Container,4986.8,22.9,17.3,6.1,140.5,True
+2025-09-10,V2448,Mumbai,West,General Cargo,2594.4,70.7,67.5,16.3,54.0,False
+2025-09-10,V2449,Cochin,South,Tanker,4002.5,4.1,0.0,23.0,88.1,True
+2025-09-10,V2450,Visakhapatnam,East,Tanker,2605.5,17.4,9.1,12.2,54.4,True
+2025-09-10,V2451,Mumbai,West,General Cargo,4511.3,22.0,3.0,15.7,131.2,True
+2025-09-11,V2452,Cochin,South,Ro-Ro,4753.5,38.5,37.0,20.3,139.7,False
+2025-09-11,V2453,Chennai,South,Container,2758.3,19.0,28.0,21.2,44.4,True
+2025-09-11,V2454,Mumbai,West,General Cargo,3975.9,0.0,0.0,26.6,110.6,True
+2025-09-11,V2455,Chennai,South,Bulk Carrier,4078.0,0.0,0.0,20.5,88.6,True
+2025-09-11,V2456,Chennai,South,General Cargo,941.2,59.4,59.7,19.6,26.5,False
+2025-09-12,V2457,Visakhapatnam,East,Tanker,2725.6,59.8,80.4,19.3,73.9,False
+2025-09-12,V2458,Kolkata,East,Tanker,2152.1,18.9,12.9,25.5,56.5,True
+2025-09-12,V2459,Kandla,West,Container,3376.0,38.2,54.7,19.1,98.9,False
+2025-09-12,V2460,Kolkata,East,Ro-Ro,6256.4,0.0,4.4,17.3,124.9,True
+2025-09-12,V2461,Kandla,West,General Cargo,930.9,38.2,33.3,23.9,16.6,False
+2025-09-12,V2462,Chennai,South,Bulk Carrier,3372.9,13.8,8.7,29.1,53.2,True
+2025-09-12,V2463,Kolkata,East,Container,1388.8,49.8,60.2,23.7,26.5,False
+2025-09-13,V2464,Cochin,South,Container,4387.1,74.3,78.8,8.8,130.3,False
+2025-09-13,V2465,Mumbai,West,Ro-Ro,5257.3,5.1,0.0,13.2,112.5,True
+2025-09-13,V2466,Kandla,West,Ro-Ro,3270.3,45.5,45.2,22.7,97.9,False
+2025-09-13,V2467,Visakhapatnam,East,Ro-Ro,2092.8,5.8,5.2,22.0,42.3,True
+2025-09-13,V2468,Mumbai,West,Container,1755.4,38.7,65.6,21.3,33.4,False
+2025-09-14,V2469,Cochin,South,Bulk Carrier,2100.0,14.3,10.5,12.9,58.3,True
+2025-09-14,V2470,Mumbai,West,Ro-Ro,3481.4,25.8,31.4,17.4,86.1,False
+2025-09-14,V2471,Kandla,West,Tanker,2424.4,0.0,0.0,11.2,60.9,True
+2025-09-14,V2472,Visakhapatnam,East,Container,4775.7,19.0,0.0,16.9,82.7,True
+2025-09-14,V2473,Visakhapatnam,East,Container,1418.5,2.1,19.7,13.8,34.3,True
+2025-09-14,V2474,Chennai,South,Bulk Carrier,4406.0,0.0,4.9,9.8,124.2,True
+2025-09-15,V2475,Cochin,South,General Cargo,9616.8,0.0,0.0,21.4,223.6,True
+2025-09-15,V2476,Kandla,West,Tanker,3053.1,11.9,3.2,23.1,69.2,True
+2025-09-15,V2477,Mumbai,West,Container,1421.5,58.1,81.9,18.8,28.0,False
+2025-09-15,V2478,Cochin,South,Tanker,2927.6,35.9,52.3,24.1,57.8,False
+2025-09-16,V2479,Visakhapatnam,East,General Cargo,5088.0,0.0,2.2,21.5,115.2,True
+2025-09-16,V2480,Cochin,South,Container,8212.4,0.0,0.0,14.0,163.6,True
+2025-09-16,V2481,Chennai,South,Tanker,1420.9,27.6,26.7,5.4,23.1,True
+2025-09-16,V2482,Mumbai,West,Bulk Carrier,3987.5,15.4,0.0,17.2,117.7,True
+2025-09-17,V2483,Visakhapatnam,East,Bulk Carrier,4609.6,0.0,13.5,26.5,110.3,True
+2025-09-17,V2484,Cochin,South,Ro-Ro,1034.7,24.2,31.5,26.7,17.1,False
+2025-09-17,V2485,Mumbai,West,Tanker,6019.2,7.7,0.6,25.7,101.1,True
+2025-09-17,V2486,Chennai,South,General Cargo,4015.7,0.0,2.2,26.7,96.5,True
+2025-09-17,V2487,Chennai,South,General Cargo,6867.0,3.5,0.0,8.0,181.8,True
+2025-09-18,V2488,Kandla,West,General Cargo,1173.9,3.5,0.0,16.8,26.3,True
+2025-09-18,V2489,Kolkata,East,Ro-Ro,4368.1,0.0,2.4,17.1,88.1,True
+2025-09-18,V2490,Cochin,South,Bulk Carrier,3370.0,38.7,41.4,7.3,59.3,False
+2025-09-19,V2491,Cochin,South,Container,1507.4,18.4,23.8,20.3,40.3,True
+2025-09-19,V2492,Visakhapatnam,East,Tanker,3095.1,31.4,16.6,20.1,55.2,True
+2025-09-19,V2493,Mumbai,West,Container,4089.0,56.5,56.6,12.4,82.3,False
+2025-09-19,V2494,Kandla,West,Bulk Carrier,2654.4,9.5,34.2,20.2,42.4,False
+2025-09-19,V2495,Mumbai,West,Tanker,2605.5,33.9,20.8,21.7,60.1,True
+2025-09-19,V2496,Visakhapatnam,East,General Cargo,2475.7,34.9,28.2,20.4,65.9,True
+2025-09-19,V2497,Visakhapatnam,East,Ro-Ro,3530.5,49.5,32.2,14.8,96.9,False
+2025-09-20,V2498,Kolkata,East,Container,3653.5,0.0,0.0,20.0,94.0,True
+2025-09-20,V2499,Cochin,South,Tanker,4666.4,43.3,44.1,7.4,104.3,False
+2025-09-20,V2500,Kandla,West,Ro-Ro,2806.3,0.0,0.0,27.5,53.1,True
+2025-09-20,V2501,Chennai,South,Tanker,4962.8,30.0,32.0,20.2,101.2,False
+2025-09-21,V2502,Visakhapatnam,East,Ro-Ro,6420.8,13.3,17.6,20.2,190.5,True
+2025-09-21,V2503,Kandla,West,Bulk Carrier,8004.5,0.0,0.0,15.7,175.2,True
+2025-09-21,V2504,Cochin,South,General Cargo,1249.3,0.0,7.4,20.4,27.8,True
+2025-09-21,V2505,Cochin,South,Ro-Ro,4581.8,0.0,0.0,14.9,131.5,True
+2025-09-21,V2506,Mumbai,West,General Cargo,3306.0,8.9,5.1,16.7,84.1,True
+2025-09-21,V2507,Kolkata,East,Bulk Carrier,2407.7,38.3,33.8,23.5,44.3,False
+2025-09-22,V2508,Cochin,South,Container,3575.6,0.6,0.0,11.4,91.5,True
+2025-09-22,V2509,Mumbai,West,Tanker,5885.0,0.0,12.2,11.1,107.0,True
+2025-09-22,V2510,Chennai,South,Ro-Ro,2657.4,0.0,0.0,21.0,69.3,True
+2025-09-22,V2511,Cochin,South,Bulk Carrier,4428.4,7.9,0.0,21.4,88.7,True
+2025-09-22,V2512,Cochin,South,Ro-Ro,4032.5,58.9,61.9,20.6,71.8,False
+2025-09-22,V2513,Kolkata,East,Tanker,2652.3,0.0,18.0,22.9,46.1,True
+2025-09-22,V2514,Mumbai,West,Container,1653.9,56.5,57.4,3.0,35.4,False
+2025-09-23,V2515,Mumbai,West,Tanker,2492.2,15.5,15.9,14.9,39.4,True
+2025-09-23,V2516,Kandla,West,Tanker,7501.1,0.0,0.0,23.4,141.2,True
+2025-09-23,V2517,Kolkata,East,Container,2224.1,35.7,34.4,13.1,53.6,False
+2025-09-23,V2518,Chennai,South,Container,3226.8,47.4,64.0,24.8,62.4,False
+2025-09-23,V2519,Chennai,South,Ro-Ro,7971.1,47.5,66.5,20.0,224.9,False
+2025-09-24,V2520,Kandla,West,General Cargo,1135.7,0.0,2.7,24.3,26.3,True
+2025-09-24,V2521,Visakhapatnam,East,General Cargo,4633.9,0.0,0.0,21.3,87.8,True
+2025-09-24,V2522,Kandla,West,Container,3404.3,36.4,27.8,18.7,83.7,True
+2025-09-24,V2523,Mumbai,West,Container,2415.5,0.0,0.0,28.8,56.4,True
+2025-09-24,V2524,Kolkata,East,General Cargo,685.1,15.2,0.0,14.3,14.9,True
+2025-09-24,V2525,Mumbai,West,General Cargo,1991.8,41.7,44.4,12.2,49.3,False
+2025-09-24,V2526,Visakhapatnam,East,Tanker,4553.1,29.8,17.4,20.6,82.1,True
+2025-09-24,V2527,Kandla,West,Container,4634.4,0.0,0.0,16.6,120.8,True
+2025-09-25,V2528,Kolkata,East,Ro-Ro,4663.5,64.4,68.1,12.6,98.8,False
+2025-09-25,V2529,Kandla,West,Container,5612.7,5.5,23.4,22.5,113.3,True
+2025-09-26,V2530,Cochin,South,General Cargo,1881.7,10.7,0.0,13.4,28.4,True
+2025-09-26,V2531,Chennai,South,General Cargo,4577.8,55.8,58.1,9.0,113.6,False
+2025-09-26,V2532,Visakhapatnam,East,Bulk Carrier,4230.2,0.0,0.0,21.9,70.0,True
+2025-09-26,V2533,Cochin,South,Ro-Ro,5823.0,5.1,6.4,13.4,154.0,True
+2025-09-26,V2534,Chennai,South,Bulk Carrier,5157.5,0.0,9.8,23.1,93.6,True
+2025-09-26,V2535,Kolkata,East,Tanker,1773.9,40.6,41.1,20.7,38.0,False
+2025-09-27,V2536,Kolkata,East,Ro-Ro,4932.2,0.0,0.0,23.7,138.9,True
+2025-09-27,V2537,Chennai,South,Container,931.1,32.6,26.1,15.0,16.3,True
+2025-09-27,V2538,Chennai,South,Ro-Ro,3517.5,35.5,59.3,16.7,55.8,False
+2025-09-27,V2539,Kolkata,East,Ro-Ro,4139.5,0.0,1.4,19.3,113.5,True
+2025-09-27,V2540,Kolkata,East,Ro-Ro,2273.4,0.0,7.6,11.4,40.0,True
+2025-09-27,V2541,Mumbai,West,Tanker,4194.3,14.4,0.0,9.4,110.0,True
+2025-09-27,V2542,Kolkata,East,Bulk Carrier,1462.6,42.1,63.5,17.7,27.4,False
+2025-09-27,V2543,Cochin,South,Ro-Ro,2597.0,25.4,21.2,11.3,44.3,True
+2025-09-27,V2544,Visakhapatnam,East,General Cargo,5147.8,44.7,50.2,16.1,102.3,False
+2025-09-28,V2545,Chennai,South,Ro-Ro,1663.4,54.0,43.5,20.4,36.6,False
+2025-09-28,V2546,Mumbai,West,Bulk Carrier,3383.7,0.0,0.0,18.5,85.3,True
+2025-09-28,V2547,Kolkata,East,Container,3246.6,27.0,7.4,20.0,63.0,True
+2025-09-28,V2548,Kandla,West,Tanker,3126.4,32.2,25.7,21.2,85.5,True
+2025-09-28,V2549,Visakhapatnam,East,Ro-Ro,7384.4,70.9,68.3,6.2,187.9,False
+2025-09-28,V2550,Kolkata,East,Ro-Ro,2943.8,6.7,14.6,5.9,56.8,True
+2025-09-28,V2551,Kolkata,East,Ro-Ro,3519.7,0.0,9.0,17.0,75.3,True
+2025-09-28,V2552,Cochin,South,General Cargo,1700.0,0.0,0.5,19.0,49.3,True
+2025-09-29,V2553,Chennai,South,Tanker,2610.3,12.4,2.8,11.3,50.9,True
+2025-09-29,V2554,Kolkata,East,General Cargo,1573.6,35.6,38.5,15.6,43.8,False
+2025-09-29,V2555,Cochin,South,Bulk Carrier,3020.5,0.0,27.1,11.0,88.0,True
+2025-09-30,V2556,Kandla,West,Tanker,4244.0,0.0,0.0,25.3,77.5,True
+2025-09-30,V2557,Chennai,South,Ro-Ro,607.4,27.1,25.9,21.0,16.2,True
+2025-09-30,V2558,Kolkata,East,Tanker,7386.5,0.0,0.0,23.5,208.5,True
+2025-09-30,V2559,Cochin,South,Ro-Ro,3167.5,3.5,1.1,21.3,79.2,True
+2025-09-30,V2560,Visakhapatnam,East,Bulk Carrier,4739.5,0.0,2.7,21.7,105.8,True
+2025-09-30,V2561,Kolkata,East,Ro-Ro,3719.2,0.0,0.0,30.7,110.4,True
+2025-10-01,V2562,Kolkata,East,Ro-Ro,3792.3,11.6,18.4,24.2,103.1,True
+2025-10-01,V2563,Kolkata,East,Container,4216.8,27.3,29.9,18.3,70.6,True
+2025-10-01,V2564,Visakhapatnam,East,Bulk Carrier,6663.1,20.0,34.3,9.0,150.6,False
+2025-10-01,V2565,Visakhapatnam,East,General Cargo,4593.4,12.2,17.1,17.3,93.6,True
+2025-10-01,V2566,Chennai,South,General Cargo,5798.5,42.4,9.5,21.1,158.1,True
+2025-10-02,V2567,Mumbai,West,Ro-Ro,2082.5,0.0,0.0,23.3,47.7,True
+2025-10-02,V2568,Cochin,South,Bulk Carrier,3110.3,28.5,25.5,13.0,75.4,True
+2025-10-02,V2569,Kandla,West,Tanker,2804.7,4.0,0.0,22.5,42.2,True
+2025-10-02,V2570,Cochin,South,Container,4797.9,9.5,0.0,26.5,108.2,True
+2025-10-02,V2571,Kandla,West,Ro-Ro,2092.0,12.1,13.9,21.5,34.3,True
+2025-10-02,V2572,Chennai,South,Tanker,3275.5,14.3,21.7,16.8,93.8,True
+2025-10-03,V2573,Chennai,South,Tanker,2750.5,24.0,28.4,23.6,81.5,True
+2025-10-03,V2574,Cochin,South,Bulk Carrier,6183.1,26.6,11.2,22.6,181.7,True
+2025-10-03,V2575,Cochin,South,Ro-Ro,5563.8,45.0,49.9,21.2,83.8,False
+2025-10-04,V2576,Kandla,West,Container,1778.2,68.4,58.2,12.7,27.8,False
+2025-10-04,V2577,Kandla,West,General Cargo,8047.9,15.6,20.8,24.5,172.3,True
+2025-10-05,V2578,Kandla,West,General Cargo,2479.1,31.1,32.3,23.2,47.9,False
+2025-10-05,V2579,Kandla,West,General Cargo,1178.7,3.6,18.3,23.0,29.6,True
+2025-10-05,V2580,Visakhapatnam,East,Ro-Ro,2847.6,23.0,35.5,21.8,69.4,False
+2025-10-05,V2581,Visakhapatnam,East,Container,5497.7,21.5,27.7,17.8,96.5,True
+2025-10-05,V2582,Kolkata,East,General Cargo,3047.6,21.9,44.6,10.4,62.0,False
+2025-10-05,V2583,Visakhapatnam,East,Container,912.8,9.9,4.5,12.2,24.3,True
+2025-10-05,V2584,Mumbai,West,Bulk Carrier,6344.4,4.1,14.7,14.9,145.2,True
+2025-10-05,V2585,Cochin,South,Tanker,2028.2,5.0,3.4,5.7,46.9,True
+2025-10-05,V2586,Chennai,South,General Cargo,3515.6,26.7,22.4,12.3,53.9,True
+2025-10-05,V2587,Mumbai,West,General Cargo,1588.5,23.1,26.0,21.6,28.2,True
+2025-10-05,V2588,Cochin,South,Ro-Ro,7371.5,0.0,0.0,13.2,120.7,True
+2025-10-05,V2589,Kolkata,East,Ro-Ro,2418.4,0.0,4.0,27.1,63.9,True
+2025-10-06,V2590,Mumbai,West,Container,2210.4,39.4,24.5,17.0,63.5,True
+2025-10-06,V2591,Mumbai,West,Tanker,1708.4,16.3,17.8,12.5,33.8,True
+2025-10-07,V2592,Chennai,South,General Cargo,7813.2,22.5,26.3,24.5,142.9,True
+2025-10-07,V2593,Cochin,South,General Cargo,4901.9,11.0,21.7,16.4,80.4,True
+2025-10-07,V2594,Visakhapatnam,East,General Cargo,1458.1,0.0,0.2,15.5,23.5,True
+2025-10-08,V2595,Cochin,South,General Cargo,4195.9,46.1,81.1,23.1,102.5,False
+2025-10-08,V2596,Chennai,South,Ro-Ro,3663.3,20.2,17.7,12.3,65.4,True
+2025-10-08,V2597,Kolkata,East,Ro-Ro,2676.8,32.7,9.5,15.5,57.3,True
+2025-10-08,V2598,Kandla,West,General Cargo,5161.7,45.7,44.0,27.7,85.9,False
+2025-10-08,V2599,Cochin,South,General Cargo,2877.1,3.5,18.4,20.9,53.4,True
+2025-10-08,V2600,Chennai,South,Tanker,5208.9,24.9,37.6,12.1,123.5,False
+2025-10-08,V2601,Mumbai,West,Ro-Ro,3088.3,7.7,28.9,10.4,56.1,True
+2025-10-09,V2602,Mumbai,West,Tanker,2173.5,0.0,7.0,25.3,51.6,True
+2025-10-09,V2603,Kandla,West,Container,3644.8,43.7,41.6,20.2,93.6,False
+2025-10-09,V2604,Mumbai,West,Bulk Carrier,960.2,0.0,5.0,24.6,25.5,True
+2025-10-10,V2605,Kolkata,East,Tanker,2138.0,13.9,2.0,18.8,32.1,True
+2025-10-10,V2606,Kolkata,East,Ro-Ro,2255.7,0.0,0.0,12.8,37.0,True
+2025-10-10,V2607,Chennai,South,General Cargo,3452.6,52.5,34.6,20.3,84.6,False
+2025-10-10,V2608,Kandla,West,Tanker,3430.4,47.7,57.0,6.4,75.1,False
+2025-10-10,V2609,Kandla,West,Container,1709.4,23.2,29.1,17.6,37.9,True
+2025-10-10,V2610,Kandla,West,Ro-Ro,5260.7,18.0,20.0,23.0,114.2,True
+2025-10-11,V2611,Kolkata,East,Container,936.2,0.0,1.2,27.2,26.1,True
+2025-10-11,V2612,Kolkata,East,Container,1251.8,6.8,0.0,24.6,29.4,True
+2025-10-11,V2613,Cochin,South,Container,691.7,0.0,17.5,18.4,19.7,True
+2025-10-11,V2614,Mumbai,West,Tanker,2666.3,0.0,7.3,15.7,50.3,True
+2025-10-12,V2615,Cochin,South,Container,4024.7,37.8,42.1,15.4,61.4,False
+2025-10-12,V2616,Cochin,South,Bulk Carrier,8766.4,35.3,25.9,25.7,142.5,True
+2025-10-12,V2617,Cochin,South,Bulk Carrier,2199.6,36.4,42.4,6.9,53.0,False
+2025-10-12,V2618,Visakhapatnam,East,Bulk Carrier,1683.6,7.0,12.5,16.9,31.1,True
+2025-10-12,V2619,Visakhapatnam,East,Bulk Carrier,1540.2,8.0,10.3,15.1,29.3,True
+2025-10-13,V2620,Kolkata,East,General Cargo,4959.1,0.0,0.0,21.4,125.7,True
+2025-10-13,V2621,Kandla,West,Ro-Ro,3957.9,8.3,11.8,13.6,78.9,True
+2025-10-13,V2622,Chennai,South,Ro-Ro,1025.3,41.4,43.6,17.4,27.4,False
+2025-10-13,V2623,Cochin,South,Bulk Carrier,5636.4,27.1,24.7,20.0,148.4,True
+2025-10-13,V2624,Chennai,South,Ro-Ro,2867.9,25.0,29.5,25.3,51.1,True
+2025-10-13,V2625,Kandla,West,Container,6223.4,27.0,32.4,16.2,171.1,False
+2025-10-14,V2626,Cochin,South,General Cargo,2216.1,0.0,15.6,23.5,61.3,True
+2025-10-15,V2627,Chennai,South,Ro-Ro,874.6,82.2,77.9,19.6,18.7,False
+2025-10-15,V2628,Visakhapatnam,East,Ro-Ro,4810.8,5.0,9.9,13.3,128.5,True
+2025-10-15,V2629,Kandla,West,Container,3741.3,25.7,25.8,15.8,104.2,True
+2025-10-15,V2630,Cochin,South,Bulk Carrier,2179.4,0.0,0.0,12.9,63.0,True
+2025-10-16,V2631,Chennai,South,Tanker,4774.4,56.4,57.5,23.7,107.1,False
+2025-10-16,V2632,Cochin,South,Container,9505.3,0.0,0.0,12.8,201.2,True
+2025-10-16,V2633,Visakhapatnam,East,Container,2709.1,0.0,0.0,24.6,74.4,True
+2025-10-16,V2634,Visakhapatnam,East,Bulk Carrier,1105.5,24.4,29.1,16.9,23.1,True
+2025-10-16,V2635,Kolkata,East,Tanker,1011.2,39.5,35.0,25.3,27.8,False
+2025-10-17,V2636,Chennai,South,Ro-Ro,7337.9,7.4,17.1,21.1,199.4,True
+2025-10-17,V2637,Mumbai,West,Tanker,2383.8,0.0,7.6,21.5,39.0,True
+2025-10-17,V2638,Cochin,South,Ro-Ro,3343.2,2.3,0.0,25.0,70.4,True
+2025-10-17,V2639,Visakhapatnam,East,Tanker,2687.4,72.9,55.3,18.3,62.0,False
+2025-10-17,V2640,Visakhapatnam,East,Ro-Ro,5462.6,38.7,30.4,18.2,94.5,False
+2025-10-18,V2641,Visakhapatnam,East,Ro-Ro,1352.0,21.8,16.6,17.3,28.6,True
+2025-10-18,V2642,Visakhapatnam,East,Container,3915.0,45.8,27.0,17.2,87.6,True
+2025-10-18,V2643,Kolkata,East,Tanker,1858.9,0.0,18.1,27.2,52.7,True
+2025-10-18,V2644,Kandla,West,General Cargo,2669.1,0.0,0.0,15.1,57.0,True
+2025-10-19,V2645,Chennai,South,Tanker,3031.8,27.6,4.8,12.0,64.0,True
+2025-10-20,V2646,Visakhapatnam,East,General Cargo,1975.2,75.7,80.6,20.7,43.0,False
+2025-10-20,V2647,Mumbai,West,Bulk Carrier,5182.9,35.8,54.5,31.1,121.1,False
+2025-10-20,V2648,Kolkata,East,Container,6835.9,10.8,25.7,19.8,172.4,True
+2025-10-20,V2649,Chennai,South,Tanker,2798.0,75.2,56.4,30.4,82.8,False
+2025-10-20,V2650,Mumbai,West,Bulk Carrier,1211.6,54.1,39.1,21.7,30.7,False
+2025-10-21,V2651,Kolkata,East,Bulk Carrier,2515.4,0.0,0.0,5.7,71.3,True
+2025-10-21,V2652,Visakhapatnam,East,Ro-Ro,2535.8,43.7,20.8,19.2,57.5,True
+2025-10-21,V2653,Kandla,West,General Cargo,4264.5,25.0,18.2,17.7,66.5,True
+2025-10-21,V2654,Chennai,South,General Cargo,4255.2,56.4,48.7,12.2,72.1,False
+2025-10-21,V2655,Kandla,West,Ro-Ro,3660.6,1.5,2.6,2.0,61.0,True
+2025-10-21,V2656,Chennai,South,Ro-Ro,3983.7,18.0,0.0,15.7,68.8,True
+2025-10-21,V2657,Cochin,South,General Cargo,3808.1,53.3,48.8,19.7,102.1,False
+2025-10-22,V2658,Cochin,South,Bulk Carrier,4261.1,0.0,0.0,10.3,125.1,True
+2025-10-22,V2659,Visakhapatnam,East,Bulk Carrier,5070.2,0.0,8.2,15.7,126.0,True
+2025-10-22,V2660,Kandla,West,Tanker,3785.0,14.8,6.3,12.8,61.2,True
+2025-10-22,V2661,Chennai,South,Bulk Carrier,2056.4,37.3,26.0,19.9,41.0,True
+2025-10-23,V2662,Kolkata,East,Ro-Ro,3251.5,0.0,0.0,17.7,53.0,True
+2025-10-23,V2663,Visakhapatnam,East,Container,4281.0,56.8,74.3,25.8,113.5,False
+2025-10-23,V2664,Kolkata,East,Container,3683.2,27.0,30.3,26.5,98.9,False
+2025-10-24,V2665,Kandla,West,Bulk Carrier,2196.6,0.0,0.0,19.2,55.8,True
+2025-10-24,V2666,Chennai,South,Ro-Ro,2047.8,11.4,1.3,20.9,56.9,True
+2025-10-24,V2667,Visakhapatnam,East,General Cargo,4184.8,28.4,29.4,26.6,70.8,True
+2025-10-24,V2668,Cochin,South,Ro-Ro,2250.9,16.8,0.0,19.3,34.1,True
+2025-10-25,V2669,Kandla,West,Ro-Ro,3022.6,13.3,39.3,14.7,89.5,False
+2025-10-25,V2670,Kandla,West,Ro-Ro,1227.4,2.6,21.2,13.2,19.1,True
+2025-10-25,V2671,Kandla,West,Bulk Carrier,2189.5,19.6,0.0,27.8,64.5,True
+2025-10-25,V2672,Mumbai,West,General Cargo,5995.3,0.0,0.0,18.2,115.0,True
+2025-10-26,V2673,Mumbai,West,Bulk Carrier,3374.1,0.0,3.0,22.1,54.3,True
+2025-10-26,V2674,Kolkata,East,Container,5489.9,10.0,10.9,11.3,107.5,True
+2025-10-26,V2675,Kolkata,East,Bulk Carrier,4423.4,0.0,4.1,14.1,107.4,True
+2025-10-26,V2676,Visakhapatnam,East,Tanker,2951.5,39.8,57.6,23.1,62.1,False
+2025-10-26,V2677,Chennai,South,Ro-Ro,2163.7,27.9,28.2,20.1,48.2,True
+2025-10-27,V2678,Visakhapatnam,East,Ro-Ro,1828.5,23.3,31.0,15.0,53.0,False
+2025-10-27,V2679,Visakhapatnam,East,General Cargo,4225.0,40.3,62.3,15.9,114.9,False
+2025-10-27,V2680,Mumbai,West,General Cargo,4003.1,6.4,19.4,22.1,62.2,True
+2025-10-27,V2681,Mumbai,West,Tanker,4315.0,15.0,10.1,19.4,122.2,True
+2025-10-27,V2682,Visakhapatnam,East,Tanker,3001.5,0.0,20.0,19.7,65.1,True
+2025-10-27,V2683,Visakhapatnam,East,Container,2624.0,24.0,16.9,7.5,74.6,True
+2025-10-28,V2684,Cochin,South,Ro-Ro,2862.7,48.2,42.4,19.2,46.3,False
+2025-10-28,V2685,Visakhapatnam,East,Bulk Carrier,3008.4,16.8,30.0,13.5,61.0,False
+2025-10-28,V2686,Kandla,West,Container,4797.6,33.9,14.4,23.5,138.9,True
+2025-10-28,V2687,Cochin,South,Bulk Carrier,3687.8,23.1,42.3,9.5,104.9,False
+2025-10-28,V2688,Kolkata,East,Container,1179.6,4.9,11.8,23.9,21.2,True
+2025-10-28,V2689,Kandla,West,Tanker,3107.7,0.0,0.0,20.6,59.8,True
+2025-10-29,V2690,Kolkata,East,Container,5203.9,0.0,4.5,15.8,149.5,True
+2025-10-29,V2691,Kandla,West,Container,3006.6,0.0,0.0,18.6,74.5,True
+2025-10-30,V2692,Chennai,South,Bulk Carrier,2013.3,27.7,23.7,10.1,47.9,True
+2025-10-30,V2693,Cochin,South,General Cargo,3002.0,52.7,37.6,12.7,85.0,False
+2025-10-30,V2694,Cochin,South,Tanker,2151.1,31.1,12.8,23.8,49.2,True
+2025-10-30,V2695,Cochin,South,General Cargo,2381.5,29.4,17.0,16.6,68.3,True
+2025-10-30,V2696,Cochin,South,Ro-Ro,1423.7,58.9,46.4,20.7,31.9,False
+2025-10-30,V2697,Chennai,South,General Cargo,3328.1,11.2,25.7,21.2,87.6,True
+2025-10-30,V2698,Chennai,South,Bulk Carrier,3707.9,46.1,38.8,9.3,74.9,False
+2025-10-30,V2699,Chennai,South,Container,2725.7,50.5,71.4,13.4,48.5,False
+2025-10-30,V2700,Visakhapatnam,East,Tanker,6980.4,4.9,0.0,16.2,106.8,True
+2025-10-30,V2701,Visakhapatnam,East,Tanker,1472.1,34.7,35.3,6.9,37.4,False
+2025-10-30,V2702,Visakhapatnam,East,General Cargo,3873.1,32.2,52.6,21.7,75.0,False
+2025-10-31,V2703,Chennai,South,Tanker,3620.6,29.1,43.0,9.9,71.9,False
+2025-10-31,V2704,Cochin,South,Tanker,1671.4,6.6,4.4,26.8,34.0,True
+2025-10-31,V2705,Kolkata,East,General Cargo,2243.0,49.6,60.4,20.1,43.1,False
+2025-10-31,V2706,Kolkata,East,General Cargo,1608.4,18.2,13.2,3.1,31.6,True
+2025-10-31,V2707,Cochin,South,Container,4563.6,9.9,7.9,28.8,116.7,True
+2025-10-31,V2708,Chennai,South,Ro-Ro,8958.2,0.0,28.3,19.1,173.2,True
+2025-11-01,V2709,Mumbai,West,Tanker,3772.5,36.5,42.7,23.6,57.5,False
+2025-11-01,V2710,Cochin,South,Bulk Carrier,231.4,11.0,13.1,15.3,6.5,True
+2025-11-01,V2711,Cochin,South,Bulk Carrier,5348.8,8.3,0.0,21.3,150.5,True
+2025-11-01,V2712,Chennai,South,Bulk Carrier,3031.1,40.6,19.9,16.3,59.8,True
+2025-11-01,V2713,Cochin,South,Tanker,979.3,11.3,21.5,28.7,28.9,True
+2025-11-02,V2714,Chennai,South,Ro-Ro,1611.5,39.6,50.7,33.0,42.7,False
+2025-11-02,V2715,Kandla,West,Bulk Carrier,2340.7,32.4,38.4,30.7,67.6,False
+2025-11-02,V2716,Visakhapatnam,East,Tanker,2547.3,12.9,24.4,14.1,65.0,True
+2025-11-02,V2717,Cochin,South,Ro-Ro,10121.2,19.1,22.6,31.0,230.4,True
+2025-11-03,V2718,Kandla,West,Ro-Ro,3432.4,0.0,7.9,7.4,93.0,True
+2025-11-04,V2719,Mumbai,West,Container,3188.5,8.7,27.1,25.0,86.9,True
+2025-11-04,V2720,Kandla,West,General Cargo,3078.5,13.9,19.9,13.2,68.0,True
+2025-11-04,V2721,Cochin,South,Tanker,3302.5,33.4,42.6,6.4,58.0,False
+2025-11-04,V2722,Cochin,South,Tanker,2425.2,0.0,0.0,14.8,65.4,True
+2025-11-04,V2723,Kandla,West,Ro-Ro,6390.6,43.4,45.3,24.1,138.9,False
+2025-11-05,V2724,Kolkata,East,General Cargo,7744.1,37.7,47.0,18.1,191.6,False
+2025-11-05,V2725,Mumbai,West,Container,2796.8,73.4,69.3,15.9,52.0,False
+2025-11-05,V2726,Cochin,South,Ro-Ro,2123.2,6.9,0.0,29.7,54.8,True
+2025-11-05,V2727,Cochin,South,Tanker,1091.8,49.4,71.4,10.6,18.9,False
+2025-11-05,V2728,Mumbai,West,General Cargo,3692.6,12.5,7.1,18.2,80.7,True
+2025-11-05,V2729,Kandla,West,Bulk Carrier,2892.2,0.0,0.0,11.2,59.2,True
+2025-11-06,V2730,Kandla,West,Bulk Carrier,4864.8,27.5,27.0,15.8,142.4,True
+2025-11-06,V2731,Kandla,West,Tanker,3794.6,35.5,49.0,17.9,111.7,False
+2025-11-06,V2732,Kolkata,East,Tanker,5343.7,30.4,34.1,22.8,154.2,False
+2025-11-06,V2733,Kolkata,East,General Cargo,1625.9,28.5,32.4,24.4,47.2,False
+2025-11-07,V2734,Visakhapatnam,East,Bulk Carrier,4271.0,25.7,17.0,17.5,68.1,True
+2025-11-07,V2735,Visakhapatnam,East,Ro-Ro,6524.5,7.1,8.9,18.7,176.8,True
+2025-11-07,V2736,Kolkata,East,Container,902.2,8.6,29.8,10.0,21.8,True
+2025-11-07,V2737,Mumbai,West,Container,4793.7,33.5,50.1,18.3,120.2,False
+2025-11-07,V2738,Cochin,South,Ro-Ro,2089.9,35.7,32.8,12.8,62.6,False
+2025-11-07,V2739,Mumbai,West,Container,1994.7,22.4,38.4,10.3,39.6,False
+2025-11-07,V2740,Chennai,South,Ro-Ro,2908.8,51.3,38.0,11.3,82.6,False
+2025-11-07,V2741,Kandla,West,Container,2908.6,0.0,37.2,20.9,59.9,False
+2025-11-08,V2742,Kandla,West,Bulk Carrier,1757.8,19.3,3.9,9.7,49.8,True
+2025-11-08,V2743,Cochin,South,Bulk Carrier,5365.6,30.3,26.6,13.0,87.0,True
+2025-11-08,V2744,Cochin,South,Tanker,3361.2,2.7,0.0,17.0,52.4,True
+2025-11-08,V2745,Chennai,South,Tanker,4287.8,2.1,0.0,20.3,78.4,True
+2025-11-08,V2746,Mumbai,West,Tanker,2707.5,34.3,36.5,16.1,54.7,False
+2025-11-08,V2747,Kolkata,East,Container,2782.2,58.3,77.7,18.2,43.1,False
+2025-11-08,V2748,Kolkata,East,Bulk Carrier,3159.2,3.9,16.1,19.1,91.7,True
+2025-11-09,V2749,Mumbai,West,Ro-Ro,2383.8,35.2,0.0,26.5,69.4,True
+2025-11-09,V2750,Cochin,South,Tanker,3936.2,11.7,8.5,11.4,80.3,True
+2025-11-09,V2751,Cochin,South,Bulk Carrier,6024.3,0.0,0.0,27.3,104.0,True
+2025-11-09,V2752,Kandla,West,Container,4431.2,18.3,1.7,10.8,106.2,True
+2025-11-10,V2753,Cochin,South,Container,4945.0,0.0,23.0,20.1,137.3,True
+2025-11-10,V2754,Mumbai,West,Bulk Carrier,1321.8,7.5,0.6,30.4,20.7,True
+2025-11-10,V2755,Kandla,West,Container,3516.1,30.8,27.9,16.9,60.6,True
+2025-11-10,V2756,Chennai,South,General Cargo,6412.4,51.7,46.2,18.3,178.2,False
+2025-11-10,V2757,Chennai,South,General Cargo,1606.1,37.4,22.1,11.1,29.4,True
+2025-11-11,V2758,Cochin,South,Ro-Ro,3620.9,21.7,12.0,13.3,99.7,True
+2025-11-11,V2759,Mumbai,West,Container,2283.1,90.8,85.1,23.4,63.5,False
+2025-11-11,V2760,Cochin,South,Tanker,5980.7,0.8,7.9,13.2,165.2,True
+2025-11-11,V2761,Mumbai,West,Ro-Ro,5488.2,58.4,72.7,16.1,113.7,False
+2025-11-11,V2762,Cochin,South,Bulk Carrier,6709.7,32.4,32.0,10.6,190.1,False
+2025-11-12,V2763,Kandla,West,Container,4026.6,0.0,3.5,23.1,71.5,True
+2025-11-12,V2764,Chennai,South,Ro-Ro,1266.0,60.1,52.5,21.0,33.6,False
+2025-11-12,V2765,Mumbai,West,Container,6268.5,74.6,82.1,22.7,151.8,False
+2025-11-12,V2766,Mumbai,West,Tanker,6075.9,11.4,13.7,5.0,154.7,True
+2025-11-12,V2767,Kolkata,East,Tanker,3146.9,37.8,52.9,11.7,93.7,False
+2025-11-13,V2768,Chennai,South,Ro-Ro,4705.6,37.1,61.4,24.4,78.2,False
+2025-11-13,V2769,Chennai,South,Bulk Carrier,4187.5,19.9,13.5,21.4,88.3,True
+2025-11-13,V2770,Mumbai,West,General Cargo,5529.7,3.1,4.0,14.5,148.4,True
+2025-11-13,V2771,Visakhapatnam,East,Container,1845.0,28.2,22.6,17.2,50.6,True
+2025-11-13,V2772,Visakhapatnam,East,Bulk Carrier,2474.3,31.5,37.8,14.4,42.0,False
+2025-11-13,V2773,Kandla,West,Tanker,2521.0,0.0,0.0,32.0,72.4,True
+2025-11-14,V2774,Cochin,South,Bulk Carrier,3096.7,52.4,45.3,20.0,52.7,False
+2025-11-14,V2775,Cochin,South,Bulk Carrier,1769.3,0.0,0.0,16.4,33.2,True
+2025-11-14,V2776,Kandla,West,General Cargo,4156.9,1.7,9.6,29.8,66.2,True
+2025-11-14,V2777,Cochin,South,Ro-Ro,6028.4,40.1,36.6,20.3,100.7,False
+2025-11-15,V2778,Chennai,South,Container,6602.2,82.7,104.4,16.0,159.4,False
+2025-11-15,V2779,Mumbai,West,Bulk Carrier,3215.5,44.4,46.6,16.5,65.3,False
+2025-11-15,V2780,Mumbai,West,General Cargo,6644.9,29.2,28.8,2.0,173.3,True
+2025-11-15,V2781,Cochin,South,Ro-Ro,3671.4,48.7,47.9,23.9,97.7,False
+2025-11-15,V2782,Kolkata,East,Ro-Ro,826.2,26.7,46.8,13.9,20.7,False
+2025-11-15,V2783,Kolkata,East,Bulk Carrier,2001.6,33.1,27.7,14.5,52.0,True
+2025-11-16,V2784,Chennai,South,Tanker,3897.9,32.7,44.4,2.0,93.0,False
+2025-11-16,V2785,Cochin,South,Container,856.5,0.0,0.0,19.7,16.8,True
+2025-11-16,V2786,Chennai,South,General Cargo,3339.9,1.7,0.0,11.4,81.7,True
+2025-11-16,V2787,Visakhapatnam,East,General Cargo,6283.6,14.6,31.1,18.5,160.4,False
+2025-11-16,V2788,Cochin,South,General Cargo,2277.9,0.0,0.0,21.2,41.8,True
+2025-11-16,V2789,Kolkata,East,Container,6197.0,0.0,0.0,20.1,126.8,True
+2025-11-17,V2790,Cochin,South,Tanker,1851.8,7.7,17.1,19.2,48.1,True
+2025-11-17,V2791,Chennai,South,General Cargo,1865.3,22.6,19.4,16.6,33.4,True
+2025-11-17,V2792,Visakhapatnam,East,General Cargo,4998.7,0.0,0.0,22.4,76.7,True
+2025-11-17,V2793,Chennai,South,Ro-Ro,3947.1,25.0,30.5,10.0,84.1,False
+2025-11-17,V2794,Kolkata,East,Container,3720.6,16.1,27.7,21.2,61.0,True
+2025-11-17,V2795,Chennai,South,Ro-Ro,1778.6,21.6,12.6,16.6,28.7,True
+2025-11-17,V2796,Kandla,West,Container,2954.1,36.5,25.7,26.1,45.8,True
+2025-11-17,V2797,Chennai,South,Ro-Ro,7091.4,17.4,15.1,19.8,148.1,True
+2025-11-17,V2798,Cochin,South,General Cargo,6214.7,26.9,22.4,13.3,162.1,True
+2025-11-17,V2799,Mumbai,West,General Cargo,3620.2,45.1,81.9,17.4,61.2,False
+2025-11-17,V2800,Mumbai,West,Tanker,11224.6,0.0,0.0,18.7,180.4,True
+2025-11-18,V2801,Kolkata,East,Bulk Carrier,1123.3,0.0,0.0,5.2,26.5,True
+2025-11-18,V2802,Kandla,West,General Cargo,5198.4,30.1,24.1,7.7,147.3,True
+2025-11-18,V2803,Kandla,West,Tanker,3422.6,29.1,42.5,3.3,96.4,False
+2025-11-18,V2804,Visakhapatnam,East,Bulk Carrier,2716.3,13.9,3.8,26.7,57.5,True
+2025-11-18,V2805,Kandla,West,Container,7098.2,0.0,0.0,31.2,180.5,True
+2025-11-18,V2806,Mumbai,West,General Cargo,6168.0,0.0,10.5,14.1,165.9,True
+2025-11-18,V2807,Mumbai,West,Container,1348.4,37.9,51.6,20.7,35.6,False
+2025-11-19,V2808,Kolkata,East,Bulk Carrier,2081.5,62.0,62.0,18.7,38.1,False
+2025-11-19,V2809,Mumbai,West,Container,1384.7,30.8,11.6,18.1,24.3,True
+2025-11-19,V2810,Kandla,West,General Cargo,7701.4,19.4,23.6,18.6,195.0,True
+2025-11-19,V2811,Kolkata,East,General Cargo,3424.6,39.2,32.9,17.3,96.6,False
+2025-11-20,V2812,Kandla,West,Ro-Ro,2571.7,24.8,33.6,25.3,72.1,False
+2025-11-20,V2813,Cochin,South,Ro-Ro,6236.1,44.5,15.6,23.3,106.9,True
+2025-11-20,V2814,Mumbai,West,General Cargo,5571.2,0.0,0.0,17.9,90.6,True
+2025-11-20,V2815,Visakhapatnam,East,General Cargo,2344.1,18.2,30.1,20.5,43.5,False
+2025-11-20,V2816,Chennai,South,Tanker,2714.4,12.0,11.5,16.6,41.9,True
+2025-11-20,V2817,Mumbai,West,Tanker,4351.2,0.0,4.0,10.0,126.1,True
+2025-11-21,V2818,Mumbai,West,General Cargo,703.9,60.4,48.2,14.4,13.1,False
+2025-11-21,V2819,Chennai,South,Bulk Carrier,1660.7,26.7,14.4,14.0,36.3,True
+2025-11-21,V2820,Visakhapatnam,East,Tanker,966.4,58.8,38.8,17.5,24.2,False
+2025-11-22,V2821,Kandla,West,General Cargo,3072.8,26.3,10.6,13.7,52.9,True
+2025-11-22,V2822,Cochin,South,Container,4392.2,39.3,49.4,15.0,124.8,False
+2025-11-23,V2823,Kolkata,East,Ro-Ro,2354.8,81.0,84.6,13.0,51.9,False
+2025-11-23,V2824,Cochin,South,Bulk Carrier,2693.6,10.0,20.9,19.6,51.5,True
+2025-11-23,V2825,Mumbai,West,Bulk Carrier,2313.8,39.8,32.9,28.0,69.4,False
+2025-11-24,V2826,Mumbai,West,Ro-Ro,2072.7,34.4,17.0,10.8,47.5,True
+2025-11-24,V2827,Mumbai,West,Ro-Ro,2064.7,9.9,0.0,15.1,37.0,True
+2025-11-24,V2828,Visakhapatnam,East,General Cargo,2062.4,54.6,59.4,24.4,53.0,False
+2025-11-24,V2829,Mumbai,West,Tanker,2072.5,0.0,0.0,18.3,36.6,True
+2025-11-24,V2830,Cochin,South,Bulk Carrier,4009.1,21.9,40.5,2.0,93.3,False
+2025-11-24,V2831,Mumbai,West,Container,2283.7,0.0,0.0,9.7,65.5,True
+2025-11-24,V2832,Cochin,South,Bulk Carrier,3953.6,25.1,8.2,31.4,70.7,True
+2025-11-24,V2833,Cochin,South,Container,4536.2,0.0,0.0,22.3,74.1,True
+2025-11-24,V2834,Chennai,South,Ro-Ro,9919.8,21.9,32.6,28.3,163.3,False
+2025-11-25,V2835,Kolkata,East,General Cargo,4707.9,45.7,40.1,19.2,77.9,False
+2025-11-25,V2836,Visakhapatnam,East,Tanker,1259.3,0.0,0.0,30.0,37.7,True
+2025-11-25,V2837,Chennai,South,Tanker,4268.0,0.0,31.0,14.9,115.2,False
+2025-11-25,V2838,Chennai,South,Tanker,4659.5,0.0,0.9,25.7,124.6,True
+2025-11-25,V2839,Cochin,South,Container,6312.0,32.4,26.1,25.0,149.0,True
+2025-11-25,V2840,Mumbai,West,Tanker,1979.7,74.6,68.1,14.6,36.6,False
+2025-11-26,V2841,Kandla,West,Tanker,2271.8,0.0,15.2,26.2,47.9,True
+2025-11-27,V2842,Visakhapatnam,East,Container,3018.3,47.1,39.1,19.4,63.0,False
+2025-11-27,V2843,Kolkata,East,General Cargo,2402.1,19.7,23.1,10.0,38.8,True
+2025-11-27,V2844,Cochin,South,Container,3934.3,36.8,38.8,16.0,72.8,False
+2025-11-27,V2845,Kandla,West,Ro-Ro,4669.7,32.4,50.2,22.9,132.6,False
+2025-11-27,V2846,Visakhapatnam,East,Tanker,1807.2,27.4,9.3,20.7,40.3,True
+2025-11-27,V2847,Mumbai,West,Ro-Ro,5979.7,61.9,70.6,18.6,113.8,False
+2025-11-27,V2848,Visakhapatnam,East,Bulk Carrier,2098.3,0.0,0.0,27.3,31.6,True
+2025-11-27,V2849,Kolkata,East,Bulk Carrier,5921.1,39.8,46.0,5.9,144.1,False
+2025-11-27,V2850,Kolkata,East,Container,4576.8,19.8,16.1,19.4,121.2,True
+2025-11-27,V2851,Visakhapatnam,East,Container,1207.9,37.7,39.7,12.5,19.0,False
+2025-11-27,V2852,Chennai,South,General Cargo,4165.4,16.3,29.6,11.0,92.9,True
+2025-11-27,V2853,Mumbai,West,Container,4222.1,22.8,18.9,22.6,76.0,True
+2025-11-27,V2854,Mumbai,West,Bulk Carrier,3601.2,11.8,20.4,20.9,67.6,True
+2025-11-27,V2855,Mumbai,West,Ro-Ro,3816.0,43.6,42.7,16.2,103.5,False
+2025-11-27,V2856,Kolkata,East,Ro-Ro,5762.3,16.6,26.0,14.9,145.6,True
+2025-11-27,V2857,Chennai,South,Bulk Carrier,2683.0,0.0,4.4,20.6,50.3,True
+2025-11-28,V2858,Mumbai,West,General Cargo,2792.2,46.8,56.6,11.5,56.8,False
+2025-11-28,V2859,Cochin,South,Ro-Ro,4659.8,49.5,36.0,12.3,109.4,False
+2025-11-28,V2860,Chennai,South,Tanker,2635.1,3.5,5.6,22.2,78.2,True
+2025-11-28,V2861,Chennai,South,Ro-Ro,2247.5,59.0,66.9,17.5,34.9,False
+2025-11-28,V2862,Cochin,South,Tanker,9842.7,18.1,19.1,20.2,198.0,True
+2025-11-28,V2863,Kolkata,East,Container,923.3,0.0,0.0,12.8,17.1,True
+2025-11-28,V2864,Visakhapatnam,East,Tanker,3123.1,20.0,23.6,9.6,47.9,True
+2025-11-29,V2865,Mumbai,West,General Cargo,2290.3,37.7,43.8,19.0,37.2,False
+2025-11-29,V2866,Cochin,South,Container,1518.4,28.3,48.4,20.9,39.2,False
+2025-11-29,V2867,Chennai,South,Bulk Carrier,6081.3,40.8,47.9,11.5,108.6,False
+2025-11-29,V2868,Visakhapatnam,East,Container,5882.5,0.0,14.8,15.4,90.6,True
+2025-11-29,V2869,Kandla,West,Container,4358.6,21.3,22.8,17.0,120.6,True
+2025-11-29,V2870,Kandla,West,Tanker,1469.1,4.8,20.8,17.4,39.2,True
+2025-11-29,V2871,Kolkata,East,Tanker,2028.1,27.7,34.3,17.6,41.8,False
+2025-11-29,V2872,Mumbai,West,General Cargo,5352.5,77.5,68.4,15.6,90.8,False
+2025-11-29,V2873,Kandla,West,Container,6790.9,36.2,47.3,35.7,168.7,False
+2025-11-30,V2874,Kolkata,East,Bulk Carrier,2960.0,0.0,21.1,17.5,77.5,True
+2025-11-30,V2875,Kolkata,East,General Cargo,3231.8,48.9,65.4,26.3,53.4,False
+2025-11-30,V2876,Kolkata,East,General Cargo,3404.2,15.4,9.1,23.4,91.8,True
+2025-11-30,V2877,Chennai,South,Ro-Ro,3455.4,2.6,0.0,8.5,59.8,True
+2025-11-30,V2878,Kolkata,East,General Cargo,5354.7,46.4,44.8,19.1,93.7,False
+2025-11-30,V2879,Kandla,West,Bulk Carrier,5607.6,0.0,28.8,21.6,163.4,True
+2025-12-01,V2880,Cochin,South,General Cargo,5646.8,8.5,0.0,27.6,140.6,True
+2025-12-01,V2881,Chennai,South,Bulk Carrier,2131.9,11.4,3.7,21.9,62.9,True
+2025-12-01,V2882,Mumbai,West,Ro-Ro,2055.4,52.4,57.2,13.9,52.0,False
+2025-12-01,V2883,Mumbai,West,Bulk Carrier,6995.8,33.8,56.6,20.6,142.0,False
+2025-12-02,V2884,Visakhapatnam,East,Tanker,1637.6,43.7,47.0,3.4,41.2,False
+2025-12-02,V2885,Cochin,South,Container,1999.0,10.9,10.0,18.9,52.5,True
+2025-12-02,V2886,Kolkata,East,Container,2802.4,0.0,0.0,21.4,81.5,True
+2025-12-02,V2887,Cochin,South,Ro-Ro,2682.4,32.2,37.9,16.0,49.8,False
+2025-12-02,V2888,Cochin,South,Tanker,1954.3,1.8,11.0,23.1,58.1,True
+2025-12-02,V2889,Mumbai,West,Bulk Carrier,2305.0,3.6,0.0,16.0,47.7,True
+2025-12-02,V2890,Visakhapatnam,East,Bulk Carrier,2516.6,43.1,49.9,18.3,39.8,False
+2025-12-02,V2891,Kandla,West,Ro-Ro,4281.3,58.5,70.1,15.0,116.4,False
+2025-12-02,V2892,Mumbai,West,Bulk Carrier,2883.9,38.7,18.5,21.5,43.7,True
+2025-12-02,V2893,Cochin,South,Tanker,3834.6,38.5,46.5,16.8,96.8,False
+2025-12-02,V2894,Mumbai,West,Container,3607.6,0.0,0.7,7.0,92.4,True
+2025-12-03,V2895,Chennai,South,General Cargo,2444.9,11.8,0.0,17.4,56.8,True
+2025-12-03,V2896,Kandla,West,Tanker,2240.2,53.4,44.1,17.0,36.0,False
+2025-12-03,V2897,Kandla,West,Container,1500.2,64.6,62.6,15.0,40.2,False
+2025-12-03,V2898,Visakhapatnam,East,Container,728.2,15.0,23.2,18.6,19.1,True
+2025-12-03,V2899,Visakhapatnam,East,Bulk Carrier,6868.3,0.0,0.0,13.7,171.7,True
+2025-12-04,V2900,Cochin,South,Ro-Ro,2465.3,18.7,12.2,23.6,70.6,True
+2025-12-04,V2901,Mumbai,West,General Cargo,2420.4,31.8,43.3,15.9,40.2,False
+2025-12-04,V2902,Visakhapatnam,East,Container,4169.2,31.2,9.7,11.2,97.0,True
+2025-12-04,V2903,Kandla,West,Bulk Carrier,2999.6,2.6,0.0,16.4,89.1,True
+2025-12-05,V2904,Chennai,South,Tanker,6947.4,0.0,10.0,10.8,130.3,True
+2025-12-05,V2905,Kolkata,East,Tanker,1425.5,0.0,0.0,16.8,24.7,True
+2025-12-05,V2906,Kandla,West,Tanker,3271.0,5.9,0.0,11.6,77.0,True
+2025-12-05,V2907,Kolkata,East,Ro-Ro,2630.3,0.0,0.0,16.3,63.5,True
+2025-12-05,V2908,Kolkata,East,Bulk Carrier,5752.1,0.0,17.2,23.9,91.9,True
+2025-12-06,V2909,Mumbai,West,Bulk Carrier,1223.7,0.0,0.0,20.4,31.8,True
+2025-12-06,V2910,Chennai,South,General Cargo,3761.9,9.2,0.0,16.1,107.3,True
+2025-12-06,V2911,Mumbai,West,Bulk Carrier,3623.1,37.6,37.6,23.6,71.9,False
+2025-12-06,V2912,Mumbai,West,Bulk Carrier,6878.5,8.9,7.3,21.8,118.6,True
+2025-12-06,V2913,Kandla,West,Ro-Ro,1914.5,0.0,0.0,20.7,35.3,True
+2025-12-07,V2914,Kolkata,East,Ro-Ro,2129.5,0.0,6.6,18.7,61.5,True
+2025-12-07,V2915,Mumbai,West,General Cargo,3036.4,11.1,21.2,17.6,69.9,True
+2025-12-07,V2916,Kolkata,East,Bulk Carrier,3305.5,42.2,41.1,14.9,58.5,False
+2025-12-07,V2917,Kandla,West,Tanker,1776.8,0.7,8.5,26.0,51.5,True
+2025-12-08,V2918,Kandla,West,Tanker,1721.5,37.6,41.5,13.6,31.5,False
+2025-12-08,V2919,Mumbai,West,Container,2300.7,11.9,8.7,13.5,60.6,True
+2025-12-08,V2920,Chennai,South,Tanker,2784.4,14.3,16.3,25.0,65.8,True
+2025-12-08,V2921,Cochin,South,General Cargo,2606.1,33.1,40.4,9.0,73.5,False
+2025-12-08,V2922,Mumbai,West,Bulk Carrier,1719.9,20.2,20.1,9.3,34.2,True
+2025-12-09,V2923,Kolkata,East,Bulk Carrier,4307.1,0.0,0.0,15.9,82.3,True
+2025-12-09,V2924,Mumbai,West,Bulk Carrier,3880.5,0.0,3.2,8.0,97.7,True
+2025-12-09,V2925,Kolkata,East,Ro-Ro,1584.3,59.0,58.4,11.1,43.0,False
+2025-12-10,V2926,Visakhapatnam,East,Container,2075.3,0.0,16.9,35.8,53.5,True
+2025-12-10,V2927,Cochin,South,Tanker,4843.2,20.5,29.5,20.7,133.3,True
+2025-12-10,V2928,Kolkata,East,Bulk Carrier,5011.3,10.8,6.7,20.2,123.6,True
+2025-12-10,V2929,Mumbai,West,Ro-Ro,3691.2,0.0,3.7,28.0,77.2,True
+2025-12-10,V2930,Kandla,West,General Cargo,7112.8,21.9,27.8,21.4,203.2,True
+2025-12-10,V2931,Cochin,South,General Cargo,2214.1,7.9,7.6,17.7,45.8,True
+2025-12-10,V2932,Chennai,South,Container,3693.4,17.0,12.9,9.4,99.3,True
+2025-12-11,V2933,Kandla,West,Container,4064.8,17.2,29.8,16.0,106.7,True
+2025-12-11,V2934,Chennai,South,Container,3940.5,0.0,10.6,25.7,65.6,True
+2025-12-11,V2935,Mumbai,West,Container,4553.5,11.0,22.2,19.3,107.0,True
+2025-12-11,V2936,Chennai,South,Bulk Carrier,9032.5,39.2,48.7,20.8,249.4,False
+2025-12-11,V2937,Chennai,South,Ro-Ro,3204.9,2.6,17.6,16.8,53.9,True
+2025-12-11,V2938,Kolkata,East,Container,2530.7,16.6,15.8,19.3,41.5,True
+2025-12-11,V2939,Visakhapatnam,East,General Cargo,4218.2,17.6,15.4,18.5,118.7,True
+2025-12-11,V2940,Kolkata,East,Container,3472.5,6.1,0.0,13.5,64.8,True
+2025-12-11,V2941,Mumbai,West,Container,3936.3,26.4,40.7,23.3,75.7,False
+2025-12-11,V2942,Chennai,South,Ro-Ro,5192.6,61.3,71.3,16.4,116.3,False
+2025-12-12,V2943,Chennai,South,Container,2758.4,11.7,0.0,11.3,55.4,True
+2025-12-12,V2944,Kolkata,East,Container,4515.1,0.0,0.0,14.9,83.7,True
+2025-12-12,V2945,Mumbai,West,Ro-Ro,5330.4,23.2,0.0,18.4,152.6,True
+2025-12-12,V2946,Mumbai,West,Bulk Carrier,523.0,60.1,55.5,12.7,15.3,False
+2025-12-12,V2947,Visakhapatnam,East,Ro-Ro,3331.8,16.9,5.1,17.9,73.9,True
+2025-12-13,V2948,Cochin,South,Ro-Ro,2650.8,0.0,24.5,16.9,47.6,True
+2025-12-13,V2949,Kandla,West,Container,1285.4,76.9,88.1,27.0,35.4,False
+2025-12-13,V2950,Kandla,West,Ro-Ro,8000.4,27.7,27.5,13.2,198.4,True
+2025-12-13,V2951,Chennai,South,Tanker,1653.8,0.0,26.3,19.3,47.4,True
+2025-12-13,V2952,Chennai,South,Bulk Carrier,4081.9,0.0,0.0,13.1,116.9,True
+2025-12-13,V2953,Kolkata,East,Tanker,2388.6,49.0,65.3,18.5,58.3,False
+2025-12-13,V2954,Kandla,West,Bulk Carrier,2898.0,20.4,22.6,18.7,76.7,True
+2025-12-13,V2955,Mumbai,West,General Cargo,3042.0,37.5,46.2,19.9,61.1,False
+2025-12-14,V2956,Visakhapatnam,East,General Cargo,1430.7,29.2,33.0,11.3,22.4,False
+2025-12-14,V2957,Chennai,South,Tanker,5282.7,11.6,15.3,12.0,87.9,True
+2025-12-14,V2958,Kandla,West,Ro-Ro,3313.1,17.9,26.9,28.4,64.7,True
+2025-12-14,V2959,Visakhapatnam,East,Ro-Ro,865.1,25.0,8.1,11.2,21.9,True
+2025-12-14,V2960,Mumbai,West,Container,2033.6,16.8,12.4,16.9,32.1,True
+2025-12-14,V2961,Kolkata,East,Ro-Ro,1594.8,8.1,28.7,20.4,46.8,True
+2025-12-15,V2962,Chennai,South,Ro-Ro,1423.1,0.0,1.6,23.5,38.6,True
+2025-12-15,V2963,Chennai,South,General Cargo,2673.5,0.0,0.0,18.6,52.9,True
+2025-12-15,V2964,Chennai,South,General Cargo,2545.8,33.2,27.0,22.1,47.2,True
+2025-12-15,V2965,Mumbai,West,Ro-Ro,1896.2,20.1,30.9,28.7,39.4,False
+2025-12-15,V2966,Cochin,South,Tanker,1210.6,50.0,32.8,22.3,24.9,False
+2025-12-15,V2967,Kandla,West,General Cargo,2199.1,65.3,51.0,14.3,47.2,False
+2025-12-15,V2968,Kandla,West,Tanker,5202.5,0.0,9.7,19.4,152.9,True
+2025-12-15,V2969,Visakhapatnam,East,General Cargo,2234.1,26.1,28.0,14.3,57.2,True
+2025-12-15,V2970,Kolkata,East,Ro-Ro,3668.1,53.1,61.9,21.6,74.0,False
+2025-12-16,V2971,Kolkata,East,Bulk Carrier,2129.1,42.7,52.7,25.5,43.4,False
+2025-12-16,V2972,Mumbai,West,Tanker,3333.5,21.0,17.3,21.5,52.9,True
+2025-12-16,V2973,Visakhapatnam,East,Bulk Carrier,2642.2,0.0,12.0,24.1,73.6,True
+2025-12-17,V2974,Mumbai,West,Tanker,2299.1,0.0,9.4,17.4,60.6,True
+2025-12-17,V2975,Mumbai,West,Ro-Ro,3190.4,0.0,0.0,10.7,93.3,True
+2025-12-18,V2976,Visakhapatnam,East,Tanker,2063.7,22.4,19.3,11.5,36.3,True
+2025-12-18,V2977,Visakhapatnam,East,Bulk Carrier,4127.6,7.0,0.0,17.8,120.8,True
+2025-12-18,V2978,Chennai,South,Container,1351.4,53.7,58.1,4.6,38.4,False
+2025-12-18,V2979,Chennai,South,Bulk Carrier,5206.9,2.0,0.0,17.9,129.0,True
+2025-12-18,V2980,Kolkata,East,General Cargo,6144.4,44.1,52.8,12.8,153.9,False
+2025-12-19,V2981,Cochin,South,Container,4747.3,51.9,32.7,14.3,92.6,False
+2025-12-19,V2982,Chennai,South,General Cargo,5456.6,39.7,55.0,12.4,114.2,False
+2025-12-19,V2983,Kandla,West,Tanker,2540.5,60.0,51.9,19.6,72.7,False
+2025-12-19,V2984,Chennai,South,Bulk Carrier,2818.8,26.0,39.4,24.9,52.7,False
+2025-12-19,V2985,Chennai,South,General Cargo,3488.4,39.8,36.4,21.1,64.1,False
+2025-12-19,V2986,Kolkata,East,Tanker,2150.3,0.0,0.0,12.6,43.3,True
+2025-12-19,V2987,Visakhapatnam,East,Container,4309.1,39.8,19.3,15.2,69.9,True
+2025-12-20,V2988,Cochin,South,Tanker,1695.1,31.4,7.7,18.1,50.5,True
+2025-12-20,V2989,Visakhapatnam,East,General Cargo,1701.8,33.2,28.9,17.1,34.2,True
+2025-12-20,V2990,Chennai,South,General Cargo,2249.4,0.0,0.0,24.5,54.4,True
+2025-12-20,V2991,Chennai,South,Ro-Ro,2626.7,0.0,0.0,7.5,47.9,True
+2025-12-20,V2992,Visakhapatnam,East,Tanker,1889.3,46.9,71.4,18.8,42.0,False
+2025-12-21,V2993,Chennai,South,Ro-Ro,2329.8,46.5,68.9,9.3,40.6,False
+2025-12-21,V2994,Mumbai,West,Container,1888.7,45.9,66.8,26.8,51.4,False
+2025-12-21,V2995,Mumbai,West,Bulk Carrier,2600.5,0.0,0.0,30.3,59.2,True
+2025-12-21,V2996,Visakhapatnam,East,Bulk Carrier,3266.2,35.6,24.8,11.6,96.2,True
+2025-12-21,V2997,Mumbai,West,General Cargo,4072.7,10.9,9.1,26.0,99.4,True
+2025-12-21,V2998,Kandla,West,Container,7118.9,23.6,24.4,18.3,171.7,True
+2025-12-21,V2999,Kolkata,East,General Cargo,2441.7,42.4,30.4,15.2,72.6,False
+2025-12-21,V3000,Chennai,South,Bulk Carrier,4158.3,27.2,35.6,29.5,96.2,False
+2025-12-22,V3001,Kolkata,East,Bulk Carrier,1323.1,21.2,5.2,13.2,32.8,True
+2025-12-22,V3002,Kolkata,East,Container,6123.1,68.6,86.1,27.4,154.7,False
+2025-12-22,V3003,Mumbai,West,Bulk Carrier,3494.7,3.0,29.0,9.4,80.0,True
+2025-12-22,V3004,Visakhapatnam,East,Bulk Carrier,2444.5,0.0,9.8,12.1,71.5,True
+2025-12-22,V3005,Mumbai,West,General Cargo,5042.6,51.8,55.7,17.0,119.1,False
+2025-12-22,V3006,Kolkata,East,Container,1191.0,63.6,62.9,20.9,28.7,False
+2025-12-23,V3007,Kolkata,East,Ro-Ro,1495.9,46.3,40.4,23.6,33.5,False
+2025-12-23,V3008,Visakhapatnam,East,Container,3043.7,30.9,30.9,20.9,60.5,False
+2025-12-23,V3009,Kolkata,East,Tanker,3358.2,35.2,33.5,24.5,50.7,False
+2025-12-23,V3010,Kolkata,East,Bulk Carrier,3940.3,5.0,10.2,23.4,68.4,True
+2025-12-23,V3011,Chennai,South,Ro-Ro,1971.7,39.8,42.8,25.8,38.8,False
+2025-12-24,V3012,Cochin,South,Ro-Ro,2214.3,36.9,34.9,19.3,42.1,False
+2025-12-24,V3013,Cochin,South,Tanker,6125.7,0.0,0.0,31.6,157.8,True
+2025-12-24,V3014,Chennai,South,General Cargo,4255.5,46.4,38.1,14.5,107.4,False
+2025-12-24,V3015,Cochin,South,General Cargo,6837.8,71.9,69.1,21.0,197.0,False
+2025-12-24,V3016,Kolkata,East,Bulk Carrier,7176.5,21.9,25.9,17.2,160.7,True
+2025-12-24,V3017,Cochin,South,General Cargo,2153.0,16.3,19.5,12.0,42.4,True
+2025-12-25,V3018,Chennai,South,Ro-Ro,2355.4,24.2,41.7,18.6,57.9,False
+2025-12-25,V3019,Kolkata,East,Tanker,3550.8,97.4,97.8,25.5,101.5,False
+2025-12-25,V3020,Chennai,South,Bulk Carrier,2430.9,23.3,5.2,21.1,58.8,True
+2025-12-25,V3021,Cochin,South,Container,5476.7,17.0,0.3,26.6,156.0,True
+2025-12-25,V3022,Cochin,South,General Cargo,3502.5,46.1,87.3,10.1,63.9,False
+2025-12-25,V3023,Kandla,West,General Cargo,3999.8,0.0,2.0,27.2,113.7,True
+2025-12-26,V3024,Mumbai,West,Bulk Carrier,10207.0,19.9,10.4,17.0,247.0,True
+2025-12-26,V3025,Visakhapatnam,East,Tanker,1969.3,6.7,7.9,15.5,34.5,True
+2025-12-26,V3026,Visakhapatnam,East,Bulk Carrier,4197.3,66.4,70.9,21.2,123.9,False
+2025-12-26,V3027,Cochin,South,General Cargo,2777.5,35.3,34.3,19.0,70.3,False
+2025-12-26,V3028,Mumbai,West,Ro-Ro,2975.9,14.0,23.2,18.2,47.4,True
+2025-12-26,V3029,Chennai,South,Tanker,3538.7,53.5,54.6,9.3,59.5,False
+2025-12-26,V3030,Cochin,South,Container,2614.2,0.0,0.3,18.5,60.8,True
+2025-12-26,V3031,Chennai,South,Tanker,5790.7,10.0,11.0,19.5,98.3,True
+2025-12-26,V3032,Kolkata,East,Bulk Carrier,4336.4,62.7,73.7,22.4,109.2,False
+2025-12-27,V3033,Cochin,South,Container,2448.6,23.9,24.8,23.0,48.2,True
+2025-12-27,V3034,Cochin,South,Tanker,6604.4,7.9,0.0,9.8,128.5,True
+2025-12-27,V3035,Kandla,West,Container,4621.5,36.2,22.9,19.7,128.5,True
+2025-12-27,V3036,Kolkata,East,Bulk Carrier,3062.5,78.3,83.2,12.9,57.6,False
+2025-12-27,V3037,Chennai,South,Container,4373.1,54.3,54.5,27.1,93.6,False
+2025-12-28,V3038,Kolkata,East,Tanker,2459.0,33.2,43.5,19.2,71.4,False
+2025-12-28,V3039,Mumbai,West,Container,3003.1,9.5,18.0,10.8,75.8,True
+2025-12-28,V3040,Mumbai,West,Ro-Ro,4148.3,17.6,21.5,19.0,64.8,True
+2025-12-28,V3041,Kandla,West,Ro-Ro,3837.4,0.0,0.0,17.3,95.6,True
+2025-12-28,V3042,Chennai,South,Ro-Ro,2456.2,32.7,23.9,27.8,43.0,True
+2025-12-28,V3043,Kandla,West,Ro-Ro,4259.0,15.5,14.4,25.4,74.4,True
+2025-12-29,V3044,Kolkata,East,General Cargo,7356.8,34.2,29.8,18.7,150.6,True
+2025-12-29,V3045,Kandla,West,Container,3957.0,0.0,0.0,17.3,97.6,True
+2025-12-29,V3046,Kandla,West,General Cargo,3695.0,0.0,0.0,17.0,89.1,True
+2025-12-30,V3047,Cochin,South,Bulk Carrier,4146.5,29.3,31.3,11.9,118.4,False
+2025-12-30,V3048,Chennai,South,Ro-Ro,2390.9,27.1,18.4,25.0,66.4,True
+2025-12-30,V3049,Mumbai,West,Container,3211.9,0.0,0.0,13.4,52.7,True
+2025-12-30,V3050,Kolkata,East,Container,8256.6,0.0,0.0,20.8,140.8,True
+2025-12-30,V3051,Kolkata,East,Tanker,3085.7,34.2,46.1,23.9,86.4,False
+2025-12-30,V3052,Mumbai,West,Container,3590.5,0.0,0.0,20.0,96.8,True
+2025-12-30,V3053,Kolkata,East,Bulk Carrier,2337.4,0.0,3.1,16.3,60.8,True
+2025-12-30,V3054,Kandla,West,Bulk Carrier,2640.9,0.0,0.0,17.8,52.2,True
+2025-12-30,V3055,Cochin,South,Container,1563.2,28.7,33.6,25.0,33.9,False
+2025-12-30,V3056,Visakhapatnam,East,Container,6015.7,43.4,38.2,17.6,103.0,False
+2025-12-31,V3057,Kolkata,East,General Cargo,3394.7,63.8,85.6,23.2,80.1,False
+2025-12-31,V3058,Visakhapatnam,East,Ro-Ro,3193.0,20.4,14.3,12.9,82.4,True
+2025-12-31,V3059,Cochin,South,Container,6994.6,37.6,41.3,31.2,183.4,False
+2025-12-31,V3060,Kandla,West,Bulk Carrier,8450.3,9.9,21.5,24.0,199.0,True
+2025-12-31,V3061,Visakhapatnam,East,Ro-Ro,6314.4,6.0,1.1,13.6,138.1,True
+2025-12-31,V3062,Chennai,South,Container,3563.1,0.6,4.0,23.3,95.9,True
