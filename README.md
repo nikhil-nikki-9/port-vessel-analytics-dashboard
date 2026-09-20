@@ -41,7 +41,7 @@ python etl_pipeline.py
 
 ## AI Agent
 
-`ai_agent_gemini_v2.py` is a small GenAI-powered step that runs after the pipeline: it reads the validation report plus summary statistics pulled from the database, sends them to Google's Gemini API, and generates a plain-English data quality and insights summary (`insights.md`) — automating the step of manually reading through numbers to write a stakeholder-facing report.
+`ai_agent_gemini_v2.py` is a small GenAI-powered step that runs after the pipeline: it reads the validation report plus summary statistics pulled from the database, sends them to Google's Gemini API, and generates a plain English data quality and insights summary (`insights.md`) automating the step of manually reading through numbers to write a stakeholder-facing report.
 
 Run it with:
 ```
