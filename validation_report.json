@@ -1,0 +1,68 @@
+{
+  "timestamp": "2026-09-19T20:21:47.876480",
+  "row_count": 2062,
+  "checks": [
+    {
+      "check": "required_columns_present",
+      "passed": true,
+      "detail": "All present",
+      "critical": true
+    },
+    {
+      "check": "no_nulls_VesselID",
+      "passed": true,
+      "detail": "0 null value(s)",
+      "critical": true
+    },
+    {
+      "check": "no_nulls_Port",
+      "passed": true,
+      "detail": "0 null value(s)",
+      "critical": true
+    },
+    {
+      "check": "no_nulls_Date",
+      "passed": true,
+      "detail": "0 null value(s)",
+      "critical": true
+    },
+    {
+      "check": "no_duplicate_operations",
+      "passed": true,
+      "detail": "0 duplicate row(s)",
+      "critical": false
+    },
+    {
+      "check": "cargo_volume_non_negative",
+      "passed": true,
+      "detail": "0 negative value(s)",
+      "critical": true
+    },
+    {
+      "check": "delay_non_negative",
+      "passed": true,
+      "detail": "0 negative value(s)",
+      "critical": true
+    },
+    {
+      "check": "dwell_time_in_expected_range",
+      "passed": true,
+      "detail": "0 out-of-range value(s)",
+      "critical": false
+    },
+    {
+      "check": "port_names_recognized",
+      "passed": true,
+      "detail": "0 unrecognized port name(s)",
+      "critical": true
+    },
+    {
+      "check": "dates_within_sane_range",
+      "passed": true,
+      "detail": "All dates between 2020-2035",
+      "critical": true
+    }
+  ],
+  "critical_failures": 0,
+  "status": "PASSED"
+}
