@@ -5,7 +5,7 @@ An interactive Power BI dashboard analyzing vessel arrivals, cargo throughput, a
 
 ## Overview
 
-The dashboard tracks vessel-level operations data — arrival delays, cargo volume, dwell time, and fuel consumption — across Mumbai, Chennai, Kolkata, Kandla, Visakhapatnam, and Cochin over a full year. It's designed to answer questions like: which ports are consistently delayed, how does cargo volume trend month over month, and how is vessel traffic distributed across regions and vessel types.
+The dashboard tracks vessel-level operations data arrival delays, cargo volume, dwell time, and fuel consumption across Mumbai, Chennai, Kolkata, Kandla, Visakhapatnam, and Cochin over a full year. It's designed to answer questions like: which ports are consistently delayed, how does cargo volume trend month over month, and how is vessel traffic distributed across regions and vessel types.
 
 ## Dashboard
 
@@ -67,7 +67,7 @@ Power BI Desktop, DAX, Power Query
 
 ## Dataset
 
-The dataset (`port_vessel_operations.csv`) is synthetically generated to simulate realistic port and vessel operations data, used here purely to practice the analytics and BI workflow — it does not represent real operational records.
+The dataset (`port_vessel_operations.csv`) is synthetically generated to simulate realistic port and vessel operations data, used here purely to practice the analytics and BI workflow it does not represent real operational records.
 
 ## Files
 
